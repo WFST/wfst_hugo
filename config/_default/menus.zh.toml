@@ -1,0 +1,82 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "首页"
+url = ""
+weight = 1
+
+[[main]]
+name = "关于"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "项目"
+url = "project/"
+weight = 3
+
+[[main]]
+name = "Blog"
+url = "blog/"
+weight = 4
+
+[[main]]
+weight = 5
+name = "更多"
+hasChildren = true
+
+  [[main]]
+  parent = "更多"
+  name = "Service"
+  url = "service/"
+  weight = 1
+
+  [[main]]
+  parent = "更多"
+  name = "价格"
+  url = "pricing/"
+  weight = 2
+
+  [[main]]
+  parent = "更多"
+  name = "FAQ"
+  url = "faq/"
+  weight = 3
+  
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 6
+
+
+# footer menu
+[[footer]]
+name = "About"
+url = "about/"
+weight = 2
+
+[[footer]]
+name = "Project"
+url = "project/"
+weight = 3
+
+[[footer]]
+name = "Service"
+url = "service/"
+weight = 4
+
+[[footer]]
+name = "Pricing"
+url = "pricing/"
+weight = 5
+
+[[footer]]
+name = "FAQ"
+url = "faq/"
+weight = 6
+
+[[footer]]
+name = "Contact"
+url = "contact/"
+weight = 7
