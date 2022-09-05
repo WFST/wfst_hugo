@@ -5,4 +5,19 @@
     }
 }
 
+// change the font size of menu
+.navigation {
+    .navbar {
+      .navbar-nav {
+        a {  
+          font : {
+            weight: 500;
+            size: 17px;
+          }
+        }
+        }
+    }
+  }
 
+
+  
