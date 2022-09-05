@@ -1,17 +1,17 @@
 ---
-title: "E"
+title: "The first discovery of the hysteresis effect of optical iron emission in the TDE event"
+author: admin
 date: 2022-09-02T22:41:09+08:00
 bg_image: "AGN/d93038b4-6204-4563-a247-005637551bfe.png"
+categories: ["News"]
+tags: ["hysteresis effect", "TDE"]
 draft: false
+type: "post"
 ---
-
-
-
-lalalala
 
 A team leaded by Prof. Tinggui Wang from the Department of astronomy, University of science and technology of China first detected the hysteresis effect of optical iron emission in the TDE event. The paper was published online in the international famous academic journal the Astrophysical Journal Letters on January 28, 2021.
 
-![img](AGN/d93038b4-6204-4563-a247-005637551bfe.png)
+![img](TDE/d93038b4-6204-4563-a247-005637551bfe.png)
 
 **Figure 1. the ongoing TDE event in AGNs. (schematic, from network)**
 
@@ -27,18 +27,18 @@ By carefully analyzing the spectra of ps1-10adi at different stages, we found an
 
 
 
-![img](AGN/0a393a5f-e296-4209-a92c-8c200758ffe9.jpg)
+![img](TDE/0a393a5f-e296-4209-a92c-8c200758ffe9.jpg)
 
 **Figure 2: a demonstration of hysteresis effect of Fe II response in TDE event**
 
 This work further proves that TDE events in AGN have important research value for understanding black hole accretion system. The Wide Field Survey Telescope (WFST) built by USTC and Purple Mountain Observatory is expected to find a large number of such events, which is expected to strongly promote the development of this field. The first author and co corresponding author of the paper is Dr. Zhicheng He, a special associate researcher of the Department of astronomy. Dr. Jiang Ning, associate researcher of the Department of astronomy, and Professor Wang Tinggui are the co-corresponding authors of the paper. This research is supported by the key Youth Innovation Fund of China University of science and technology, the National Natural Science Foundation of China and the national key R & D projects of the Ministry of science and technology.
 
-
+---
 
 Links to related papers:
 
-[https://iopscience.iop.org/article/10.3847/2041-8213/abd7fd](http://wfst.ustc.edu.cn/Latestresearch/系列工作相关论文地址： https:/iopscience.iop.org/article/10.3847/2041-8213/abd7fd https:/iopscience.iop.org/article/10.3847/1538-4357/aaf6b2 https:/iopscience.iop.org/article/10.3847/1538-4357/aa93f5)
+- [An Extraordinary Response of Iron Emission to the Central Outburst in a Tidal Disruption Event Candidate<br/>*--Zhicheng He et al 2021 ApJL 907 L29*](https:/iopscience.iop.org/article/10.3847/2041-8213/abd7fd)
 
-https://iopscience.iop.org/article/10.3847/1538-4357/aaf6b2
+- [Infrared Echo and Late-stage Rebrightening of Nuclear Transient Ps1-10adi: Exploring the Torus with Tidal Disruption Events in Active Galactic Nuclei<br/>*--Ning Jiang et al 2019 ApJ 871 15*](https://iopscience.iop.org/article/10.3847/1538-4357/aaf6b2)
 
-https://iopscience.iop.org/article/10.3847/1538-4357/aa93f5 
+- [Mid-infrared Flare of TDE Candidate PS16dtm: Dust Echo and Implications for the Spectral Evolution<br/>*--Ning Jiang et al 2017 ApJ 850 63*](https://iopscience.iop.org/article/10.3847/1538-4357/aa93f5)

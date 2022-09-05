@@ -1,11 +1,11 @@
 ---
 title: "How To Wear Bright Shoes"
 date: 2018-09-24T11:07:10+06:00
-author: [ "Mark Dinn", "John Doe" ]
-image : "images/blog/blog-post-2.jpg"
+author: John Doe
+image : "images/blog/blog-post-6.jpg"
 bg_image: "images/feature-bg.jpg"
-categories: ["Artificial Intelligence"]
-tags: ["Advice","Retro"]
+categories: ["to-be-del"]
+tags: ["News","Retro","AI","Company"]
 description: "this is meta description"
 draft: false
 type: "post"
@@ -15,7 +15,7 @@ type: "post"
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
 vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem
 ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis
-a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere. </p>
+a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere. 
 
 > Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes
 nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error
@@ -26,7 +26,7 @@ explicabo sed alias fugit amet animi molestias ipsum maiores. Praesentium sint, 
 inventore est, dolor corporis quis doloremque nostrum, eos velit culpa quasi labore. Provident laborum porro
 nihil iste, magnam officia nemo praesentium autem, libero vel officiis. Omnis pariatur nam voluptatem voluptate
 at officia repellat ea beatae eligendi? Mollitia error saepe, aperiam facere. Optio maiores deleniti veritatis
-eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Impedit, tempore.</p>
+eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Impedit, tempore.
 
 ```
   .blog-classic {
@@ -49,4 +49,4 @@ ex obcaecati voluptatum nesciunt incidunt culpa provident illum soluta. Voluptas
 perspiciatis neque fugiat, magnam natus repellendus praesentium eum voluptatum, alias incidunt, tempora
 reprehenderit recusandae et numquam itaque ratione dolor voluptatibus in commodi ut! Neque deserunt nostrum
 commodi dolor natus quo, non vitae deleniti, vero voluptatem error aspernatur veniam expedita numquam amet quia
-in dolores velit esse molestiae! Iusto architecto accusantium quisquam recusandae quod vero quia.</p>
+in dolores velit esse molestiae! Iusto architecto accusantium quisquam recusandae quod vero quia.
