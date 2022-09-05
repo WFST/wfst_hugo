@@ -1,4 +1,4 @@
-############# English navigation ##############
+############# Chinese navigation ##############
 
 # main menu
 [[main]]
@@ -10,44 +10,151 @@ weight = 1
 name = "关于"
 url = "about/"
 weight = 2
-
-[[main]]
-name = "项目"
-url = "project/"
-weight = 3
-
-[[main]]
-name = "Blog"
-url = "blog/"
-weight = 4
-
-[[main]]
-weight = 5
-name = "更多"
 hasChildren = true
 
   [[main]]
-  parent = "更多"
-  name = "Service"
-  url = "service/"
+  parent = "关于"
+  name = "什么是WFST？"
+  url = "https://gethugothemes.com/"
   weight = 1
 
   [[main]]
-  parent = "更多"
-  name = "价格"
-  url = "pricing/"
+  parent = "关于"
+  name = "望远镜"
+  url = "project/"
   weight = 2
 
   [[main]]
-  parent = "更多"
-  name = "FAQ"
-  url = "faq/"
+  parent = "关于"
+  name = "台址"
+  url = "project/"
   weight = 3
+
+  [[main]]
+  parent = "关于"
+  name = "相机"
+  url = "project/"
+  weight = 4
+
+  [[main]]
+  parent = "关于"
+  name = "团队"
+  url = "project/"
+  weight = 5
+
+[[main]]
+name = "科学"
+url = "project/"
+weight = 3
+hasChildren = true
+
+  [[main]]
+  parent ="科学" 
+  name = "时域科学"
+  url = "project/"
+  weight = 1
+  
+
+  [[main]]
+  parent = "科学"
+  name = "太阳系天体"
+  url = "project/"
+  weight = 2
+  
+
+  [[main]]
+  parent = "科学"
+  name = "银河系及卫星星系"
+  weight = 3
+  url = "project/"
+
+  [[main]] 
+  parent = "科学"
+  name = "星系形成演化与宇宙学"
+  weight = 4
+  url = "project/"
+
+[[main]]
+name = "巡天及数据"
+url = "blog/"
+weight = 4
+hasChildren = true
+
+  [[main]]
+  parent = "巡天及数据"
+  name = "巡天策略及计划"
+  weight = 1
+  url = "project/"
+
+  [[main]]
+  parent = "巡天及数据"
+  name = "数据处理及管理"
+  weight = 2
+  url = "project/"
+  
+  [[main]]
+  parent = "巡天及数据"
+  name = "Alert stream"
+  weight = 3
+  url = "project/"
+
+    [[main]]
+  parent = "巡天及数据"
+  name = "数据释放"
+  weight = 4
+  url = "project/"
+
   
 [[main]]
-name = "Contact"
-url = "contact/"
+weight = 5
+name = "出版"
+hasChildren = true
+
+  [[main]]
+  parent = "出版"
+  name = "出版"
+  url = "project/"
+  weight = 1
+  
+  [[main]]
+  parent = "出版"
+  name = "亮点研究"
+  url = "project/"
+  weight = 2
+
+[[main]]
 weight = 6
+name = "新闻及会议"
+hasChildren = true
+
+  [[main]]
+  parent = "新闻及会议"
+  name = "新闻"
+  url = "project/"
+  weight = 1
+
+  [[main]]
+  parent = "新闻及会议"
+  name = "会议"
+  url = "project/"
+  weight = 2
+
+[[main]]
+weight = 7
+name = "教育及outreach"
+hasChildren = true
+
+  [[main]]
+  parent = "教育及outreach"
+  name = "教育"
+  url = "project/"
+  weight = 1
+
+  [[main]]
+  parent = "教育及outreach"
+  name = "多媒体"
+  url = "project/"
+  weight = 2
 
 
 # footer menu
