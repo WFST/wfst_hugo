@@ -12,7 +12,7 @@
         <span class="icon-bar"></span>
         </button>
         <!-- navbar brand/logo -->
-        <a class="navbar-brand" href="{{ site.BaseURL | relLangURL }}">
+        <a class="navbar-brand" href="{{ relLangURL site.BaseURL   }}">
           {{ partial "logo.html" . }}
         </a>
       </div>
@@ -54,25 +54,16 @@
           {{ end }}
           <li>
             <!-- Language List -->
+            {{/*  取消下拉菜单,变成点击切换  */}}
             {{ if .IsTranslated }}
-            <select class="m-2 border-0" id="select-language" onchange="location = this.value;">
-              {{ $siteLanguages := site.Languages}}
-              {{ $pageLang := .Page.Lang}}
-              {{ range .Page.AllTranslations }}
-              {{ $translation := .}}
-              {{ range $siteLanguages }}
-              {{ if eq $translation.Lang .Lang }}
-              {{ $selected := false }}
-              {{ if eq $pageLang .Lang}}
-              <option id="{{ $translation.Language }}" value="{{ $translation.RelPermalink }}" selected>{{ .LanguageName }}
-              </option>
-              {{ else }}
-              <option id="{{ $translation.Language }}" value="{{ $translation.RelPermalink }}">{{ .LanguageName }}</option>
-              {{ end }}
-              {{ end }}
-              {{ end }}
-              {{ end }}
-            </select>
+            <h4>{{ i18n "translations" }}</h4>
+            <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
+                {{ range .Translations }}
+                <li class="list f5 f4-ns fw4 dib {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
+                    <a class="hover-white no-underline white-90" href="{{ .RelPermalink }}">{{ .Lang }}</a>
+                </li>
+                {{ end}}
+            </ul>
             {{ end }}
           </li>
         </ul>
