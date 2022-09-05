@@ -13,14 +13,16 @@ header {
 
 .navigation {
   padding: 5px 0;
+  text-align: bottom;
   .navbar {
     .navbar-nav {
       a  {  
         font : {
           weight: 400;
-          size: 20px;
-          ;
+          size: 17px;
         }
+        
+        text-transform: none;
       }
       }
   }

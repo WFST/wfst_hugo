@@ -56,7 +56,7 @@
             <!-- Language List -->
             {{/*  取消下拉菜单,变成点击切换  */}}
             {{ if .IsTranslated }}
-            <h4>{{ i18n "translations" }}</h4>
+            <div style="height:6px"></div>
             <ul class="{{ cond (eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
                 {{ range .Translations }}
                 <li class="list f5 f4-ns fw4 dib {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
