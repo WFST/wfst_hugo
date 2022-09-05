@@ -2,17 +2,17 @@
 # favicon
 favicon = "images/USTC_logo.png"
 # logo
-logo = "images/logo8.png"
+logo = "images/logo.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
-logo_width = "300px"
+logo_width = "150px"
 # logo text will only show when logo is missing.
 logo_text = "WFST"
 # navbar fixed to top
-navbar_fixed = false
+navbar_fixed = true
 # OpenGraph / Twitter Card metadata
 description = "Wide Field Survey Telescope"
-author = "Themefisher"
+author = ""
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
