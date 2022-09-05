@@ -6,6 +6,12 @@
       width: 300px;
   }
 }
+
+//
+header>div.container-fluid {
+    margin: auto;
+}
+
 //顶部导航栏在页面最前端不会被覆盖
 header {
   z-index: 1;
@@ -14,7 +20,7 @@ header {
 // 调整顶部导航栏粗细 及大小写
 
 .navigation {
-  padding: 3px 0 6px;
+  padding: 20px 0;
   .navbar {
     .navbar-nav {
       a  {  
