@@ -6,15 +6,15 @@
       width: 300px;
   }
 }
+
 //顶部导航栏在页面最前端不会被覆盖
 header {
   z-index: 1;
   box-shadow: 0 1rem 3rem rgba(0,0,0,.175);
 }
-// 调整顶部导航栏粗细 及大小写
 
+// 调整顶部导航栏大小写
 .navigation {
-  padding: 3px 0 6px;
   .navbar {
     .navbar-nav {
       a  {  
@@ -22,7 +22,6 @@ header {
           weight: 400;
           size: 17px;
         }
-
         text-transform: none;
       }
       }
