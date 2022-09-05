@@ -1,23 +1,28 @@
+//导航栏悬停下拉菜单
 @media (min-width: 979px) {
-    ul.nav li.dropdown:hover>ul.dropdown-menu {
-        display: block;
-        margin-top: 0;
-    }
+  ul.nav li.dropdown:hover>ul.dropdown-menu {
+      display: block;
+      margin-top: 0px;
+  }
+}
+//顶部导航栏在页面最前端不会被覆盖
+header {
+  z-index: 1;
+}
+// 调整顶部导航栏粗细 及大小写
+
+.navigation {
+  padding: 5px 0;
+  .navbar {
+    .navbar-nav {
+      a  {  
+        font : {
+          weight: 400;
+          size: 20px;
+          ;
+        }
+      }
+      }
+  }
 }
 
-// change the font size of menu
-.navigation {
-    .navbar {
-      .navbar-nav {
-        a {  
-          font : {
-            weight: 500;
-            size: 17px;
-          }
-        }
-        }
-    }
-  }
-
-
-  
