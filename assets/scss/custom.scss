@@ -1,12 +1,11 @@
 //导航栏悬停下拉菜单
-// @media (min-width: 979px) {
-//   ul.nav li.dropdown:hover>ul.dropdown-menu {
-//       display: block;
-//       margin-top: 0px;
-//       width: 300px;
-      
-//   }
-// }
+@media (min-width: 979px) {
+  ul.nav li.dropdown:hover>ul.dropdown-menu {
+      display: block;
+      margin-top: 0px;
+      width: 300px;
+  }
+}
 //顶部导航栏在页面最前端不会被覆盖
 header {
   z-index: 1;
