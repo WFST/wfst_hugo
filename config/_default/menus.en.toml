@@ -10,44 +10,194 @@ weight = 1
 name = "About"
 url = "about/"
 weight = 2
-
-[[main]]
-name = "Project"
-url = "project/"
-weight = 3
-
-[[main]]
-name = "Blog"
-url = "blog/"
-weight = 4
-
-[[main]]
-weight = 5
-name = "More"
 hasChildren = true
 
   [[main]]
-  parent = "More"
-  name = "Service"
-  url = "service/"
+  parent = "About"
+  name = "What's WFST"
+  url = "https://gethugothemes.com/"
   weight = 1
 
   [[main]]
-  parent = "More"
-  name = "Pricing"
-  url = "pricing/"
+  parent = "About"
+  name = "Telescope"
+  url = "project/"
   weight = 2
 
   [[main]]
-  parent = "More"
-  name = "FAQ"
-  url = "faq/"
+  parent = "About"
+  name = "Site"
+  url = "sites/"
   weight = 3
-  
+
+  [[main]]
+  parent = "About"
+  name = "Camera"
+  url = "https://gethugothemes.com/"
+  weight = 4
+
+  [[main]]
+  parent = "About"
+  name = "Team"
+  url = "https://gethugothemes.com/"
+  weight = 5
+
 [[main]]
-name = "Contact"
-url = "contact/"
+name = "Science"
+url = "science"
+weight = 3
+hasChildren = true
+
+  [[main]]
+  parent = "Science"
+  name = "Time-domain Science"
+  weight = 1
+  url = "https://gethugothemes.com/"
+      
+  
+  [[main]]
+  parent = "Science"
+  name = "Asteroids and the Solar System"
+  weight = 2
+  url = "https://gethugothemes.com/"
+      
+  [[main]]
+  parent = "Science"
+  name = "Milky Way and its Satellites"
+  weight = 3
+  url = "https://gethugothemes.com/"
+
+  [[main]]
+  parent = "Science"
+  name = "Galaxy formation and cosmology"
+  weight = 4
+  url = "https://gethugothemes.com/"
+
+[[main]]
+name = "Survey & Data"
+weight = 4
+hasChildren = true
+
+  [[main]]
+  parent = "Survey & Data"
+  name = "Survey Strategy and plan"
+  weight = 1
+  url = "https://gethugothemes.com/"
+
+  [[main]]
+  parent = "Survey & Data"
+  name = "Data reduction and management"
+  weight = 2
+  url = "https://gethugothemes.com/"
+
+  [[main]]
+  parent = "Survey & Data"
+  name = "Alert stream"
+  weight = 3
+  url = "https://gethugothemes.com/"
+
+  [[main]]
+  parent = "Survey & Data"
+  name = "Data release"
+  weight = 4
+  url = "https://gethugothemes.com/"
+
+
+[[main]]
+weight = 5
+name = "Publications"
+hasChildren = true
+
+  [[main]]
+  parent = "Publications"
+  name = "Publication"
+  url = "service/"
+  weight = 1
+  url = "https://gethugothemes.com/"
+
+  [[main]]
+  parent = "Publications"
+  name = "Research highlights"
+  url = "pricing/"
+  weight = 2
+  url = "https://gethugothemes.com/"
+
+[[main]]
 weight = 6
+name = "News & Meetings"
+hasChildren = true
+
+  [[main]]
+  parent = "News & Meetings"
+  name = "News"
+  url = "https://gethugothemes.com/"
+  weight = 1
+
+  [[main]]
+  parent = "News & Meetings"
+  name = "Meetings"
+  url = "https://gethugothemes.com/"
+  weight = 2
+
+[[main]]
+weight = 7
+name = "Education & Outreach"
+hasChildren = true
+
+  [[main]]
+  parent = "Education & Outreach"
+  name = "Education"
+  url = "https://gethugothemes.com/"
+  weight = 1
+
+  [[main]]
+  parent = "Education & Outreach"
+  name = "Multimedia"
+  url = "https://gethugothemes.com/"
+  weight = 2
+
+
+# [[main]]
+# name = "Project"
+# url = "project/"
+# weight = 3
+
+#[[main]]
+#name = "Blog"
+#url = "blog/"
+#weight = 4
+
+#[[main]]
+#weight = 5
+#name = "More"
+#hasChildren = true
+
+#  [[main]]
+#  parent = "More"
+#  name = "Service"
+#  url = "service/"
+#  weight = 1
+
+#  [[main]]
+#  parent = "More"
+#  name = "Pricing"
+#  url = "pricing/"
+#  weight = 2
+
+#  [[main]]
+#  parent = "More"
+#  name = "FAQ"
+#  url = "faq/"
+#  weight = 3
+  
+#[[main]]
+#name = "Contact"
+#url = "contact/"
+#weight = 6
+
+#[[main]]
+#weight = 7
+#name = "Dropdown"
 
 
 # footer menu
