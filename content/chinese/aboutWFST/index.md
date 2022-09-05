@@ -2,17 +2,12 @@
 title: "关于WFST"
 date: 2022-09-02
 draft: false
+type: "post"
 ---
 
 # Wide Field Survey Telescope
 
 *中国科学技术大学；紫金山天文台*
-
-![img](/img/ixpic1.jpg)
-
-![img](icon_pdf.gif)
-
-![img](about/icon_pdf.gif)
 
 ![img](f0c58ec3-38a1-4ddd-b5cc-fb11e79adbf9.jpg)
 
