@@ -1,10 +1,12 @@
 //导航栏悬停下拉菜单
-@media (min-width: 979px) {
-  ul.nav li.dropdown:hover>ul.dropdown-menu {
-      display: block;
-      margin-top: 0px;
-  }
-}
+// @media (min-width: 979px) {
+//   ul.nav li.dropdown:hover>ul.dropdown-menu {
+//       display: block;
+//       margin-top: 0px;
+//       width: 300px;
+      
+//   }
+// }
 //顶部导航栏在页面最前端不会被覆盖
 header {
   z-index: 1;
@@ -12,8 +14,7 @@ header {
 // 调整顶部导航栏粗细 及大小写
 
 .navigation {
-  padding: 5px 0;
-  text-align: bottom;
+  padding: 3px 0 6px;
   .navbar {
     .navbar-nav {
       a  {  
@@ -21,7 +22,7 @@ header {
           weight: 400;
           size: 17px;
         }
-        
+
         text-transform: none;
       }
       }
