@@ -15,7 +15,7 @@ hasChildren = true
   [[main]]
   parent = "关于"
   name = "什么是WFST？"
-  url = "https://gethugothemes.com/"
+  url = "aboutWFST/"
   weight = 1
 
   [[main]]
@@ -39,7 +39,7 @@ hasChildren = true
   [[main]]
   parent = "关于"
   name = "团队"
-  url = "project/"
+  url = "about/"
   weight = 5
 
 [[main]]
@@ -68,7 +68,7 @@ hasChildren = true
   weight = 3
   url = "project/"
 
-  [[main]] 
+  [[main]]
   parent = "科学"
   name = "星系形成演化与宇宙学"
   weight = 4

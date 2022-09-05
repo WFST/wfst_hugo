@@ -113,14 +113,12 @@ hasChildren = true
   name = "Publication"
   url = "service/"
   weight = 1
-  url = "https://gethugothemes.com/"
 
   [[main]]
   parent = "Publications"
   name = "Research highlights"
   url = "pricing/"
   weight = 2
-  url = "https://gethugothemes.com/"
 
 [[main]]
 weight = 6
@@ -130,13 +128,13 @@ hasChildren = true
   [[main]]
   parent = "News & Meetings"
   name = "News"
-  url = "https://gethugothemes.com/"
+  url = "news/"
   weight = 1
 
   [[main]]
   parent = "News & Meetings"
   name = "Meetings"
-  url = "https://gethugothemes.com/"
+  url = "blog/"
   weight = 2
 
 [[main]]
