@@ -8,20 +8,19 @@ weight = 1
 
 [[main]]
 name = "关于"
-url = "about/"
 weight = 2
 hasChildren = true
 
   [[main]]
   parent = "关于"
   name = "什么是WFST？"
-  url = "aboutWFST/"
+  url = "about/b"
   weight = 1
 
   [[main]]
   parent = "关于"
   name = "望远镜"
-  url = "project/"
+  url = "about/aboutwfst"
   weight = 2
 
   [[main]]
@@ -39,7 +38,7 @@ hasChildren = true
   [[main]]
   parent = "关于"
   name = "团队"
-  url = "about/"
+  url = "about/about"
   weight = 5
 
 [[main]]
