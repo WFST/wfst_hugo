@@ -14,50 +14,50 @@ hasChildren = true
   [[main]]
   parent = "关于"
   name = "什么是WFST？"
-  url = "about/b"
+  url = "about/about"
   weight = 1
 
   [[main]]
   parent = "关于"
   name = "望远镜"
-  url = "about/aboutwfst"
+  url = "about/telescope"
   weight = 2
 
   [[main]]
   parent = "关于"
   name = "台址"
-  url = "project/"
+  url = "about/location"
   weight = 3
 
   [[main]]
   parent = "关于"
   name = "相机"
-  url = "project/"
+  url = "about/camera"
   weight = 4
 
   [[main]]
   parent = "关于"
   name = "团队"
-  url = "about/about"
+  url = "about/team"
   weight = 5
 
 [[main]]
 name = "科学"
-url = "project/"
+url = "science/"
 weight = 3
 hasChildren = true
 
   [[main]]
   parent ="科学" 
   name = "时域科学"
-  url = "project/"
+  url = "science/timedomain"
   weight = 1
   
 
   [[main]]
   parent = "科学"
   name = "太阳系天体"
-  url = "project/"
+  url = "science/solarsystem"
   weight = 2
   
 
@@ -65,17 +65,17 @@ hasChildren = true
   parent = "科学"
   name = "银河系及卫星星系"
   weight = 3
-  url = "project/"
+  url = "science/milkyway"
 
   [[main]]
   parent = "科学"
   name = "星系形成演化与宇宙学"
   weight = 4
-  url = "project/"
+  url = "science/galaxy"
 
 [[main]]
 name = "巡天及数据"
-url = "blog/"
+url = "surveydata/"
 weight = 4
 hasChildren = true
 
@@ -83,42 +83,42 @@ hasChildren = true
   parent = "巡天及数据"
   name = "巡天策略及计划"
   weight = 1
-  url = "project/"
+  url = "surveydata/strategy"
 
   [[main]]
   parent = "巡天及数据"
   name = "数据处理及管理"
   weight = 2
-  url = "project/"
+  url = "surveydata/reduction"
   
   [[main]]
   parent = "巡天及数据"
   name = "Alert stream"
   weight = 3
-  url = "project/"
+  url = "surveydata/alert"
 
     [[main]]
   parent = "巡天及数据"
   name = "数据释放"
   weight = 4
-  url = "project/"
+  url = "surveydata/release"
 
   
 [[main]]
 weight = 5
-name = "出版"
+name = "出版及亮点"
 hasChildren = true
 
   [[main]]
-  parent = "出版"
+  parent = "出版及亮点"
   name = "出版"
-  url = "project/"
+  url = "publications/publication"
   weight = 1
   
   [[main]]
-  parent = "出版"
+  parent = "出版及亮点"
   name = "亮点研究"
-  url = "project/"
+  url = "publications/highlights"
   weight = 2
 
 [[main]]
@@ -129,13 +129,13 @@ hasChildren = true
   [[main]]
   parent = "新闻及会议"
   name = "新闻"
-  url = "project/"
+  url = "newsmeetings/news"
   weight = 1
 
   [[main]]
   parent = "新闻及会议"
   name = "会议"
-  url = "project/"
+  url = "newsmeetings/meetings"
   weight = 2
 
 [[main]]
@@ -146,43 +146,43 @@ hasChildren = true
   [[main]]
   parent = "教育及outreach"
   name = "教育"
-  url = "project/"
+  url = "educationoutreach/education"
   weight = 1
 
   [[main]]
   parent = "教育及outreach"
   name = "多媒体"
-  url = "project/"
+  url = "educationoutreach/multimedia"
   weight = 2
 
 
 # footer menu
 [[footer]]
-name = "About"
+name = "关于"
 url = "about/"
 weight = 2
 
 [[footer]]
-name = "Project"
-url = "project/"
+name = "科学"
+url = "science/"
 weight = 3
 
 [[footer]]
-name = "Service"
-url = "service/"
+name = "巡天及数据"
+url = "surveydata/"
 weight = 4
 
 [[footer]]
-name = "Pricing"
-url = "pricing/"
+name = "出版及亮点"
+url = "publications/"
 weight = 5
 
 [[footer]]
-name = "FAQ"
-url = "faq/"
+name = "新闻及会议"
+url = "newsmeetings/"
 weight = 6
 
 [[footer]]
-name = "Contact"
-url = "contact/"
+name = "教育及outreach"
+url = "educationoutreach/"
 weight = 7
