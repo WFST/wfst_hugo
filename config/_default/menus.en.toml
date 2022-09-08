@@ -15,36 +15,36 @@ hasChildren = true
   [[main]]
   parent = "About"
   name = "What's WFST"
-  url = "about/about"
+  url = "about/about/"
   weight = 1
 
   [[main]]
   parent = "About"
   name = "Telescope"
-  url = "about/telescope"
+  url = "about/telescope/"
   weight = 2
 
   [[main]]
   parent = "About"
   name = "Site"
-  url = "about/location"
+  url = "about/location/"
   weight = 3
 
   [[main]]
   parent = "About"
   name = "Camera"
-  url = "about/camera"
+  url = "about/camera/"
   weight = 4
 
   [[main]]
   parent = "About"
   name = "Team"
-  url = "science/timedomain"
+  url = "about/team/"
   weight = 5
 
 [[main]]
 name = "Science"
-url = "science"
+url = "science/"
 weight = 3
 hasChildren = true
 
@@ -52,29 +52,30 @@ hasChildren = true
   parent = "Science"
   name = "Time-domain Science"
   weight = 1
-  url = "science/timedomain"
+  url = "science/timedomain/"
       
   
   [[main]]
   parent = "Science"
   name = "Asteroids and the Solar System"
   weight = 2
-  url = "science/solarsystem"
+  url = "science/solarsystem/"
       
   [[main]]
   parent = "Science"
   name = "Milky Way and its Satellites"
   weight = 3
-  url = "science/milkyway"
+  url = "science/milkyway/"
 
   [[main]]
   parent = "Science"
   name = "Galaxy formation and cosmology"
   weight = 4
-  url = "science/galaxy"
+  url = "science/galaxy/"
 
 [[main]]
 name = "Survey & Data"
+url = "surveydata/"
 weight = 4
 hasChildren = true
 
@@ -82,25 +83,25 @@ hasChildren = true
   parent = "Survey & Data"
   name = "Survey Strategy and plan"
   weight = 1
-  url = "surveydata/strategy"
+  url = "surveydata/strategy/"
 
   [[main]]
   parent = "Survey & Data"
   name = "Data reduction and management"
   weight = 2
-  url = "surveydata/reduction"
+  url = "surveydata/reduction/"
 
   [[main]]
   parent = "Survey & Data"
   name = "Alert stream"
   weight = 3
-  url = "surveydata/alert"
+  url = "surveydata/alert/"
 
   [[main]]
   parent = "Survey & Data"
   name = "Data release"
   weight = 4
-  url = "surveydata/release"
+  url = "surveydata/release/"
 
 
 [[main]]
@@ -111,13 +112,13 @@ hasChildren = true
   [[main]]
   parent = "Publications"
   name = "Publication"
-  url = "publications/publication"
+  url = "publications/publication/"
   weight = 1
 
   [[main]]
   parent = "Publications"
   name = "Research highlights"
-  url = "publications/highlights"
+  url = "publications/highlights/"
   weight = 2
 
 [[main]]
@@ -128,13 +129,13 @@ hasChildren = true
   [[main]]
   parent = "News & Meetings"
   name = "News"
-  url = "newsmeetings/news"
+  url = "newsmeetings/news/"
   weight = 1
 
   [[main]]
   parent = "News & Meetings"
   name = "Meetings"
-  url = "newsmeetings/meetings"
+  url = "newsmeetings/meetings/"
   weight = 2
 
 [[main]]
@@ -145,57 +146,14 @@ hasChildren = true
   [[main]]
   parent = "Education & Outreach"
   name = "Education"
-  url = "educationoutreach/education"
+  url = "educationoutreach/education/"
   weight = 1
 
   [[main]]
   parent = "Education & Outreach"
   name = "Multimedia"
-  url = "educationoutreach/multimedia"
+  url = "educationoutreach/multimedia/"
   weight = 2
-
-
-# [[main]]
-# name = "Project"
-# url = "project/"
-# weight = 3
-
-#[[main]]
-#name = "Blog"
-#url = "blog/"
-#weight = 4
-
-#[[main]]
-#weight = 5
-#name = "More"
-#hasChildren = true
-
-#  [[main]]
-#  parent = "More"
-#  name = "Service"
-#  url = "service/"
-#  weight = 1
-
-#  [[main]]
-#  parent = "More"
-#  name = "Pricing"
-#  url = "pricing/"
-#  weight = 2
-
-#  [[main]]
-#  parent = "More"
-#  name = "FAQ"
-#  url = "faq/"
-#  weight = 3
-  
-#[[main]]
-#name = "Contact"
-#url = "contact/"
-#weight = 6
-
-#[[main]]
-#weight = 7
-#name = "Dropdown"
 
 
 # footer menu
@@ -205,26 +163,26 @@ url = "about/"
 weight = 2
 
 [[footer]]
-name = "Science"
+name = "Project"
 url = "science/"
 weight = 3
 
 [[footer]]
-name = "Survey & Data"
+name = "Service"
 url = "surveydata/"
 weight = 4
 
 [[footer]]
-name = "Publications"
+name = "Pricing"
 url = "publications/"
 weight = 5
 
 [[footer]]
-name = "News & Meetings"
+name = "FAQ"
 url = "newsmeetings/"
 weight = 6
 
 [[footer]]
-name = "Education & Outreach"
+name = "Contact"
 url = "educationoutreach/"
 weight = 7
