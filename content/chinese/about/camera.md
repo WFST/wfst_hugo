@@ -4,8 +4,8 @@ date: 2022-09-06T14:40:06+08:00
 draft: False
 # description
 description: "This is meta description"
+type: "post"
 ---
-
 
 # Wide Field Survey Telescope
 
