@@ -129,7 +129,7 @@ hasChildren = true
   [[main]]
   parent = "News & Meetings"
   name = "News"
-  url = "newsmeetings/news"
+  url = "newsmeetings/news/"
   weight = 1
 
   [[main]]
