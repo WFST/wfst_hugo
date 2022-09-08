@@ -15,36 +15,36 @@ hasChildren = true
   [[main]]
   parent = "About"
   name = "What's WFST"
-  url = "https://gethugothemes.com/"
+  url = "about/about/"
   weight = 1
 
   [[main]]
   parent = "About"
   name = "Telescope"
-  url = "project/"
+  url = "about/telescope/"
   weight = 2
 
   [[main]]
   parent = "About"
   name = "Site"
-  url = "sites/"
+  url = "about/location/"
   weight = 3
 
   [[main]]
   parent = "About"
   name = "Camera"
-  url = "https://gethugothemes.com/"
+  url = "about/camera/"
   weight = 4
 
   [[main]]
   parent = "About"
   name = "Team"
-  url = "https://gethugothemes.com/"
+  url = "about/team/"
   weight = 5
 
 [[main]]
 name = "Science"
-url = "science"
+url = "science/"
 weight = 3
 hasChildren = true
 
@@ -52,29 +52,30 @@ hasChildren = true
   parent = "Science"
   name = "Time-domain Science"
   weight = 1
-  url = "https://gethugothemes.com/"
+  url = "science/timedomain/"
       
   
   [[main]]
   parent = "Science"
   name = "Asteroids and the Solar System"
   weight = 2
-  url = "https://gethugothemes.com/"
+  url = "science/solarsystem/"
       
   [[main]]
   parent = "Science"
   name = "Milky Way and its Satellites"
   weight = 3
-  url = "https://gethugothemes.com/"
+  url = "science/milkyway/"
 
   [[main]]
   parent = "Science"
   name = "Galaxy formation and cosmology"
   weight = 4
-  url = "https://gethugothemes.com/"
+  url = "science/galaxy/"
 
 [[main]]
 name = "Survey & Data"
+url = "surveydata/"
 weight = 4
 hasChildren = true
 
@@ -82,25 +83,25 @@ hasChildren = true
   parent = "Survey & Data"
   name = "Survey Strategy and plan"
   weight = 1
-  url = "https://gethugothemes.com/"
+  url = "surveydata/strategy/"
 
   [[main]]
   parent = "Survey & Data"
   name = "Data reduction and management"
   weight = 2
-  url = "https://gethugothemes.com/"
+  url = "surveydata/reduction/"
 
   [[main]]
   parent = "Survey & Data"
   name = "Alert stream"
   weight = 3
-  url = "https://gethugothemes.com/"
+  url = "surveydata/alert/"
 
   [[main]]
   parent = "Survey & Data"
   name = "Data release"
   weight = 4
-  url = "https://gethugothemes.com/"
+  url = "surveydata/release/"
 
 
 [[main]]
@@ -111,13 +112,13 @@ hasChildren = true
   [[main]]
   parent = "Publications"
   name = "Publication"
-  url = "service/"
+  url = "publications/publication/"
   weight = 1
 
   [[main]]
   parent = "Publications"
   name = "Research highlights"
-  url = "pricing/"
+  url = "publications/highlights/"
   weight = 2
 
 [[main]]
@@ -134,7 +135,7 @@ hasChildren = true
   [[main]]
   parent = "News & Meetings"
   name = "Meetings"
-  url = "blog/"
+  url = "newsmeetings/meetings/"
   weight = 2
 
 [[main]]
@@ -145,57 +146,14 @@ hasChildren = true
   [[main]]
   parent = "Education & Outreach"
   name = "Education"
-  url = "https://gethugothemes.com/"
+  url = "educationoutreach/education/"
   weight = 1
 
   [[main]]
   parent = "Education & Outreach"
   name = "Multimedia"
-  url = "https://gethugothemes.com/"
+  url = "educationoutreach/multimedia/"
   weight = 2
-
-
-# [[main]]
-# name = "Project"
-# url = "project/"
-# weight = 3
-
-#[[main]]
-#name = "Blog"
-#url = "blog/"
-#weight = 4
-
-#[[main]]
-#weight = 5
-#name = "More"
-#hasChildren = true
-
-#  [[main]]
-#  parent = "More"
-#  name = "Service"
-#  url = "service/"
-#  weight = 1
-
-#  [[main]]
-#  parent = "More"
-#  name = "Pricing"
-#  url = "pricing/"
-#  weight = 2
-
-#  [[main]]
-#  parent = "More"
-#  name = "FAQ"
-#  url = "faq/"
-#  weight = 3
-  
-#[[main]]
-#name = "Contact"
-#url = "contact/"
-#weight = 6
-
-#[[main]]
-#weight = 7
-#name = "Dropdown"
 
 
 # footer menu
@@ -206,25 +164,25 @@ weight = 2
 
 [[footer]]
 name = "Project"
-url = "project/"
+url = "science/"
 weight = 3
 
 [[footer]]
 name = "Service"
-url = "service/"
+url = "surveydata/"
 weight = 4
 
 [[footer]]
 name = "Pricing"
-url = "pricing/"
+url = "publications/"
 weight = 5
 
 [[footer]]
 name = "FAQ"
-url = "faq/"
+url = "newsmeetings/"
 weight = 6
 
 [[footer]]
 name = "Contact"
-url = "contact/"
+url = "educationoutreach/"
 weight = 7
