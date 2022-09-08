@@ -4,8 +4,8 @@ banner:
   enable: true
   bg_image: "images/homepage.jpg"
   bg_overlay: true
-  title: "A Digital Marketing <br/> & Design Agency"
-  content: "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  title: " The Wide Field Survey Telescope <br/> Wide Field Survey Telescope"
+  content: "balabala"
   button:
     enable: true
     label: "Discover Our Project"
@@ -14,15 +14,16 @@ banner:
 ############################# About #################################
 about:
   enable: true
-  title: "About Us"
+  title: "关于"
   description: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id."
-  image: "images/homepage.jpg"
+  image: "images/wrapper-img.png"
+
 
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/homepage.jpg"
+  bg_image: "images/feature-bg.jpg"
   title: "WE BELIEVE IN GREAT IDEAS"
   content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
@@ -90,7 +91,7 @@ funfacts:
 
   # testimonial item loop
   - name: "Randi Renin"
-    image: "images/clients/avater-1.jpg"
+    image: "images/clients/avater-2.jpg"
     designation: "CEO-Themefisher"
     content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
 
