@@ -27,7 +27,7 @@ hasChildren = true
   [[main]]
   parent = "About"
   name = "Site"
-  url = "about/location/"
+  url = "location/"
   weight = 3
 
   [[main]]

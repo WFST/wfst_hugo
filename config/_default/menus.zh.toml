@@ -26,7 +26,7 @@ hasChildren = true
   [[main]]
   parent = "关于"
   name = "台址"
-  url = "about/location/"
+  url = "location/"
   weight = 3
 
   [[main]]

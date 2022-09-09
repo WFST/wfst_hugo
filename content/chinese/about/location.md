@@ -1,18 +1,34 @@
 ---
-title: "A"
-date: 2022-09-06T14:40:06+08:00
-draft: False
-# description
-description: "This is meta description"
+title: "台址"
+description: "冷湖"
+draft: false
+image : "images/wfst/lenghu.jpeg"
+bg_image: "images/wfst/lenghu.jpeg"
+category: [ "UI/UX Design", "Video" ]
+information:
+  - label : "Client"
+    info : "Jannie Kelonsky"
+  - label : "What We Did"
+    info : "Website Redesign"
+  - label : "Tools Used"
+    info : "Photoshop,Illustrator"
+  - label : "Completed on"
+    info : "17th March 2014"
+  - label : "Skills"
+    info : "HTML5 / PHP / CSS3"
+  - label : "Client"
+    info : "Jannie Kelonsky"
 ---
 
 
-# Wide Field Survey Telescope
 
-*中国科学技术大学；紫金山天文台*
+<!-- ![img](images/wfst/wfst1.jpg) -->
+<!-- # Wide Field Survey Telescope -->
 
-![img](f0c58ec3-38a1-4ddd-b5cc-fb11e79adbf9.jpg)
+<!-- *中国科学技术大学；紫金山天文台* -->
 
+
+<!-- 
 Time-domain astronomy through large-scale repeated observations, exploring various astronomical objects and new phenomena in the universe, and monitoring the time variation of various astronomical objects, is a new direction for astronomy to have major scientific opportunities.
 
 ## 总览
@@ -27,4 +43,4 @@ The wide field survey telescope (WFST), jointly developed by the University of S
 
 3. provide high-precision astrometric and photometric catalogs of objects down to r <25 mag, allowing us to precisely map structures of the Milky Way and the nearby universe.
 
-![img](aboutWFST/icon_pdf.gif)[WFST_Design.pdf](http://wfst.ustc.edu.cn/_upload/article/files/62/8d/7f91de4b4d6aa062d5995c508d06/3bc5d5aa-4a6b-46d0-92df-1d7b894026ef.pdf)
+![img](aboutWFST/icon_pdf.gif)[WFST_Design.pdf](http://wfst.ustc.edu.cn/_upload/article/files/62/8d/7f91de4b4d6aa062d5995c508d06/3bc5d5aa-4a6b-46d0-92df-1d7b894026ef.pdf) --> 
