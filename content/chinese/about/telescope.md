@@ -1,9 +1,8 @@
 ---
-title: ""
+title: "望远镜"
 date: 2022-09-06T14:40:06+08:00
 draft: False
-# description
-description: "This is meta description"
+description: "关于：望远镜"
 ---
 
 
@@ -27,4 +26,4 @@ The wide field survey telescope (WFST), jointly developed by the University of S
 
 3. provide high-precision astrometric and photometric catalogs of objects down to r <25 mag, allowing us to precisely map structures of the Milky Way and the nearby universe.
 
-![img](aboutWFST/icon_pdf.gif)[WFST_Design.pdf](http://wfst.ustc.edu.cn/_upload/article/files/62/8d/7f91de4b4d6aa062d5995c508d06/3bc5d5aa-4a6b-46d0-92df-1d7b894026ef.pdf)
+![img](/images/icon_pdf.gif)[WFST_Design.pdf](http://wfst.ustc.edu.cn/_upload/article/files/62/8d/7f91de4b4d6aa062d5995c508d06/3bc5d5aa-4a6b-46d0-92df-1d7b894026ef.pdf)
