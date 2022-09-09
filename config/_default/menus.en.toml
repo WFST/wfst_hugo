@@ -52,30 +52,30 @@ hasChildren = true
   parent = "Science"
   name = "Time-domain Science"
   weight = 1
-  url = "science/timedomain/"
+  url = "science/time-domain/"
       
   
   [[main]]
   parent = "Science"
   name = "Asteroids and the Solar System"
   weight = 2
-  url = "science/solarsystem/"
+  url = "science/asteroids-and-the-solar-system/"
       
   [[main]]
   parent = "Science"
   name = "Milky Way and its Satellites"
   weight = 3
-  url = "science/milkyway/"
+  url = "science/milky-way-and-its-satellites/"
 
   [[main]]
   parent = "Science"
   name = "Galaxy formation and cosmology"
   weight = 4
-  url = "science/galaxy/"
+  url = "science/galaxy-formation-and-cosmology/"
 
 [[main]]
 name = "Survey & Data"
-url = "surveydata/"
+url = "survey-and-data/"
 weight = 4
 hasChildren = true
 
@@ -83,25 +83,25 @@ hasChildren = true
   parent = "Survey & Data"
   name = "Survey Strategy and plan"
   weight = 1
-  url = "surveydata/strategy/"
+  url = "survey-and-data/survey-strategy-and-plan/"
 
   [[main]]
   parent = "Survey & Data"
   name = "Data reduction and management"
   weight = 2
-  url = "surveydata/reduction/"
+  url = "survey-and-data/data-reduction-and-management/"
 
   [[main]]
   parent = "Survey & Data"
   name = "Alert stream"
   weight = 3
-  url = "surveydata/alert/"
+  url = "survey-and-data/alert-stream/"
 
   [[main]]
   parent = "Survey & Data"
   name = "Data release"
   weight = 4
-  url = "surveydata/release/"
+  url = "survey-and-data/data-release/"
 
 
 [[main]]
@@ -129,13 +129,13 @@ hasChildren = true
   [[main]]
   parent = "News & Meetings"
   name = "News"
-  url = "newsmeetings/news/"
+  url = "news-and-meetings/news/"
   weight = 1
 
   [[main]]
   parent = "News & Meetings"
   name = "Meetings"
-  url = "newsmeetings/meetings/"
+  url = "news-and-meetings/meetings/"
   weight = 2
 
 [[main]]
@@ -146,13 +146,13 @@ hasChildren = true
   [[main]]
   parent = "Education & Outreach"
   name = "Education"
-  url = "educationoutreach/education/"
+  url = "education-and-outreach/education/"
   weight = 1
 
   [[main]]
   parent = "Education & Outreach"
   name = "Multimedia"
-  url = "educationoutreach/multimedia/"
+  url = "education-and-outreach/multimedia/"
   weight = 2
 
 
@@ -163,26 +163,26 @@ url = "about/"
 weight = 2
 
 [[footer]]
-name = "Project"
+name = "Science"
 url = "science/"
 weight = 3
 
 [[footer]]
-name = "Service"
-url = "surveydata/"
+name = "Survey & Data"
+url = "survey-and-data/"
 weight = 4
 
 [[footer]]
-name = "Pricing"
+name = "Publications"
 url = "publications/"
 weight = 5
 
 [[footer]]
-name = "FAQ"
-url = "newsmeetings/"
+name = "News & Meetings"
+url = "news-and-meetings/"
 weight = 6
 
 [[footer]]
-name = "Contact"
-url = "educationoutreach/"
+name = "Education & Outreach"
+url = "education-and-outreach/"
 weight = 7

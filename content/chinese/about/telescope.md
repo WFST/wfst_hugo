@@ -11,7 +11,7 @@ description: "This is meta description"
 
 *中国科学技术大学；紫金山天文台*
 
-![img](f0c58ec3-38a1-4ddd-b5cc-fb11e79adbf9.jpg)
+![img](/images/f0c58ec3-38a1-4ddd-b5cc-fb11e79adbf9.jpg)
 
 Time-domain astronomy through large-scale repeated observations, exploring various astronomical objects and new phenomena in the universe, and monitoring the time variation of various astronomical objects, is a new direction for astronomy to have major scientific opportunities.
 
