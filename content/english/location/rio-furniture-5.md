@@ -2,7 +2,7 @@
 title: "Rio Furniture"
 description: "this is meta description"
 draft: false
-image : "images/portfolio/work5.jpg"
+image : "images/wfst/wfst5.jpg"
 bg_image: "images/feature-bg.jpg"
 category: "Illustration"
 information:
