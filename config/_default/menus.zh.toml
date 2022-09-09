@@ -14,13 +14,13 @@ hasChildren = true
   [[main]]
   parent = "关于"
   name = "什么是WFST？"
-  url = "about/about"
+  url = "about/about/"
   weight = 1
 
   [[main]]
   parent = "关于"
   name = "望远镜"
-  url = "about/telescope"
+  url = "about/telescope/"
   weight = 2
 
   [[main]]
@@ -32,13 +32,13 @@ hasChildren = true
   [[main]]
   parent = "关于"
   name = "相机"
-  url = "about/camera"
+  url = "about/camera/"
   weight = 4
 
   [[main]]
   parent = "关于"
   name = "团队"
-  url = "about/team"
+  url = "about/team/"
   weight = 5
 
 [[main]]
@@ -50,14 +50,14 @@ hasChildren = true
   [[main]]
   parent ="科学" 
   name = "时域科学"
-  url = "science/timedomain"
+  url = "science/timedomain/"
   weight = 1
   
 
   [[main]]
   parent = "科学"
   name = "太阳系天体"
-  url = "science/solarsystem"
+  url = "science/solarsystem/"
   weight = 2
   
 
@@ -65,13 +65,13 @@ hasChildren = true
   parent = "科学"
   name = "银河系及卫星星系"
   weight = 3
-  url = "science/milkyway"
+  url = "science/milkyway/"
 
   [[main]]
   parent = "科学"
   name = "星系形成演化与宇宙学"
   weight = 4
-  url = "science/galaxy"
+  url = "science/galaxy/"
 
 [[main]]
 name = "巡天及数据"
@@ -83,25 +83,25 @@ hasChildren = true
   parent = "巡天及数据"
   name = "巡天策略及计划"
   weight = 1
-  url = "surveydata/strategy"
+  url = "surveydata/strategy/"
 
   [[main]]
   parent = "巡天及数据"
   name = "数据处理及管理"
   weight = 2
-  url = "surveydata/reduction"
+  url = "surveydata/reduction/"
   
   [[main]]
   parent = "巡天及数据"
   name = "Alert stream"
   weight = 3
-  url = "surveydata/alert"
+  url = "surveydata/alert/"
 
     [[main]]
   parent = "巡天及数据"
   name = "数据释放"
   weight = 4
-  url = "surveydata/release"
+  url = "surveydata/release/"
 
   
 [[main]]
@@ -112,13 +112,13 @@ hasChildren = true
   [[main]]
   parent = "出版及亮点"
   name = "出版"
-  url = "publications/publication"
+  url = "publications/publication/"
   weight = 1
   
   [[main]]
   parent = "出版及亮点"
   name = "亮点研究"
-  url = "publications/highlights"
+  url = "publications/highlights/"
   weight = 2
 
 [[main]]
@@ -129,13 +129,13 @@ hasChildren = true
   [[main]]
   parent = "新闻及会议"
   name = "新闻"
-  url = "newsmeetings/news"
+  url = "news/"
   weight = 1
 
   [[main]]
   parent = "新闻及会议"
   name = "会议"
-  url = "newsmeetings/meetings"
+  url = "meetings/"
   weight = 2
 
 [[main]]
@@ -146,13 +146,13 @@ hasChildren = true
   [[main]]
   parent = "教育及outreach"
   name = "教育"
-  url = "educationoutreach/education"
+  url = "educationoutreach/education/"
   weight = 1
 
   [[main]]
   parent = "教育及outreach"
   name = "多媒体"
-  url = "educationoutreach/multimedia"
+  url = "educationoutreach/multimedia/"
   weight = 2
 
 
