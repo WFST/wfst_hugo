@@ -135,7 +135,7 @@ hasChildren = true
   [[main]]
   parent = "新闻及会议"
   name = "会议"
-  url = "meetings/"
+  url = "news-and-meetings/meetings/"
   weight = 2
 
 [[main]]
