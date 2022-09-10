@@ -3,7 +3,7 @@
   ul.nav li.dropdown:hover>ul.dropdown-menu {
       display: block;
       margin-top: 0px;
-      width: 300px;
+      width: 280px;
   }
 }
 
@@ -13,10 +13,12 @@ header {
   box-shadow: 0 1rem 3rem rgba(0,0,0,.175);
 }
 
-// 调整顶部导航栏大小写
+// 调整顶部导航栏大小写、位置
 .navigation {
+  padding: 9px 0 12px;
   .navbar {
     .navbar-nav {
+      // margin-right: 40px;
       a  {  
         font : {
           weight: 400;
