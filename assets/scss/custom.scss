@@ -3,12 +3,13 @@
   ul.nav li.dropdown:hover>ul.dropdown-menu {
       display: block;
       margin-top: 0px;
-      width: 280px;
+      // width: 280px;
   }
 }
 
 //顶部导航栏在页面最前端不会被覆盖
 header {
+  min-height: 10px;
   z-index: 3;
   box-shadow: 0 1rem 3rem rgba(0,0,0,.175);
 }
