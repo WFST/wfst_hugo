@@ -24,6 +24,9 @@ header {
           weight: 400;
           size: 17px;
         }
+        &:focus {
+          background: transparent;
+        }
         text-transform: none;
       }
       }
