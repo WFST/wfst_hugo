@@ -36,8 +36,7 @@
               aria-expanded="false">
               {{ .Name }} <span class="fas fa-angle-down"></span>
             </a>
-
-            <ul class="dropdown-menu" style="{{if eq $.Lang `zh`}} width:200px {{else}} width:280px {{end}}">
+            <ul class="dropdown-menu" style="{{if eq $.Lang `zh`}} width:200px {{else}} width:280px {{end}};">
               {{ range .Children }}
               {{ $childURL := .URL | absLangURL }}
               {{ $active := eq $childURL $pageURL }}
@@ -73,10 +72,6 @@
                 </ul>
               </div>
               {{ end }}
-            
-
-
-
           </li>
         </ul>
       </div>
