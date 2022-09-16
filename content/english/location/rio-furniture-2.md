@@ -4,7 +4,7 @@ description: "this is meta description"
 draft: false
 image : "images/wfst/wfst1.jpg"
 bg_image: "images/feature-bg.jpg"
-category: "Illustration"
+category: "sites"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"

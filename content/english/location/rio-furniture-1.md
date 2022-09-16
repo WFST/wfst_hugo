@@ -4,7 +4,7 @@ description: "this is meta description"
 draft: false
 image : "images/wfst/lenghu.jpeg"
 bg_image: "images/feature-bg.jpg"
-category: [ "UI/UX Design", "Video" ]
+category: [ "sites", "telescopes" ]
 information:
   - label : "Client"
     info : "Jannie Kelonsky"
