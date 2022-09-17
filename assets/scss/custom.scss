@@ -33,5 +33,14 @@ header {
   }
 }
 // body {
-//   background-color: rgba(0, 18, 46, 0.637);
+//   background-color: rgba(34, 61, 83, 0.637);
 // }
+.feature {
+  h2 {
+    color: white;
+  }
+  p {
+    color: darken( $white, 20.37);
+    font-size : 18px;
+  }
+}
