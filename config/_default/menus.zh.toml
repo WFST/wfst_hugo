@@ -140,17 +140,17 @@ hasChildren = true
 
 [[main]]
 weight = 7
-name = "教育及outreach"
+name = "教育及延伸"
 hasChildren = true
 
   [[main]]
-  parent = "教育及outreach"
+  parent = "教育及延伸"
   name = "教育"
   url = "education-and-outreach/education/"
   weight = 1
 
   [[main]]
-  parent = "教育及outreach"
+  parent = "教育及延伸"
   name = "多媒体"
   url = "education-and-outreach/multimedia/"
   weight = 2
@@ -183,6 +183,6 @@ url = "news-and-meetings/"
 weight = 6
 
 [[footer]]
-name = "教育及outreach"
+name = "教育及延伸"
 url = "education-and-outreach/"
 weight = 7
