@@ -51,6 +51,11 @@ header {
   }
 }
 
+//取消about页不透明度
+.about .about-img .img-responsive{
+  opacity: 1;
+}
+
 //段首缩进
 .post-content>p {
   margin-top: 0;
