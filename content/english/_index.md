@@ -5,7 +5,7 @@ banner:
   # bg_image: "images/homepage.jpg"
   bg_image: "images/web-images/obstory.jpg"
   bg_overlay: true
-  title: " The Wide Field Survey Telescope <br/> Wide Field Survey Telescope"
+  title: " WFST <br/> Wide Field Survey Telescope"
   content: "balabala"
   button:
     enable: true

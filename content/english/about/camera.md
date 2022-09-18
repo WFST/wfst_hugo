@@ -11,6 +11,7 @@ author: "WFST"
 # Camera
 
 *University of Science and Technology of China; Purple Mountain Observatory*
+
 ![img](/images/figs_Telescope_Camera/camera.png)
 
 The focal plane can be divided into 3 sections: scientific imaging array, curvature wavefront sensors (CWFS) for AOS and CCDs for guiding system. The scientific imaging array consists of 9 9K×9K CCDs (E2V CCD290-99) with pixel size of 10$\mu$m. It is a mosaicking CCD detector with the flatness of 20$\mu$m. The entire scientific imaging array is inside the unvignetted region indicated with a circle of 325mm diameter as shown in Fig.4a. There is one CWFS located at each side of scientific imaging array as shown in Fig. 4a. Each CWFS consists of two CCD detectors (E2V CCD250-82) with 4K×4K pixels and a pixel size of 10$\mu$m. Two CCDs are de-focused $\pm$1mm respectively from the focal plane as shown in Fig.~\ref{fig_cam_fp}b. The curvature wavefront sensors have only about 1/4 of area inside the unvignetted circle. Because CCD 250-82 is full frame CCD, only half of it is operated to save the readout time. The guiding sensors are made of E2V CCD 47-20 with 1K×1K pixels and a pixel size of 13$\mu$m. They are located at two side of scientific detector and are almost completely outside of the unvignetted region as shown in Fig.~\ref{fig_cam_fp}a. The CCD 47-20 is a frame transfer CCD and can work without a shutter. Each CCD 47-20 has been re-packaged for mosaicking installation as shown in Fig.~\ref{fig_cam_fp}c. The surface of the guiding CCD detectors should be within 20$\mu$m from the focal plane.

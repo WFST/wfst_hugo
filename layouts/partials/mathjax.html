@@ -1,6 +1,8 @@
+{{ if .Params.math }}
 <script type="text/javascript"
         async
         src="https://cdn.bootcss.com/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+        // https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 MathJax.Hub.Config({
   tex2jax: {
     inlineMath: [['$','$'], ['\\(','\\)']],
@@ -23,8 +25,10 @@ MathJax.Hub.Queue(function() {
     }
 });
 </script>
+
+
 <style>
-code.has-jax {
+code.has-jax,.has-jax span{
     font: inherit;
     font-size: 100%;
     background: inherit;
@@ -32,3 +36,4 @@ code.has-jax {
     color: #515151;
 }
 </style>
+{{ end }}

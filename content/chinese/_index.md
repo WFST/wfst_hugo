@@ -2,7 +2,8 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/homepage.jpg"
+  # bg_image: "images/homepage.jpg"
+  bg_image: "images/web-images/obstory.jpg"
   bg_overlay: true
   title: "大视场巡天望远镜 <br/> Wide Field Survey Telescope"
   content: "balabala"
@@ -23,13 +24,14 @@ intermediate redshifts, tidal disruption events and fast optical transients as w
 variability of Galactic and extragalactic objects. The final 6-year coadded images will reach 
 $g=25.5$ mag for the wide field survey and 1.5 mag deeper for the deep high-cadence survey, valuable for general galactic and extragalactic sciences as well. These uniform legacy surveys are highly 
 complementary to those of LSST in the southern sky. "
-  image: "images/wrapper-img.png"
+  image: "images/wfst-human.png"
 
 
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/wfst/wfst4.jpg"
+  # bg_image: "images/wfst/wfst4.jpg"
+  bg_image: "images/web-images/gal2.jpg"
   title: "WE BELIEVE IN GREAT IDEAS"
   content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
@@ -54,7 +56,8 @@ service:
 ############################ call to action ###########################
 cta:
   enable: true
-  bg_image: "images/call-to-action-bg.jpg"
+  # bg_image: "images/call-to-action-bg.jpg"
+  bg_image: "images/web-images/twilight.jpg"
   title: "We design delightful digital experiences."
   content: "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
   button:

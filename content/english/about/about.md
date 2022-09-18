@@ -1,7 +1,7 @@
 ---
 title: "What's WFST?"
 description: "this is meta description"
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/web-images/twilight.jpg"
 layout: "about"
 draft: false
 
