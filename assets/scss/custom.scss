@@ -1,8 +1,8 @@
 //导航栏悬停下拉菜单
 @media (min-width: 979px) {
   ul.nav li.dropdown:hover>ul.dropdown-menu {
-      display: block;
-      margin-top: 0px;
+    display: block;
+    margin-top: 0px;
   }
 }
 
@@ -10,28 +10,33 @@
 header {
   min-height: 10px;
   z-index: 3;
-  box-shadow: 0 1rem 3rem rgba(0,0,0,.175);
+  box-shadow: 0 1rem 3rem rgba(0, 0, 0, .175);
 }
 
 // 调整顶部导航栏大小写、位置
 .navigation {
   padding: 9px 0 12px;
+
   .navbar {
     .navbar-nav {
+
       // margin-right: 40px;
-      a  {  
+      a {
         font : {
           weight: 400;
           size: 17px;
         }
+
         &:focus {
           background: transparent;
         }
+
         text-transform: none;
       }
-      }
+    }
   }
 }
+
 // body {
 //   background-color: rgba(34, 61, 83, 0.637);
 // }
@@ -39,8 +44,20 @@ header {
   h2 {
     color: white;
   }
+
   p {
-    color: darken( $white, 20.37);
-    font-size : 18px;
+    color: darken($white, 20.37);
+    font-size: 18px;
+  }
+}
+
+//段首缩进
+.post-content>p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  text-indent: 2rem;
+
+  &:has(>img:first-child) {
+    text-indent: 0rem;
   }
 }

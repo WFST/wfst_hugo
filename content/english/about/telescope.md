@@ -11,7 +11,6 @@ description: "about: telescope"
 *University of Science and Technology of China; Purple Mountain Observatory*
 
 ![img](/images/f0c58ec3-38a1-4ddd-b5cc-fb11e79adbf9.jpg)
-
 Time-domain astronomy through large-scale repeated observations, exploring various astronomical objects and new phenomena in the universe, and monitoring the time variation of various astronomical objects, is a new direction for astronomy to have major scientific opportunities.
 
 ## Overview
