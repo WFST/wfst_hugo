@@ -66,3 +66,26 @@ header {
     text-indent: 0rem;
   }
 }
+
+.footer {
+  background: darken($color-primary, 20%);
+  &:hover {
+    background: darken($color-primary, 25%);
+  }
+  .footer-menu ul li a{
+      display: inline-block;
+      color: darken( $white, 28.6 );
+      &:hover {
+        color: $white;
+    }
+  }
+  .theme-by {
+  a {
+    display: inline-block;
+    color: darken( $white, 28.6 );
+    &:hover {
+      color: $white;
+    }
+  }
+}
+}

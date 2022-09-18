@@ -1,0 +1,20 @@
+<footer class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="footer-menu">
+          <ul>
+            {{ range site.Menus.footer }}
+            <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+        <p class="institutions">
+          <img src="/images/logo8.png" alt="University of Science and Technology of China; Purple Mountain Observatory">
+        </p>
+        <p class="theme-by">Modified from <a href="https://gohugo.io">Hugo</a> theme <a
+            href="https://github.com/themefisher/airspace">airspace</a></p>
+      </div>
+    </div>
+  </div>
+</footer>
