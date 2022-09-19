@@ -9,6 +9,7 @@ tags: ["list","Technology"]
 description: "this is meta description"
 draft: false
 type: "list"
+math: true
 ---
 
 ## test type: "list"

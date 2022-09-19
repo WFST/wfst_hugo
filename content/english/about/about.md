@@ -4,6 +4,7 @@ description: "this is meta description"
 bg_image: "images/web-images/twilight.jpg"
 layout: "about"
 draft: false
+math: true
 
 
 ################################## About #####################################
