@@ -6,6 +6,7 @@ draft: False
 description: "about: camera"
 type: "post"
 author: "WFST"
+math: true
 ---
 
 # Camera

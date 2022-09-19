@@ -2,6 +2,7 @@
 title: "AGNs"
 date: 2022-09-02T22:41:09+08:00
 draft: false
+math: true
 ---
 
 
