@@ -4,9 +4,12 @@
     display: block;
     margin-top: 0px;
   }
+  .open>.dropdown-menu {
+    display: none;
+  }
 }
 
-//顶部导航栏在页面最前端不会被覆盖
+//顶部导航栏在页面最前端不会被覆盖、阴影效果。
 header {
   min-height: 10px;
   z-index: 3;
@@ -52,7 +55,7 @@ header {
 }
 
 //取消about页不透明度
-.about .about-img .img-responsive{
+.about .about-img .img-responsive {
   opacity: 1;
 }
 
@@ -67,25 +70,31 @@ header {
   }
 }
 
+//重设页脚样式
 .footer {
   background: darken($color-primary, 20%);
+
   &:hover {
     background: darken($color-primary, 25%);
   }
-  .footer-menu ul li a{
-      display: inline-block;
-      color: darken( $white, 28.6 );
-      &:hover {
-        color: $white;
-    }
-  }
-  .theme-by {
-  a {
+
+  .footer-menu ul li a {
     display: inline-block;
-    color: darken( $white, 28.6 );
+    color: darken($white, 28.6);
+
     &:hover {
       color: $white;
     }
   }
-}
+
+  .theme-by {
+    a {
+      display: inline-block;
+      color: darken($white, 28.6);
+
+      &:hover {
+        color: $white;
+      }
+    }
+  }
 }
