@@ -5,7 +5,7 @@ banner:
   enable: true
   # bg_image: "images/homepage.jpg"
   bg_image: "images/web-images/obstory.jpg"
-  bg_overlay: true
+  bg_overlay: false
   title: " WFST <br/> Wide Field Survey Telescope"
   content: "balabala"
   button:
@@ -62,7 +62,7 @@ cta:
 
 ############################# Funfacts ###############################
 funfacts:
-  enable: true
+  enable: false
   title: "Fun Facts About Us"
   description: "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
   funfact_item:

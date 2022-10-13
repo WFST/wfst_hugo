@@ -87,7 +87,9 @@ header {
 .about .about-img .img-responsive {
   opacity: 1;
 }
-
+.page-title:before{
+  opacity: 0;
+}
 //段首缩进
 .post-content>p {
   margin-top: 0;
@@ -101,10 +103,10 @@ header {
 
 //重设页脚样式
 .footer {
-  background: darken($color-primary, 20%);
+  background: darken($color-primary, 60%);
 
   &:hover {
-    background: darken($color-primary, 25%);
+    background: darken($color-primary, 70%);
   }
 
   .footer-menu ul li a {
