@@ -33,8 +33,7 @@
           {{ $active := eq $childURL $pageURL }}
           {{ if $active }}current{{ end }}
           {{ end }}">
-            {{/* 禁用点击展开<a class="dropdown-toggle" href="#" role="button" data-toggle="" aria-haspopup="true" */}} <a
-              class="dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
+            <a class="dropdown-toggle hvr-overline-from-left" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
               aria-expanded="false">
               {{ .Name }} <span class="fas fa-angle-down"></span>
             </a>
