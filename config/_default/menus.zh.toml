@@ -5,10 +5,12 @@
 name = "首页"
 url = ""
 weight = 1
+pre = "<i class='fas fa-home'></i>"
 
 [[main]]
 name = "关于"
 weight = 2
+pre = "<i class='fas fa-info-circle'></i>"
 hasChildren = true
 
   [[main]]
@@ -45,6 +47,7 @@ hasChildren = true
 name = "科学"
 url = "science/"
 weight = 3
+pre = "<i class='fas fa-atom'></i>"
 hasChildren = true
 
   [[main]]
@@ -77,6 +80,7 @@ hasChildren = true
 name = "巡天及数据"
 url = "survey-and-data/"
 weight = 4
+pre = "<i class='fas fa-database'></i>"
 hasChildren = true
 
   [[main]]
@@ -107,6 +111,7 @@ hasChildren = true
 [[main]]
 weight = 5
 name = "出版及亮点"
+pre = "<i class='fas fa-book'></i>"
 hasChildren = true
 
   [[main]]
@@ -124,6 +129,7 @@ hasChildren = true
 [[main]]
 weight = 6
 name = "新闻及会议"
+pre = "<i class='fas fa-clock'></i>"
 hasChildren = true
 
   [[main]]
@@ -141,6 +147,7 @@ hasChildren = true
 [[main]]
 weight = 7
 name = "教育及延伸"
+pre = "<i class='fas fa-graduation-cap'></i>"
 hasChildren = true
 
   [[main]]

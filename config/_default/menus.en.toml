@@ -5,11 +5,13 @@
 name = "Home"
 url = ""
 weight = 1
+pre = "<i class='fas fa-home'></i>"
 
 [[main]]
 name = "About"
 url = "about/"
 weight = 2
+pre = "<i class='fas fa-info-circle'></i>"
 hasChildren = true
 
   [[main]]
@@ -46,6 +48,7 @@ hasChildren = true
 name = "Science"
 url = "science/"
 weight = 3
+pre = "<i class='fas fa-atom'></i>"
 hasChildren = true
 
   [[main]]
@@ -77,6 +80,7 @@ hasChildren = true
 name = "Survey & Data"
 url = "survey-and-data/"
 weight = 4
+pre = "<i class='fas fa-database'></i>"
 hasChildren = true
 
   [[main]]
@@ -107,6 +111,7 @@ hasChildren = true
 [[main]]
 weight = 5
 name = "Publications"
+pre = "<i class='fas fa-book'></i>"
 hasChildren = true
 
   [[main]]
@@ -124,6 +129,7 @@ hasChildren = true
 [[main]]
 weight = 6
 name = "News & Meetings"
+pre = "<i class='fas fa-clock'></i>"
 hasChildren = true
 
   [[main]]
@@ -141,6 +147,7 @@ hasChildren = true
 [[main]]
 weight = 7
 name = "Education & Outreach"
+pre = "<i class='fas fa-graduation-cap'></i>"
 hasChildren = true
 
   [[main]]
