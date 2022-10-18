@@ -1,5 +1,5 @@
 //导航栏悬停下拉菜单
-@media (min-width: 979px) {
+@media (min-width: 993px) {
   ul.nav li.dropdown:hover>ul.dropdown-menu {
     display: block;
     margin-top: 0px;
@@ -8,6 +8,7 @@
     display: none;
   }
 }
+
 /* Overline From Left */
 .hvr-overline-from-left {
   display: inline-block;
