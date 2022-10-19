@@ -4,10 +4,12 @@
     display: block;
     margin-top: 0px;
   }
+
   .open>.dropdown-menu {
     display: none;
   }
-  .navigation .navbar .dropdown-menu{
+
+  .navigation .navbar .dropdown-menu {
     border-radius: 4px;
   }
 }
@@ -22,6 +24,7 @@
   position: relative;
   overflow: hidden;
 }
+
 .hvr-overline-from-left:before {
   content: "";
   position: absolute;
@@ -38,7 +41,10 @@
   -webkit-transition-timing-function: ease-out;
   transition-timing-function: ease-out;
 }
-.hvr-overline-from-left:hover:before, .hvr-overline-from-left:focus:before, .hvr-overline-from-left:active:before {
+
+.hvr-overline-from-left:hover:before,
+.hvr-overline-from-left:focus:before,
+.hvr-overline-from-left:active:before {
   right: 0;
 }
 
@@ -50,11 +56,12 @@ header {
 }
 
 //按钮圆角
-.btn{
+.btn {
   border-radius: 5em;
 }
+
 //导航栏子菜单圆角
-.dropdown-menu{
+.dropdown-menu {
   border-radius: 4px;
 }
 
