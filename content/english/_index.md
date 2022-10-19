@@ -18,7 +18,8 @@ about:
   enable: true
   title: "about"
   description: "Wide Field Survey Telescope (WFST) is a dedicated photometric survey facility, being built and operated jointly by University of Science and Technology of China (USTC) and Purple Mountain observatory. "
-  content: "It consists of a telescope with the primary mirror of diameter 2.5m with an active optical system and a mosaic CCD camera of 0.764 Gigapixels on the main focus plane to achieve high-quality images over a field of view of 6.5 square degrees. The telescope is expected to be installed on the top of Saishiteng Mountain, Lenghu in the fall of 2022, and start to operate from the spring of 2023. WFST will survey north sky in five bands, $u$, $g$, $r$, $i$ and $z$ at cadences from daily to weekly in the deep high-cadence survey (DHS) and the wide field surveys (WFS), respectively. With the expected single exposure depths of 22.40, 23.35, 22.95, 22.59 and 21.64 AB mag in nominal 30s exposures, the surveys will allow us to explore faint energetic transients, including the electromagnetic counterparts of gravitational wave events discovered by the second and third generation GW detectors, early-phase light curves of supernova explosion or at intermediate redshifts, tidal disruption events and fast optical transients as well as the variability of Galactic and extragalactic objects. The final 6-year coadded images will reach $g=25.5$ mag for the wide field survey and 1.5 mag deeper for the deep high-cadence survey, valuable for general galactic and extragalactic sciences as well. These uniform legacy surveys are highly complementary to those of LSST in the southern sky. "
+  content: "It consists of a telescope with the primary mirror of diameter 2.5m with an active optical system and a mosaic CCD camera of 0.764 Gigapixels on the main focus plane to achieve high-quality images over a field of view of 6.5 square degrees. The telescope is expected to be installed on the top of Saishiteng Mountain, Lenghu in the fall of 2022, and start to operate from the spring of 2023. 
+  "
   image: "images/wfst-human.png"
 
 
@@ -29,12 +30,6 @@ portfolio:
   # bg_image: "images/web-images/twilight.jpg"
   title: "WE BELIEVE IN GREAT IDEAS"
   content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
   "
   button:
     enable: true
