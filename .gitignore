@@ -3,6 +3,7 @@ themes/
 *.DS_Store
 **/.*
 !/.gitignore
+!.gitlab-ci.yml
 
 Thumbs.db
 .dist
