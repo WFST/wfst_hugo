@@ -7,6 +7,9 @@
   .open>.dropdown-menu {
     display: none;
   }
+  .navigation .navbar .dropdown-menu{
+    border-radius: 4px;
+  }
 }
 
 /* Overline From Left */
@@ -44,6 +47,15 @@ header {
   min-height: 10px;
   z-index: 3;
   box-shadow: 0 1rem 3rem rgba(0, 0, 0, .175);
+}
+
+//按钮圆角
+.btn{
+  border-radius: 5em;
+}
+//导航栏子菜单圆角
+.dropdown-menu{
+  border-radius: 4px;
 }
 
 // 调整顶部导航栏大小写、位置
