@@ -1,7 +1,7 @@
 ---
 title: "Test:MathJax"
 date: 2022-09-16T15:11:51+08:00
-draft: true
+draft: false
 # description
 description: "This is meta description"
 math: true
