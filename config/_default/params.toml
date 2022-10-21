@@ -13,7 +13,9 @@ navbar_fixed = true
 # OpenGraph / Twitter Card metadata
 description = "Wide Field Survey Telescope"
 author = ""
-image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+image = "images/wfst/lenghu.jpeg" # this image will be used as fallback if a page has no image of its own
+useDefualtBgImage = true
+backgroundimage = "images/web-images/obstory.jpg"
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
 # contact info

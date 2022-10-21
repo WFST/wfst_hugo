@@ -107,6 +107,9 @@ header {
 .about .about-img .img-responsive {
   opacity: 1;
 }
+.overly:before, .page-title:before {
+  opacity: 0;
+}
 
 //段首缩进
 .post-content>p {

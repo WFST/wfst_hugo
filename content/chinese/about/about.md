@@ -1,7 +1,7 @@
 ---
 title: "什么是WFST"
 description: "jlsajfioaj"
-bg_image: "images/web-images/twilight.jpg"
+bg_image: "images/web-images/obstory.jpg"
 layout: "about"
 draft: false
 
