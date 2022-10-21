@@ -1,4 +1,4 @@
-<section class="page-title bg-2" style="background-image: url('{{ .Params.bg_image | relURL }}');">
+<section class="page-title bg-2" style="background-image: url('{{if .Params.bg_image}}{{ .Params.bg_image | relURL }}{{else}}{{ site.Params.backgroundimage  | relURL }}{{end}}');">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
