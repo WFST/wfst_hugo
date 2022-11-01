@@ -1,9 +1,7 @@
 {{ define "main" }}
-
-<!-- banner -->
 {{ with .Params.banner }}
 {{ if .enable }}
-<section class="slider {{ if .bg_overlay }}overly{{ end }}" style="background-image: url('{{ .bg_image | relURL }}');">
+<section class="slider {{ if .bg_overlay }}overly{{ end }}" style="background: url('{{ .bg_image | relURL }}') center center / cover no-repeat;">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
@@ -57,7 +55,7 @@
 <section class="feature bg-2" style="background-image: url('{{ .bg_image | relURL }}')">
   <div class="container">
     <div class="row">
-      <div class="col-md-6 col-md-offset-7" >
+      <div class="col-md-6 col-md-offset-7">
         {{ with .title }}<h2 class="section-subtitle">{{ . | markdownify }}</h2>{{ end }}
         {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
         {{ with .button }}

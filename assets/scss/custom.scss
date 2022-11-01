@@ -50,6 +50,9 @@
 
 //顶部导航栏在页面最前端不会被覆盖、阴影效果。
 header {
+  position: fixed;
+  top: 0;
+  width: 100%;
   min-height: 10px;
   z-index: 3;
   box-shadow: 0 1rem 3rem rgba(0, 0, 0, .175);
@@ -67,7 +70,7 @@ header {
 
 // 调整顶部导航栏大小写、位置
 .navigation {
-  padding: 9px 0 12px;
+  padding: 9px 0 12px 0;
 
   .navbar {
     .navbar-nav {
@@ -89,12 +92,9 @@ header {
   }
 }
 
-// body {
-//   background-color: rgba(34, 61, 83, 0.637);
-// }
 .feature {
   h2 {
-    color: white;
+    color: $white;
   }
 
   p {
@@ -107,7 +107,10 @@ header {
 .about .about-img .img-responsive {
   opacity: 1;
 }
-.overly:before, .page-title:before {
+
+//取消蒙版效果
+.overly:before,
+.page-title:before {
   opacity: 0;
 }
 
@@ -125,10 +128,6 @@ header {
 //重设页脚样式
 .footer {
   background: darken($color-primary, 60%);
-
-  &:hover {
-    background: darken($color-primary, 70%);
-  }
 
   .footer-menu ul li a {
     display: inline-block;
@@ -150,3 +149,71 @@ header {
     }
   }
 }
+
+//封面图
+.slider {
+  height: 100vh;
+}
+
+.page-title {
+  height: 60vh;
+}
+
+.slider,
+.page-title {
+  display: flex;
+  align-items: center;
+}
+
+//划出封面图之前导航栏的样式
+.navi-unfold {
+  &.navigation {
+    background-color: transparent;
+  }
+
+  &.navigation .navbar .navbar-nav a {
+    color: darken($white, 20);
+  }
+
+  &.navigation .navbar .navbar-nav a.current,
+  &.navigation .navbar .navbar-nav a:hover,
+  &.navigation .navbar .current>.dropdown-toggle {
+    color: $white;
+  }
+
+  .dropdown-menu {
+    background-color: rgba(0, 0, 0, 0.4);
+  }
+}
+
+//导航栏特效
+.navi-fold {
+  animation-name: changeBgColor;
+  animation-duration: 1s;
+}
+
+@keyframes changeBgColor {
+  from {
+    background-color: transparent;
+  }
+
+  to {
+    background-color: $white;
+  }
+}
+
+
+// .scroll-down-bar i.iconfont {
+//   font-size: 2rem;
+// font-weight: bold;
+// display: inline-block;
+// position: relative;
+// padding-top: 2rem;
+// transform: translateZ(0);
+// animation: scroll-down 1.5s infinite;
+// }
+// 
+// .scroll-down-bar {
+// text-align: center;
+// cursor: pointer;
+// }
