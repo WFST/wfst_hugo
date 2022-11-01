@@ -1,5 +1,5 @@
 <!-- navigation -->
-<header class="{{if site.Params.navbar_fixed}}sticky-top{{end}} navigation">
+<header class="{{if site.Params.navbar_fixed}}sticky-top {{end}}navigation navi-unfold">
   <div class="container-fluid">
     <!-- navbar -->
     <nav class="navbar">
@@ -69,7 +69,7 @@
               style="padding:6px 5px 6px 5px">
               {{ range .Translations }}
               <li class="list f5 f4-ns fw4 dib {{ cond (eq $.Site.Language.LanguageDirection " rtl") "pl3" "pr3" }}">
-                |<a class="hover-white no-underline white-90" href="{{ .RelPermalink }}">
+                <a class="hover-white no-underline white-90" href="{{ .RelPermalink }}">
                   <i class="fas fa-globe"></i>
                   {{ if eq .Lang "zh" }}中{{else}}En{{end}}
                 </a>
