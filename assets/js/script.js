@@ -24,12 +24,10 @@ $(window).on('load', function () {
 
 $(document).ready(function () {
   'use strict';
-  const transparentHeight = ($('.slider').outerHeight() | $('.page-title').outerHeight()) - 70;
+  const transparentHeight = ($('.slider').outerHeight() || $('.page-title').outerHeight()) - 70;
   $(window).scroll(function () {
     let topDistance = $(document).scrollTop();
-    console.log(transparentHeight,topDistance);
     if (topDistance > transparentHeight) {
-      console.log(topDistance);
       $('.navigation').addClass('navi-fold');
       $('.navigation').removeClass('navi-unfold');
     }
