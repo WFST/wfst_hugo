@@ -14,6 +14,30 @@
   }
 }
 
+.dropdown-menu {
+  animation: slideDown .3s;
+}
+
+@keyframes slideDown {
+  0% {
+    top: 0;
+    z-index: -2000;
+    background-color: transparent;
+  }
+}
+
+.navigation .navbar .dropdown-menu a {
+  text-transform: none;
+  font-weight: 400;
+  color: #7c7c7c;
+  padding: 10px 20px;
+  -webkit-transition: color .1s ease, padding .3s ease;
+  -moz-transition: color .1s ease, padding .3s ease;
+  -ms-transition: color .1s ease, padding .3s ease;
+  -o-transition: color .1s ease, padding .3s ease;
+  transition: color .1s ease, padding .3s ease;
+}
+
 /* Overline From Left */
 .hvr-overline-from-left {
   display: inline-block;
@@ -43,7 +67,6 @@
 }
 
 .hvr-overline-from-left:hover:before,
-.hvr-overline-from-left:focus:before,
 .hvr-overline-from-left:active:before {
   right: 0;
 }
@@ -165,24 +188,27 @@ header {
   align-items: center;
 }
 
+.navi-unfold.navigation {
+  background-color: transparent;
+}
+
 //划出封面图之前导航栏的样式
-.navi-unfold {
-  &.navigation {
-    background-color: transparent;
-  }
+@media (min-width: 993px) {
+  .navi-unfold {
 
-  &.navigation .navbar .navbar-nav a {
-    color: darken($white, 20);
-  }
+    &.navigation .navbar .navbar-nav a {
+      color: darken($white, 20);
+    }
 
-  &.navigation .navbar .navbar-nav a.current,
-  &.navigation .navbar .navbar-nav a:hover,
-  &.navigation .navbar .current>.dropdown-toggle {
-    color: $white;
-  }
+    &.navigation .navbar .navbar-nav a.current,
+    &.navigation .navbar .navbar-nav a:hover,
+    &.navigation .navbar .current>.dropdown-toggle {
+      color: $white;
+    }
 
-  .dropdown-menu {
-    background-color: rgba(0, 0, 0, 0.4);
+    .dropdown-menu {
+      background-color: rgba(0, 0, 0, 0.4);
+    }
   }
 }
 
@@ -190,6 +216,14 @@ header {
 .navi-fold {
   animation-name: changeBgColor;
   animation-duration: 1s;
+}
+
+@media (max-width: 992px) {
+  #navigation.collapse.in {
+    background-color: $white;
+    animation-name: changeBgColor;
+    animation-duration: 1s;
+  }
 }
 
 @keyframes changeBgColor {

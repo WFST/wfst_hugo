@@ -24,7 +24,8 @@ $(window).on('load', function () {
 
 $(document).ready(function () {
   'use strict';
-  const transparentHeight = ($('.slider').outerHeight() || $('.page-title').outerHeight()) - 70;
+
+  const transparentHeight = ($('.slider').outerHeight() || $('.page-title').outerHeight()) - $('.navigation').outerHeight();
   $(window).scroll(function () {
     let topDistance = $(document).scrollTop();
     if (topDistance > transparentHeight) {
