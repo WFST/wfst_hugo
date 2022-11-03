@@ -26,16 +26,31 @@ $(document).ready(function () {
   'use strict';
 
   const transparentHeight = ($('.slider').outerHeight() || $('.page-title').outerHeight()) - $('.navigation').outerHeight();
+  $('h2').css('color','transparent')
   $(window).scroll(function () {
     let topDistance = $(document).scrollTop();
+    let windowHeight = $(window).height();
     if (topDistance > transparentHeight) {
-      $('.navigation').addClass('navi-fold');
-      $('.navigation').removeClass('navi-unfold');
+      $('.navigation').addClass('navi-milk');
+      $('.navigation').removeClass('navi-ice');
     }
     else {
-      $('.navigation').addClass('navi-unfold');
-      $('.navigation').removeClass('navi-fold');
+      $('.navigation').addClass('navi-ice');
+      $('.navigation').removeClass('navi-milk');
+      if(topDistance){
+
+      }
     }
+    $('h2').each(function () {
+      if (topDistance > $(this).offset().top - windowHeight*2/3 ) {
+        $(this).css('color','');
+        $(this).addClass('tracking-in-expand-fwd');
+      }
+      else if(topDistance <= Math.max(0,$(this).offset().top - windowHeight)){
+        $(this).removeClass('tracking-in-expand-fwd');
+        $(this).css('color','transparent');
+      }
+    })
   })
 
   // Shuffle js filter and masonry
