@@ -150,7 +150,7 @@ header {
 
 //重设页脚样式
 .footer {
-  background: darken($color-primary, 60%);
+  background-image: linear-gradient(to right,rgb(104,147,241),rgb(33,33,75));
 
   .footer-menu ul li a {
     display: inline-block;
@@ -405,5 +405,27 @@ header {
     -webkit-transform-origin: 50% 50%;
     transform-origin: 50% 50%;
     text-shadow: 0 1px 0 #cccccc, 0 2px 0 #cccccc, 0 3px 0 #cccccc, 0 4px 0 #cccccc, 0 5px 0 #cccccc, 0 6px 0 #cccccc, 0 7px 0 #cccccc, 0 8px 0 #cccccc, 0 9px 0 #cccccc, 0 50px 30px rgba(0, 0, 0, 0.3);
+  }
+}
+
+.bg-pan-left {
+	-webkit-animation: bg-pan-left 30s linear infinite alternate ;
+	        animation: bg-pan-left 30s linear infinite alternate ;
+}
+
+@-webkit-keyframes bg-pan-left {
+  0% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+@keyframes bg-pan-left {
+  0% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
   }
 }
