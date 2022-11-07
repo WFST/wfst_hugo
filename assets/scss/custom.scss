@@ -1,3 +1,6 @@
+h1 {
+  text-shadow: 2px 2px 4px #000;
+}
 //导航栏悬停下拉菜单
 @media (min-width: 993px) {
   ul.nav li.dropdown:hover>ul.dropdown-menu {
