@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ with .Params.banner }}
 {{ if .enable }}
-<section class="slider {{ if .bg_overlay }}overly{{ end }}" style="background: url('{{ .bg_image | relURL }}') center center / cover no-repeat;">
+<section class="slider bg-pan-left{{ if .bg_overlay }} overly{{ end }}" style="background: url('{{ .bg_image | relURL }}') center center / cover no-repeat;">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
