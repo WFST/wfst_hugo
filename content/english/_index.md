@@ -12,7 +12,7 @@ banner:
     enable: true
     label: "Discover Our Project"
     link: "about/about"
-  
+
 ############################# About #################################
 about:
   enable: true
