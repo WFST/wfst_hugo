@@ -85,9 +85,9 @@ hasChildren = true
 
   [[main]]
   parent = "Survey & Data"
-  name = "Survey Strategy and plan"
+  name = "Survey Strategy"
   weight = 1
-  url = "survey-and-data/survey-strategy-and-plan/"
+  url = "survey-and-data/survey-strategy"
 
   [[main]]
   parent = "Survey & Data"
@@ -128,39 +128,27 @@ hasChildren = true
 
 [[main]]
 weight = 6
-name = "News & Meetings"
+name = "News"
 pre = "<i class='fas fa-clock'></i>"
 hasChildren = true
 
   [[main]]
-  parent = "News & Meetings"
+  parent = "News"
   name = "News"
-  url = "news-and-meetings/news/"
+  url = "news/news/"
   weight = 1
-
-  [[main]]
-  parent = "News & Meetings"
-  name = "Meetings"
-  url = "news-and-meetings/meetings/"
-  weight = 2
 
 [[main]]
 weight = 7
-name = "Education & Outreach"
+name = "Join us"
 pre = "<i class='fas fa-graduation-cap'></i>"
 hasChildren = true
 
   [[main]]
-  parent = "Education & Outreach"
-  name = "Education"
-  url = "education-and-outreach/education/"
+  parent = "Join us"
+  name = "Join us"
+  url = "join-us/join-us/"
   weight = 1
-
-  [[main]]
-  parent = "Education & Outreach"
-  name = "Multimedia"
-  url = "education-and-outreach/multimedia/"
-  weight = 2
 
 
 # footer menu
@@ -185,11 +173,11 @@ url = "publications/"
 weight = 5
 
 [[footer]]
-name = "News & Meetings"
-url = "news-and-meetings/"
+name = "News"
+url = "news/news"
 weight = 6
 
 [[footer]]
-name = "Education & Outreach"
-url = "education-and-outreach/"
+name = "Join us"
+url = "join-us/join-us"
 weight = 7

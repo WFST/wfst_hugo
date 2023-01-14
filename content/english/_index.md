@@ -4,7 +4,7 @@ math: true
 banner:
   enable: true
   # bg_image: "images/homepage.jpg"
-  bg_image: "images/web-images/obstory.jpg"
+  bg_image: "images/web-images/mw.jpg"
   bg_overlay: false
   title: " WFST <br/> Wide Field Survey Telescope"
   content: "balabala"
