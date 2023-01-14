@@ -5,21 +5,23 @@ draft: false
 # description
 description: "This is meta description"
 ---
-
+  
+## [Limiting Magnitudes of the Wide Field Survey Telescope (WFST)](https://ui.adsabs.harvard.edu/abs/2023arXiv230103068L/abstract)
+ 
+- Expected to be of the highest survey power telescope in the northern hemisphere, the Wide Field Survey Telescope (WFST) will begin its routine observations of the northern sky since 2023. WFST will produce a lot of scientific data to support the researches of time-domain astronomy, asteroids and the solar system, galaxy formation and cosmology and so on. We estimated that the 5$\sigma$  limiting magnitudes of WFST with 30 second exposure are  u=22.31  mag,  g=23.42 mag,  r=22.95  mag,  i=22.43  mag,  z=21.50  mag,  w=23.61  mag. The above values are calculated for the conditions of  airmass=1.2 , seeing = 0.75 arcsec, precipitable water vapour (PWV) = 2.5 mm and Moon-object separation =  45$^∘$  at the darkest New Moon night of the Lenghu site (V=22.30 mag, Moon phase  θ=0$^∘$ ). The limiting magnitudes in different Moon phase conditions are also calculated. The calculations are based on the empirical transmittance data of WFST optics, the vendor provided CCD quantum efficiency, the atmospherical model transmittance and spectrum of the site. In the absence of measurement data such as sky transmittance and spectrum, we use model data.
+ 
 
 ## [Study of the detection capability and observation strategy of WFST-like telescope for kilonovae](https://ui.adsabs.harvard.edu/abs/2023SSPMA..53y9511H/abstract)
 
-- xxxx
-  
-## [Limiting Magnitudes of the Wide Field Survey Telescope (WFST)](https://ui.adsabs.harvard.edu/abs/2023arXiv230103068L/abstract)
-
-- xxxxxx
+- We simulated the sources of binary neutron star mergers at redshift z<0.2 and calculated the light curves for the kilonovae associated with these mergers by adopting a simple kilonova model. We investigated the detectability of these simulated kilonovae using the wide field survey telescope (WFST), large synoptic survey telescope (LSST), and Chinese space station telescope (CSST). We determined that the best band for WFST and LSST is the g band, which could detect most sources. Moreover, the best two-band-observing strategies are observing events through the $g$/$r$ band in the first 1.5 d and observing events via the $r$/$i$ band after 1.5 d. For CSST, by observing via a deep slitless spectrum, we determined that GU band could detect the events in the first 1.5 d, the GV band could detect the events in the first 3.5 d, and the GI band could detect the events in the longest time. Meanwhile, we determined that the effect of viewing angle on light curve is related to mass ratio. For sources with a mass ratio q<0.8, the effect of viewing angle on the lightcurve is small. Conversely, for sources with a mass ratio q>0.8, the effect of viewing angle on the light curve is significant.
 
 ## [Prospects of Searching for Type Ia Supernovae with 2.5-m Wide Field Survey Telescope](https://ui.adsabs.harvard.edu/abs/2022Univ....9....7H/abstract)
   
-- xxxx
+- Type Ia supernovae (SNe Ia) are thermonuclear explosions of carbon-oxygen white dwarfs (WDs) and are well-known as a distance indicator. However, it is still unclear how WDs increase their mass near the Chandrasekhar limit and how the thermonuclear runaway happens. The observational clues associated with these open questions, such as the photometric data within hours to days since the explosion, are scarce. Thus, an essential way is to discover SNe Ia at specific epochs with optimal surveys. The 2.5 m Wide Field Survey Telescope (WFST) is an upcoming survey facility deployed in western China. In this paper, we assess the detectability of SNe Ia with mock observations of the WFST. Followed by the volumetric rate, we generate a spectral series of SNe Ia based on a data-based model and introduce the line-of-sight extinction to calculate the brightness from the observer. By comparing with the detection limit of the WFST, which is affected by the observing conditions, we can count the number of SNe Ia discovered by mock WFST observations. We expect that the WFST can find more than 3.0×104 pre-maximum SNe Ia within one year of running. In particular, the WFST could discover about 45 bright SNe Ia, 99 early phase SNe Ia, or 1.1×104 well-observed SNe Ia with the hypothesized Wide, Deep, or Medium modes, respectively, suggesting that the WFST will be an influential facility in time-domain astronomy.
+
+
 
 ## [The prospects of finding tidal disruption events with 2.5-m Wide-Field Survey Telescope based on mock observations](https://ui.adsabs.harvard.edu/abs/2022MNRAS.513.2422L/abstract)
 
-- xxxxx
+- Optical time-domain surveys have been the dominant means of hunting for rare tidal disruption events (TDEs) in the past decade and remarkably advanced the TDE study. Particularly, the Zwicky Transient Facility has opened the era of population studies, and the upcoming Large Survey of Space and Time at the Vera Rubin Observatory is believed to further revolutionize the field soon. Here, we present the prospects of finding TDEs with another powerful survey to be performed by 2.5-m Wide-Field Survey Telescope (WFST). The WFST, located in western China, will be the most advanced facility dedicated to optical time-domain surveys in the Northern hemisphere once commissioning. We choose to assess its TDE detectability on the basis of mock observations, which is hitherto closest to reality by taking into consideration site conditions, telescope parameters, survey strategy, and transient searching pipeline. Our mock observations on a 440-deg2 field (CosmoDC2 catalogue) show that 29 $\pm$ 6 TDEs can be robustly found per year if observed at $u$, $g$, $r$, and $i$ bands with 30-s exposure every 10 days, in which a discovery is defined as $\geq$ 10 epochal detections in at least two filters. If the WFST survey is fully optimized for discovering TDEs, we would expect to identify 392 $\pm$ 74 TDEs every year, with the redshift up to z ~ 0.8, which poses a huge challenge to follow-up resources.
 
