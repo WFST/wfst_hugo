@@ -5,7 +5,7 @@ banner:
   # bg_image: "images/homepage.jpg"
   bg_image: "images/web-images/mw.jpg"
   bg_overlay: false
-  title: "大视场巡天望远镜 <br/> Wide Field Survey Telescope"
+  title: "墨子巡天望远镜 <br/> Wide Field Survey Telescope"
   content: "balabala"
   button:
     enable: true
@@ -98,6 +98,4 @@ funfacts:
     image: "images/clients/avater-3.jpg"
     designation: "CEO-Themefisher"
     content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
-
-
 ---
