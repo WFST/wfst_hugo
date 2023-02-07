@@ -3,14 +3,13 @@ math: true
 ############################### Banner ##############################
 banner:
   enable: true
-  # bg_image: "images/homepage.jpg"
-  bg_image: "images/web-images/mw.jpg"
+  bg_image: "images/slides/20230111冷湖地标航拍_2560x1918.jpg"
   bg_overlay: false
   title: " WFST <br/> Wide Field Survey Telescope"
-  content: "balabala"
+  content: ""
   button:
     enable: true
-    label: "Discover Our Project"
+    label: "About WFST"
     link: "about/about"
 
 ############################# About #################################
@@ -26,11 +25,9 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/web-images/gal2.jpg"
-  # bg_image: "images/web-images/twilight.jpg"
-  title: "WE BELIEVE IN GREAT IDEAS"
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-  "
+  bg_image: "images/slides/20220808全景2_2560x1920.jpg"
+  title: "B"
+  content: "bbbbb"
   button:
     enable: true
     label: "View Works"
@@ -46,10 +43,9 @@ service:
 ############################ call to action ###########################
 cta:
   enable: true
-  # bg_image: "images/wfst/wfst4.jpg"
-  bg_image: "images/web-images/twilight.jpg"
-  title: "We design delightful digital experiences."
-  content: "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  bg_image: "images/slides/20230111中景_2560x1707.jpg"
+  title: "D"
+  content: "dddd"
   button:
     enable: true
     label: "Tell Us Your Story"
@@ -57,48 +53,48 @@ cta:
 
 ############################# Funfacts ###############################
 funfacts:
-  enable: false
-  title: "Fun Facts About Us"
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
-  funfact_item:
-  # funfacts item loop
-  - icon: "fas fa-mug-hot" #https://fontawesome.com/v5.15/icons
-    name: "Cups Of Coffee"
-    count: "99"
-
-  # funfacts item loop
-  - icon: "fas fa-glasses" #https://fontawesome.com/v5.15/icons
-    name: "Article Written"
-    count: "45"
-
-  # funfacts item loop
-  - icon: "fas fa-keyboard" #https://fontawesome.com/v5.15/icons
-    name: "Projects Completed"
-    count: "125"
-
-  # funfacts item loop
-  - icon: "fas fa-clock" #https://fontawesome.com/v5.15/icons
-    name: "Combined Projects"
-    count: "200"
-
-  testimonial_slider:
-  # testimonial item loop
-  - name: "Raymond Roy"
-    image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
-
-  # testimonial item loop
-  - name: "Randi Renin"
-    image: "images/clients/avater-2.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
-
-  # testimonial item loop
-  - name: "Rose Rio"
-    image: "images/clients/avater-3.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
-
-
+  enable: true
+  title: "EE"
+  description: "eee"
+#  funfact_item:
+#  # funfacts item loop
+#  - icon: "fas fa-mug-hot" #https://fontawesome.com/v5.15/icons
+#    name: "Cups Of Coffee"
+#    count: "99"
+#
+#  # funfacts item loop
+#  - icon: "fas fa-glasses" #https://fontawesome.com/v5.15/icons
+#    name: "Article Written"
+#    count: "45"
+#
+#  # funfacts item loop
+#  - icon: "fas fa-keyboard" #https://fontawesome.com/v5.15/icons
+#    name: "Projects Completed"
+#    count: "125"
+#
+#  # funfacts item loop
+#  - icon: "fas fa-clock" #https://fontawesome.com/v5.15/icons
+#    name: "Combined Projects"
+#    count: "200"
+#
+#  testimonial_slider:
+#  # testimonial item loop
+#  - name: "Raymond Roy"
+#    image: "images/clients/avater-1.jpg"
+#    designation: "CEO-Themefisher"
+#    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel #that our site has unique elements that make us stand out from the crowd."
+#
+#  # testimonial item loop
+#  - name: "Randi Renin"
+#    image: "images/clients/avater-2.jpg"
+#    designation: "CEO-Themefisher"
+#    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel #that our site has unique elements that make us stand out from the crowd."
+#
+#  # testimonial item loop
+#  - name: "Rose Rio"
+#    image: "images/clients/avater-3.jpg"
+#    designation: "CEO-Themefisher"
+#    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel #that our site has unique elements that make us stand out from the crowd."
+#
+#
 ---

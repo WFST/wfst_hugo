@@ -1,7 +1,6 @@
 ---
 title: "什么是WFST"
-description: "jlsajfioaj"
-bg_image: "images/web-images/obstory.jpg"
+description: "Wide Field Survey Telescope"
 layout: "about"
 draft: false
 
@@ -10,53 +9,49 @@ draft: false
 about:
   enable : true
   image : "images/homepage.jpg"
-  title : "balabala"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
+  title : "Wide Field Survey Telescope"
+  content : "Large surveys have played major roles in the development of all fields of the astronomy since later 1950s. 
+          The first large sky surveys in optical bands were carried out from 1950s through 1980s with 1.2m Schmidt telescope of Palomar observatory in the northern hemisphere (Palomar Observatory Sky Surveys (POSS) I and II and UK Schmidt telescope at AAO and the ESO Schmidt telescope in Chile in the southern sky. Two micron all sky survey (2MASS) covering three near-infrared bands was completed in 2001 with a pair of matched 1.3m diameter telescopes (Arizona and Chile). These large sky surveys served as important sources of discovery from solar systems to galaxies and quasars for dozens."
 
-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-  velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-  dolor sit amet, consectetur adipisicing elit. Provident, neque!"
-
-  button:
-    enable : true
-    label : "Download Company Profile"
-    link : "#"
-
-  funfacts:
-  # funfacts loop
-  - icon : "fas fa-flask" #https://fontawesome.com/v5.15/icons
-    name : "Completed Projects"
-    count : "349"
-
-  # funfacts loop
-  - icon : "fas fa-fire-alt" #https://fontawesome.com/v5.15/icons
-    name : "Lines Of Code"
-    count : "35000"
-
-  # funfacts loop
-  - icon : "fas fa-glasses" #https://fontawesome.com/v5.15/icons
-    name : "Satisfied Customer"
-    count : "70"
-
-  # funfacts loop
-  - icon : "fas fa-trophy" #https://fontawesome.com/v5.15/icons
-    name : "Awards Winner"
-    count : "10"
-
-  # funfacts loop
-  - icon : "fas fa-glass-cheers" #https://fontawesome.com/v5.15/icons
-    name : "Satisfied Customer"
-    count : "75"
-
-  # funfacts loop
-  - icon : "fas fa-certificate" #https://fontawesome.com/v5.15/icons
-    name : "Awards Winner"
-    count : "20"
+#  button:
+#    enable : false
+#    label : "Download Company Profile"
+#    link : "#"
+#
+#  funfacts:
+#  # funfacts loop
+#  - icon : "fas fa-flask" #https://fontawesome.com/v5.15/icons
+#    name : "Completed Projects"
+#    count : "349"
+#
+#  # funfacts loop
+#  - icon : "fas fa-fire-alt" #https://fontawesome.com/v5.15/icons
+#    name : "Lines Of Code"
+#    count : "35000"
+#
+#  # funfacts loop
+#  - icon : "fas fa-glasses" #https://fontawesome.com/v5.15/icons
+#    name : "Satisfied Customer"
+#    count : "70"
+#
+#  # funfacts loop
+#  - icon : "fas fa-trophy" #https://fontawesome.com/v5.15/icons
+#    name : "Awards Winner"
+#    count : "10"
+#
+#  # funfacts loop
+#  - icon : "fas fa-glass-cheers" #https://fontawesome.com/v5.15/icons
+#    name : "Satisfied Customer"
+#    count : "75"
+#
+#  # funfacts loop
+#  - icon : "fas fa-certificate" #https://fontawesome.com/v5.15/icons
+#    name : "Awards Winner"
+#    count : "20"
 
 ################################ feature #####################################
 features:
-  enable : true
+  enable : false
   title : "We are indepented Design & Development Agency"
   feature_item:
   # feature item loop
