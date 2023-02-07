@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ with .Params.banner }}
 {{ if .enable }}
-<section class="slider bg-pan-left{{ if .bg_overlay }} overly{{ end }}" style="background: url('{{ .bg_image | relURL }}') center center / cover no-repeat;">
+<section class="slider {{ if .bg_overlay }} overly{{ end }}" style="background: url('{{ .bg_image | relURL }}') center center / cover no-repeat;">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
@@ -106,22 +106,6 @@
             </li>
             {{ end }}
           </ul>
-        </div>
-      </div>
-      <div class="col-md-5 col-md-offset-1">
-        <div class="testimonial-carousel text-center">
-          <div class="testimonial-slider owl-carousel">
-            {{ range .testimonial_slider }}
-            <div>
-              <i class="fas fa-quote-left"></i>
-              {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
-              <div class="user">
-                <img src="{{ .image | relURL }}" alt="client">
-                <p><span>{{ .name | markdownify }}</span> {{ .designation | markdownify }}</p>
-              </div>
-            </div>
-            {{ end }}
-          </div>
         </div>
       </div>
     </div>

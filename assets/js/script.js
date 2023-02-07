@@ -25,6 +25,7 @@ $(window).on('load', function () {
 $(document).ready(function () {
   'use strict';
 
+  // 自定义的特效
   const transparentHeight = ($('.slider').outerHeight() || $('.page-title').outerHeight()) - $('.navigation').outerHeight();
   $('h2').css('color','transparent')
   $(window).scroll(function () {
