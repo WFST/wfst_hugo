@@ -27,10 +27,11 @@ $(document).ready(function () {
 
   // 自定义的特效
   const transparentHeight = ($('.slider').outerHeight() || $('.page-title').outerHeight()) - $('.navigation').outerHeight();
-  $('h2').css('color','transparent')
+  $('.section-subtitle').css('color','transparent')
   $(window).scroll(function () {
     let topDistance = $(document).scrollTop();
     let windowHeight = $(window).height();
+    // 导航栏变色
     if (topDistance > transparentHeight) {
       $('.navigation').addClass('navi-milk');
       $('.navigation').removeClass('navi-ice');
@@ -42,7 +43,9 @@ $(document).ready(function () {
 
       }
     }
-    $('h2').each(function () {
+
+    //首页子标题浮现
+    $('.section-subtitle').each(function () {
       if (topDistance > $(this).offset().top - windowHeight*2/3 ) {
         $(this).css('color','');
         $(this).addClass('tracking-in-expand-fwd');
