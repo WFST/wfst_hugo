@@ -1,8 +1,8 @@
 #################### default parameters ################################
 # favicon
-favicon = "images/USTC_logo.png"
+favicon = "images/墨子-古文.png"
 # logo
-logo = "images/logo.png"
+logo = "images/墨子-古文.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = "150px"
