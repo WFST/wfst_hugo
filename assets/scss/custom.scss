@@ -11,6 +11,12 @@ h1+.btn-main {
   padding: 0 10px;
 }
 
+iframe {
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: auto;
+}
+
 //导航栏悬停下拉菜单
 @media (min-width: 993px) {
   ul.nav li.dropdown:hover>ul.dropdown-menu {
