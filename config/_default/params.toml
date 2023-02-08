@@ -5,7 +5,7 @@ favicon = "images/墨子-古文.png"
 logo = "images/墨子-古文.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
-logo_width = "150px"
+logo_width = "250px"
 # logo text will only show when logo is missing.
 logo_text = "WFST"
 # navbar fixed to top

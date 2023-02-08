@@ -128,28 +128,39 @@ hasChildren = true
 
 [[main]]
 weight = 6
-name = "News"
+name = "news-and-meetings"
 pre = "<i class='fas fa-clock'></i>"
 hasChildren = true
 
   [[main]]
-  parent = "News"
+  parent = "news-and-meetings"
   name = "News"
-  url = "news/news/"
+  url = "news-and-meetings/news/"
   weight = 1
+
+  [[main]]
+  parent = "news-and-meetings"
+  name = "meetings"
+  url = "news-and-meetings/meetings/"
+  weight = 2
 
 [[main]]
 weight = 7
-name = "Join us"
+name = "education-and-outreach"
 pre = "<i class='fas fa-graduation-cap'></i>"
 hasChildren = true
 
   [[main]]
-  parent = "Join us"
-  name = "Join us"
-  url = "join-us/join-us/"
+  parent = "education-and-outreach"
+  name = "education"
+  url = "education-and-outreach/education/"
   weight = 1
 
+  [[main]]
+  parent = "education-and-outreach"
+  name = "multimedia"
+  url = "education-and-outreach/multimedia/"
+  weight = 2
 
 # footer menu
 [[footer]]
@@ -178,6 +189,6 @@ url = "news/news"
 weight = 6
 
 [[footer]]
-name = "Join us"
+name = "education-and-outreach"
 url = "join-us/join-us"
 weight = 7

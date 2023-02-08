@@ -6,6 +6,11 @@ h1+.btn-main {
   background-color: rgba(10,170,255,0.8);
 }
 
+//logo大小
+.navigation a.navbar-brand{
+  padding: 0 10px;
+}
+
 //导航栏悬停下拉菜单
 @media (min-width: 993px) {
   ul.nav li.dropdown:hover>ul.dropdown-menu {
@@ -20,6 +25,7 @@ h1+.btn-main {
   .navigation .navbar .dropdown-menu {
     border-radius: 4px;
   }
+
 }
 
 .dropdown-menu {

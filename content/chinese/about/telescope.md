@@ -6,7 +6,7 @@ description: "关于：望远镜"
 ---
 
 
-# Wide Field Survey Telescope
+# 墨子巡天望远镜
 
 *中国科学技术大学；紫金山天文台*
 
