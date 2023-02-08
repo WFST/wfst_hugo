@@ -9,7 +9,7 @@ pre = "<i class='fas fa-home'></i>"
 
 [[main]]
 name = "About"
-url = "about/"
+# url = "about/"
 weight = 2
 pre = "<i class='fas fa-info-circle'></i>"
 hasChildren = true
