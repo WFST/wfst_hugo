@@ -105,8 +105,8 @@ content = "This site uses cookies. By continuing to use this website, you agree 
 button = "I Accept"
 
 ######################## sidebar widgets #########################
-[widgets]
-sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
+#[widgets]
+#sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 # available widget : categories,tags,recent-post
 
 ############################# social site ########################

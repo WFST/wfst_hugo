@@ -24,3 +24,4 @@
   - 英文 `/content/english`
 7. 注意：图片需放置在 `/static/images/`路径下。
 8. 修改完文件后，用命令 `hugo`生成静态页面即可push。
+
