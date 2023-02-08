@@ -12,7 +12,7 @@
 
 ## 网站测试流程
 
-该测试主题基于：[airspace-hugo](https://github.com/themefisher/airspace-hugo),其将作为子模块被引用,一般来说，不要在子模块目录下做改动，方便拉取子模块的更新.
+该测试主题基于：[airspace-hugo](https://github.com/themefisher/airspace-hugo)，其将作为子模块被引用。一般来说，不要在子模块目录下做改动，方便拉取子模块的更新.
 
 1. 下载仓库到本地：`git clone --recursive https://github.com/WFST/wfst_hugo.git`，如成功下载了子模块，可直接跳到步骤5.
 2. 让git先根据/.gitmodules初始化子模块：`git submodule init`
