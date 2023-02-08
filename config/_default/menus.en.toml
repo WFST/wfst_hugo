@@ -29,7 +29,7 @@ hasChildren = true
   [[main]]
   parent = "About"
   name = "Site"
-  url = "location/"
+  url = "about/site/"
   weight = 3
 
   [[main]]
@@ -53,7 +53,7 @@ hasChildren = true
 
   [[main]]
   parent = "Science"
-  name = "Time-domain astronomy"
+  name = "Time-domain Astronomy"
   weight = 1
   url = "science/time-domain/"
       
@@ -66,13 +66,13 @@ hasChildren = true
       
   [[main]]
   parent = "Science"
-  name = "Milky Way and its neighbours"
+  name = "Milky Way and its Neighbours"
   weight = 3
   url = "science/milky-way-and-neighbours/"
 
   [[main]]
   parent = "Science"
-  name = "Galaxies and cosmology"
+  name = "Galaxies and Cosmology"
   weight = 4
   url = "science/galaxies-and-cosmology/"
 
@@ -91,19 +91,19 @@ hasChildren = true
 
   [[main]]
   parent = "Survey & Data"
-  name = "Data reduction and management"
+  name = "Data Reduction and Management"
   weight = 2
   url = "survey-and-data/data-reduction-and-management/"
 
   [[main]]
   parent = "Survey & Data"
-  name = "Alert stream"
+  name = "Alert Stream"
   weight = 3
   url = "survey-and-data/alert-stream/"
 
   [[main]]
   parent = "Survey & Data"
-  name = "Data release"
+  name = "Data Release"
   weight = 4
   url = "survey-and-data/data-release/"
 
@@ -122,45 +122,51 @@ hasChildren = true
 
   [[main]]
   parent = "Publications"
-  name = "Research highlights"
+  name = "Research Highlights"
   url = "publications/highlights/"
   weight = 2
 
 [[main]]
 weight = 6
-name = "news-and-meetings"
+name = "News & Meetings"
 pre = "<i class='fas fa-clock'></i>"
 hasChildren = true
 
   [[main]]
-  parent = "news-and-meetings"
+  parent = "News & Meetings"
   name = "News"
   url = "news-and-meetings/news/"
   weight = 1
 
   [[main]]
-  parent = "news-and-meetings"
-  name = "meetings"
+  parent = "News & Meetings"
+  name = "Meetings"
   url = "news-and-meetings/meetings/"
   weight = 2
 
 [[main]]
 weight = 7
-name = "education-and-outreach"
+name = "Education & Outreach"
 pre = "<i class='fas fa-graduation-cap'></i>"
 hasChildren = true
 
   [[main]]
-  parent = "education-and-outreach"
-  name = "education"
+  parent = "Education & Outreach"
+  name = "Education"
   url = "education-and-outreach/education/"
   weight = 1
 
   [[main]]
-  parent = "education-and-outreach"
-  name = "multimedia"
-  url = "education-and-outreach/multimedia/"
+  parent = "Education & Outreach"
+  name = "Album"
+  url = "album/"
   weight = 2
+
+  [[main]]
+  parent = "Education & Outreach"
+  name = "Video"
+  url = "education-and-outreach/video/"
+  weight = 3
 
 # footer menu
 [[footer]]
@@ -184,11 +190,11 @@ url = "publications/"
 weight = 5
 
 [[footer]]
-name = "News"
-url = "news/news"
+name = "News & Meetings"
+url = "news-and-meetings/"
 weight = 6
 
 [[footer]]
-name = "education-and-outreach"
-url = "join-us/join-us"
+name = "Education & Outreach"
+url = "education-and-outreach/"
 weight = 7
