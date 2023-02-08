@@ -9,7 +9,7 @@ draft: false
 about:
   enable : true
   image : "images/homepage.jpg"
-  title : "Wide Field Survey Telescope"
+  title : "墨子巡天望远镜"
   content : "Large surveys have played major roles in the development of all fields of the astronomy since later 1950s. 
           The first large sky surveys in optical bands were carried out from 1950s through 1980s with 1.2m Schmidt telescope of Palomar observatory in the northern hemisphere (Palomar Observatory Sky Surveys (POSS) I and II and UK Schmidt telescope at AAO and the ESO Schmidt telescope in Chile in the southern sky. Two micron all sky survey (2MASS) covering three near-infrared bands was completed in 2001 with a pair of matched 1.3m diameter telescopes (Arizona and Chile). These large sky surveys served as important sources of discovery from solar systems to galaxies and quasars for dozens."
 

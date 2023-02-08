@@ -28,7 +28,7 @@ hasChildren = true
   [[main]]
   parent = "关于"
   name = "台址"
-  url = "location/"
+  url = "about/site/"
   weight = 3
 
   [[main]]
@@ -59,7 +59,7 @@ hasChildren = true
 
   [[main]]
   parent = "科学"
-  name = "太阳系天体"
+  name = "太阳系"
   url = "science/asteroids-and-the-solar-system/"
   weight = 2
   
@@ -158,9 +158,15 @@ hasChildren = true
 
   [[main]]
   parent = "教育及延伸"
-  name = "多媒体"
-  url = "education-and-outreach/multimedia/"
+  name = "图集"
+  url = "album/"
   weight = 2
+
+    [[main]]
+  parent = "教育及延伸"
+  name = "视频"
+  url = "education-and-outreach/video/"
+  weight = 3
 
 
 # footer menu
