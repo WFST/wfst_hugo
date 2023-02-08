@@ -78,7 +78,7 @@ hasChildren = true
 
 [[main]]
 name = "Survey & Data"
-url = "survey-and-data/"
+url = "survey-and-data/survey-and-data/"
 weight = 4
 pre = "<i class='fas fa-database'></i>"
 hasChildren = true
