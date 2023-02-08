@@ -97,7 +97,7 @@ hasChildren = true
   
   [[main]]
   parent = "巡天及数据"
-  name = "Alert stream"
+  name = "警报流"
   weight = 3
   url = "survey-and-data/alert-stream/"
 
