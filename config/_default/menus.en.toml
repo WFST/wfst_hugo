@@ -53,7 +53,7 @@ hasChildren = true
 
   [[main]]
   parent = "Science"
-  name = "Time-domain Science"
+  name = "Time-domain astronomy"
   weight = 1
   url = "science/time-domain/"
       
@@ -66,15 +66,15 @@ hasChildren = true
       
   [[main]]
   parent = "Science"
-  name = "Milky Way and its Satellites"
+  name = "Milky Way and its neighbours"
   weight = 3
-  url = "science/milky-way-and-its-satellites/"
+  url = "science/milky-way-and-neighbours/"
 
   [[main]]
   parent = "Science"
-  name = "Galaxy formation and cosmology"
+  name = "Galaxies and cosmology"
   weight = 4
-  url = "science/galaxy-formation-and-cosmology/"
+  url = "science/galaxies-and-cosmology/"
 
 [[main]]
 name = "Survey & Data"
