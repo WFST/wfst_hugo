@@ -3,7 +3,7 @@ title: "巡天方案"
 date: 2022-09-06T15:11:51+08:00
 draft: false
 author: "Ji-an Jiang"
-description: "This is meta description"
+description: ""
 ---
 
 There are two planned key programs of the WFST 6-year survey: the Wide-field Survey (WFS) program and the Deep High-cadence $u$-band Survey (DHS) program. The different designed survey modes, in terms of survey depth, area and cadence, are commensurate with the primary scientific objectives of WFST. As part of the WFST 6-year survey, each program will occupy about 45\% of the total observing time. The remaining $\sim$ 10\% of the observing time (about 1,300 hours over 6 years) will be attributed to smaller campaigns for specific purposes, such as capturing time-critical targets and intensively scanning certain sky areas of particular interests (e.g. the Galactic plane).
