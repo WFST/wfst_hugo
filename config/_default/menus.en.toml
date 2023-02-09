@@ -78,7 +78,7 @@ hasChildren = true
 
 [[main]]
 name = "Survey & Data"
-url = "survey-and-data/survey-and-data/"
+url = "survey-and-data/overview/"
 weight = 4
 pre = "<i class='fas fa-database'></i>"
 hasChildren = true
@@ -87,7 +87,7 @@ hasChildren = true
   parent = "Survey & Data"
   name = "Survey Strategy"
   weight = 1
-  url = "survey-and-data/survey-strategy"
+  url = "survey-and-data/survey-strategy/"
 
   [[main]]
   parent = "Survey & Data"
