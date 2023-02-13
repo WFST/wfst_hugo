@@ -15,5 +15,3 @@ Surveys with ground-based optical telescopes are the most efficient way for comp
 
 Large aperture WFST and excellent night sky conditions of Lenghu, the combination have the advantage of twilight observations (we start observations at a sum altitude of -12 degree until -18 degree end observation). A twilight survey is one way to achieve the science use cases described without impacting WFST survey operations. However, we must be aware that background skybrightness at twilight will affect the detection limit of WFST, only a few larger near-Earth asteroids can be seen. Another thing to worry about during twilight NEA survey is the low-orbit satellites constellation like Starlink. All ZTF images taken during twilight may be affected once the size of the Starlink constellation reaches 10,000, essentially. WFST images from twilight NEA survey are not immune either.
 
-so they report a mean value of $\gamma = 0.23 \pm 0.02$ mag arcsec-2 min-1 that is within the range defined by our data.
-
