@@ -1,5 +1,5 @@
 ---
-math: true
+
 ############################### Banner ##############################
 banner:
   enable: true
@@ -24,7 +24,7 @@ about:
 
 ######################### Portfolio ###############################
 portfolio:
-  enable: true
+  enable: false
   bg_image: "images/slides/20220808全景2_2560x1920.jpg"
   title: "B"
   content: "bbbbb"
@@ -36,13 +36,13 @@ portfolio:
 
 ############################# Service ############################
 service:
-  enable: true
+  enable: false
   # service content comes from "service.md" file
 
 
 ############################ call to action ###########################
 cta:
-  enable: true
+  enable: false
   bg_image: "images/slides/20230111中景_2560x1707.jpg"
   title: "D"
   content: "dddd"
@@ -53,7 +53,7 @@ cta:
 
 ############################# Funfacts ###############################
 funfacts:
-  enable: true
+  enable: false
   title: "EE"
   description: "eee"
 #  funfact_item:
