@@ -6,6 +6,14 @@ p {
   font-size: 25px;
 }
 
+//markdown图片居中
+.md__image {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
 //按钮样式
 h1+.btn-main {
   background-color: rgba(10,170,255,0.8);
