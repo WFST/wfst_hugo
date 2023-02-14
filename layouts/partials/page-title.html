@@ -2,7 +2,8 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-        <div class="block">
+        {{/*  如果更换背景图片需要调整title位置，在这里调整padding数值  */}}
+        <div class="block" style="padding-bottom: 200px;">
           <h1 class="tracking-in-expand">{{ .Title }}</h1>
           <p>{{ .Params.description }}</p>
         </div>

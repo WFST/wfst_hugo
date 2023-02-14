@@ -35,11 +35,11 @@
           {{ if $active }}current{{ end }}
           {{ end }}">
           
-            <a class="dropdown-toggle hvr-overline-from-left" href="{{if .URL}}{{.URL | relLangURL}}{{else}}#{{end}}" role="button" data-toggle="" aria-haspopup="true"
+            <a class="dropdown-toggle hvr-overline-from-left" href="{{if .URL}}{{.URL | relLangURL}}{{else}}#{{end}}" role="button" data-toggle="collapse" aria-haspopup="true"
               aria-expanded="false">
               {{ .Pre }} {{ .Name }} <i class="fas fa-angle-down"></i>
             </a>
-            <ul class="dropdown-menu" style="{{if eq $.Lang `zh`}} width:200px {{else}} width:280px {{end}};">
+            <ul class="dropdown-menu" style="{{if eq $.Lang `zh`}} width:200px {{else}} width:300px {{end}};">
               {{ range .Children }}
               {{ $childURL := .URL | absLangURL }}
               {{ $active := eq $childURL $pageURL }}
@@ -65,8 +65,8 @@
             {{/* 取消语言选择下拉菜单,变成点击切换 */}}
             {{ if .IsTranslated }}
             {{/* <div style="height:6px"></div> */}}
-            <ul class="{{ cond (eq $.Site.Language.LanguageDirection " rtl") "pr0 ml3" "pl0 mr3" }}"
-              style="padding:6px 5px 6px 5px">
+            <ul class="{{ cond (eq $.Site.Language.LanguageDirection " rtl") "pr0 ml3" "pl0 mr3" }}">
+              {{/*  style="padding:6px 5px 6px 5px"  */}}
               {{ range .Translations }}
               <li class="list f5 f4-ns fw4 dib {{ cond (eq $.Site.Language.LanguageDirection " rtl") "pl3" "pr3" }}">
                 <a class="hover-white no-underline white-90" href="{{ .RelPermalink }}">
