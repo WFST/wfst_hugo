@@ -20,7 +20,7 @@ $font-secondary: '{{replace (replaceRE ":[ital,]*[ital@]*[wght@]*[0-9,;]+" "" .f
 $font-icon: '{{.font_icon | default "Font Awesome 5 Free"}}';
 {{ end }}
 
-$h1: 80px;
+$h1: 70px;
 $h1-md: 51px;
 $h2: 42px;
 $h2-md: 39px;
