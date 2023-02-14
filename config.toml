@@ -20,7 +20,7 @@ light = "#f5f5f5"
 
 # font variables
 # base font size for full website, 
-font_size = "15px" # default is 16px
+font_size = "25px" #<p>的默认大小 default is 16px
 
 # Font Scale Sizes
 # "minorSecond": 1.067,
@@ -36,11 +36,12 @@ font_scale = "1.25" # default is "majorThird": 1.25
 # go to https://fonts.google.com/ to find the font you want to use. select your font and copy only the bold part from the URL. and paste it here.
 # example: "Work+Sans:wght@400;500;600"
 # example: "Work+Sans:wght@400;500;600"
-#font_primary = "Roboto:wght@300;400"
+# font_primary = "Roboto:wght@300;400"
 #font_primary = "Cormorant+Garamond:wght@400;500;700"
 #font_primary =  "Work+Sans:wght@400;500;600"
-font_primary = "Cormorant+Garamond:wght@700"
-font_primary_type = "sans-serif" # [serif/sans-serif]font_secondary = "Volkhov:ital@1"
+font_primary = "Lora:wght@400"
+font_primary_type = "sans-  serif" # [serif/sans-serif]
+font_secondary = "Lora:wght@400"
 font_secondary_type = "serif" # [serif/sans-serif]
 font_icon = "Font Awesome 5 Free" # https://fontawesome.com/v5.15/icons/
 
