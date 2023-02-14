@@ -8,12 +8,13 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-        <div class="post post-single">
+        {{/*  <div class="post post-single">  */}}
+          <div>
           {{/*  <h2 class="post-title">{{ .Title }}</h2>  */}}
           <div class="post-meta">
             <ul>
-              <li><i class="ion-calendar"></i> {{ time.Format ":date_long" .PublishDate }}</li>
-              <li><i class="ion-android-people"></i>
+              <li style="font-size: 15px"><i class="ion-calendar"></i> {{ time.Format ":date_long" .PublishDate }}</li>
+              <li style="font-size: 15px"><i class="ion-android-people" ></i>
                 {{ i18n "posted_by" }}
                 {{ $authors := slice }}{{ if reflect.IsSlice .Params.author }}{{ $authors = .Params.author }}{{ else }}{{ $authors = (slice .Params.author) }}{{ end -}}
                 {{ range $index, $elements := $authors }}{{ if ne $index 0 }}, {{ end }}<a class="text-primary" href="{{ `author/` | relLangURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}

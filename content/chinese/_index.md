@@ -5,7 +5,7 @@ banner:
   # bg_image: "images/homepage.jpg"
   bg_image: "images/slides/20230111冷湖地标航拍_2560x1918.jpg"
   bg_overlay: false
-  title: "墨子巡天望远镜 <br/> Wide Field Survey Telescope"
+  title: "墨子巡天望远镜 <br/> Wide Field Survey <br/>Telescope"
   content: ""
   button:
     enable: true
