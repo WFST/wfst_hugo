@@ -5,6 +5,8 @@ draft: false
 description: " "
 ---
 
-# Lenghu time-lapse
-
-{{< bilibili BV1Yp4y1q75Z >}}
+# Videos about WFST
+## Top view of WFST
+<video controls>
+    <source src="/videos/264_1676272748.mp4">
+</video>
