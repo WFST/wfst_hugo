@@ -4,7 +4,7 @@ date: 2022-09-06T15:11:51+08:00
 description: ""
 ---
 
-## Referred papers published by WFST team：
+### Referred papers published by WFST team：
 
 [1. Liu, Zheng-Yan; Lin, Zhe-Yu; Yu, Ji-Ming; Wang, Hui-Yu; Mourani, Gibran-Marc; Zhao, Wen; Dai, Zi-Gao. arXiv:2302.00246 "Target of Opportunity Observations Detectability of Kilonova with WFST"](https://ui.adsabs.harvard.edu/abs/2023arXiv230200246L/abstract)
   
