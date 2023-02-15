@@ -1,19 +1,22 @@
-
-
-h1 {
+.page-title h1,
+.slider h1,
+.slider p {
   text-shadow: 2px 2px 4px #000;
   font-style: bold;
 }
 
-p,li {
-  
+p,
+li {
+
   font-size: $font_size;
   // font-family: $font-secondary;
   color: $text_dark;
   line-height: 30px;
 }
 
-
+video {
+  width: 100%;
+}
 
 //markdown图片居中
 .md__image {
@@ -25,11 +28,11 @@ p,li {
 
 //按钮样式
 h1+.btn-main {
-  background-color: rgba(10,170,255,0.8);
+  background-color: rgba(10, 170, 255, 0.8);
 }
 
 //logo大小
-.navigation a.navbar-brand{
+.navigation a.navbar-brand {
   padding: 0 10px;
 }
 
@@ -193,7 +196,7 @@ header {
 
 //重设页脚样式
 .footer {
-  background-image: linear-gradient(to right,rgb(104,147,241),rgb(33,33,75));
+  background-image: linear-gradient(to right, rgb(104, 147, 241), rgb(33, 33, 75));
 
   .footer-menu ul li a {
     display: inline-block;
@@ -452,22 +455,25 @@ header {
 }
 
 .bg-pan-left {
-	-webkit-animation: bg-pan-left 30s linear infinite alternate ;
-	        animation: bg-pan-left 30s linear infinite alternate ;
+  -webkit-animation: bg-pan-left 30s linear infinite alternate;
+  animation: bg-pan-left 30s linear infinite alternate;
 }
 
 @-webkit-keyframes bg-pan-left {
   0% {
     background-position: 100% 50%;
   }
+
   100% {
     background-position: 0% 50%;
   }
 }
+
 @keyframes bg-pan-left {
   0% {
     background-position: 100% 50%;
   }
+
   100% {
     background-position: 0% 50%;
   }

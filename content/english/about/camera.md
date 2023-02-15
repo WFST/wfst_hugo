@@ -9,7 +9,7 @@ author: "WFST"
 math: true
 ---
 
-# Camera
+## Camera
 
 *University of Science and Technology of China; Purple Mountain Observatory*
 
