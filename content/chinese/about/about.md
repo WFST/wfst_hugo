@@ -10,8 +10,6 @@ math: true
 ## Wide Field Survey Telescope
 *University of Science and Technology of China; Purple Mountain Observatory*
 
-![img](/images/whatsWFST.jpg)
-
 Time-domain astronomy through large-scale repeated observations, exploring various astronomical objects and new phenomena in the
 universe, and monitoring the time variation of various astronomical objects, is a new direction for astronomy to have major
 scientific opportunities.
@@ -30,3 +28,4 @@ evolution; discover planets or their moons in the Kuiper Belt and beyond;
 3. provide high-precision astrometric and photometric catalogs of objects down to r <25 mag, allowing us to precisely map structures
 of the Milky Way and the nearby universe."
 
+![img](/images/whatisWFST.jpg)

@@ -1,8 +1,16 @@
 .page-title h1,
-.slider h1,
-.slider p {
+
+.slider .block h1{
+  color: $white;
   text-shadow: 2px 2px 4px #000;
-  font-style: bold;
+  font-weight: 400;
+}
+
+.slider .block p {
+  color: $white;
+  text-shadow: 2px 2px 4px #000;
+  font-weight: 200;
+  font-size: $font_size*1.2;
 }
 
 p,
@@ -24,10 +32,15 @@ video {
   text-align: center;
   align-items: center;
   justify-content: center;
+  img {
+    border-radius: 10px;
+  }
 }
 
 //按钮样式
-h1+.btn-main {
+
+.slider .btn-main {
+
   background-color: rgba(10, 170, 255, 0.8);
 }
 
@@ -243,13 +256,14 @@ header {
   .navi-ice {
 
     &.navigation .navbar .navbar-nav a {
-      color: darken($white, 20);
+      color: darken($white, 15);
     }
 
     &.navigation .navbar .navbar-nav a.current,
     &.navigation .navbar .navbar-nav a:hover,
     &.navigation .navbar .current>.dropdown-toggle {
       color: $white;
+      font-weight: bold;
     }
 
     .dropdown-menu {
