@@ -8,11 +8,13 @@ description: "About：site"
 
 ### All Sky Cam of the Night
 
-![All Sky Cam of the Night](http://china-vo-product-public.oss-cn-beijing.aliyuncs.com/allsky/lenghu/gifs/pan.gif)
+StarTrail
+
+![StarTrail](/images/startrail3.jpg)
 
 ### Site Conditions
 
-![Seeing stat](http://china-vo-product-public.oss-cn-beijing.aliyuncs.com/allsky/lenghu/gifs/seeing.png)
+![Seeing stat](/images/seeing.png)
 
 Some diagrams on [lenghu.china-vo.org](http://lenghu.china-vo.org/)
 
