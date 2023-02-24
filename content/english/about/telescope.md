@@ -22,8 +22,8 @@ The primary mirror is located at the other end of the telescope tube, which is a
   <img src="/images/telescope-1.png"  width="250" />
   <img src="/images/telescope-2.png" width="450"> 
   <figcaption>
-      <h4>Left panel: Figure 1, 3D model of the telescope structure. <br>
-      Right panel: Table 1, Top-level specifications for WFST.</h4>
+      <h5>Left panel: Figure 1, 3D model of the telescope structure. <br>
+      Right panel: Table 1, Top-level specifications for WFST.</h5>
   </figcaption>
   </div>
 </figure>
@@ -35,7 +35,7 @@ The top-level telescope specifications are listed in Table 1. The optical layout
 <div align=center>
   <img src="/images/telescope-3.png" width="500" title="Figure 2" />
     <figcaption>
-      <h4>Figure 2: Optical layout of WFST.</h4>
+      <h5>Figure 2: Optical layout of WFST.</h5>
   </figcaption>
   </div>
 </figure>
