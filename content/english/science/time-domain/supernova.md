@@ -1,6 +1,6 @@
 ---
 title: "Supernova"
-date: 2022-09-06T15:11:51+08:00
+date: 2023-02-28T15:11:51+08:00
 draft: false
  
 author: "Ji-an Jiang"
