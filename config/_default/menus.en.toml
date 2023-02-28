@@ -158,7 +158,7 @@ hasChildren = true
 
   [[main]]
   parent = "Education & Outreach"
-  name = "Album"
+  name = "Gallery"
   url = "album/"
   weight = 2
 
