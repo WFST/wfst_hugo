@@ -3,5 +3,5 @@ title: ""
 description: ""
 draft: false
 image : "images/wfst/wfst12.jpg"
-category: [ "Lenghu Sky" ]
+category: [ "View" ]
 ---
