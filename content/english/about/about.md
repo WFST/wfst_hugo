@@ -1,6 +1,6 @@
 ---
 title: "What's WFST?"
-description: "Wide Field Survey Telescope"
+#description: "Wide Field Survey Telescope"
 type: "post"
 author: "WFST"
 draft: false
