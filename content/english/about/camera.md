@@ -1,9 +1,9 @@
 ---
-title: "Camera📷"
+title: "Camera"
 date: 2022-09-06T14:40:06+08:00
 draft: false
  
-description: "about: camera"
+#description: "about: camera"
 type: "post"
 author: "WFST"
 math: true
