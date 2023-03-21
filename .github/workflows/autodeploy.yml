@@ -18,7 +18,7 @@ jobs:
           hugo-version: '0.91.2'
           extended: true
       - name: Build 
-        run: hugo
+        run: hugo -b "https://wfst.github.io/" --minify --gc
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
