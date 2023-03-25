@@ -24,7 +24,7 @@ about:
 
 ######################### Portfolio ###############################
 portfolio:
-  enable: true
+  enable: false
   # bg_image: "images/wfst/wfst4.jpg"
   bg_image: "images/slides/20220808全景2_2560x1920.jpg"
   title: "B"
@@ -37,13 +37,13 @@ portfolio:
 
 ############################# Service ############################
 service:
-  enable: true
+  enable: false
   # service content comes from "service.md" file
 
 
 ############################ call to action ###########################
 cta:
-  enable: true
+  enable: false
   bg_image: "images/slides/20230111全景2_2560x1280.jpg"
   title: "D"
   content: "ddddd"
@@ -54,7 +54,7 @@ cta:
 
 ############################# Funfacts ###############################
 funfacts:
-  enable: true
+  enable: false
   title: "E"
   description: "eeeeee"
 #  funfact_item:
