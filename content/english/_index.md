@@ -19,7 +19,7 @@ about:
   description: "Wide Field Survey Telescope (WFST) is a dedicated photometric survey facility, being built and operated jointly by University of Science and Technology of China (USTC) and Purple Mountain observatory. "
   content: "It consists of a telescope with the primary mirror of diameter 2.5m with an active optical system and a mosaic CCD camera of 0.764 Gigapixels on the main focus plane to achieve high-quality images over a field of view of 6.5 square degrees. The telescope is expected to be installed on the top of Saishiteng Mountain, Lenghu in April 2023, and start commissiong operation from June 2023.
   "
-  image: "images/slides/wfst.png"
+  image: "images/slides/wfst_462x442.jpg"
 
 
 ######################### Portfolio ###############################
