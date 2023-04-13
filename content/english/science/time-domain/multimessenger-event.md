@@ -13,10 +13,6 @@ Kilonovae are approximately thermal transients, produced by mergers of binary ne
 
 
 <figure>
-<div align=center>
   <img src="/images/multimessenger-event/timeline.png" width="700" title="Figure 2" />
-    <figcaption>
-      <h5>Figure 1.</h5>
-  </figcaption>
-  </div>
+  <figcaption>Figure 1.</figcaption>
 </figure>

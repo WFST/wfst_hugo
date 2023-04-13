@@ -12,6 +12,33 @@ banner:
     label: "About WFST"
     link: "about/about"
 
+############################# News ###############################
+news:
+  enable: true
+  title: "News"
+  description: "'Far far away, behind the word mountains <br> there live the blind texts.'"
+  news_slider:
+  # testimonial item loop
+  - event: "中国科学技术大学-紫金山天文台大视场 巡天望远镜本体顺利通过出所验收"
+    image: "images/news/4-zjhy.png"
+    caption: "2023-04-10"
+    details: "4月10日，中国科学技术大学-中国科学院紫金山天文台大视场巡天望远镜（WFST）本体出所验收评审会在中国科学院成都光电技术研究所召开，会议以线下为主、线上为辅的方式进行。参加会议的有来自中国科学院南京天文光学技术研究所、南京天文仪器有限公司、紫金山天文台、光电技术研究所以及中国科学技术大学的有关专家。"
+    button:
+      enable: true
+      label: "More"
+      link: "news-and-meetings/news/check-and-accept/"
+
+  # testimonial item loop
+  - event: "The First Discovery Of The Hysteresis Effect Of Optical Iron Emission In The TDE Event"
+    image: "images/news/hysteresis_effect-TDE/TDE/d93038b4-6204-4563-a247-005637551bfe.png"
+    caption: "January 28, 2021"
+    details: "A team leaded by Prof. Tinggui Wang from the Department of astronomy, University of science and technology of China first detected the hysteresis effect of optical iron emission in the TDE event. The paper was published online in the international famous academic journal the Astrophysical Journal Letters on January 28, 2021."
+    button:
+      enable: true
+      label: "More"
+      link: "news-and-meetings/news/hysteresis_effect-tde/"
+
+
 ############################# About #################################
 about:
   enable: true
@@ -54,47 +81,50 @@ cta:
 ############################# Funfacts ###############################
 funfacts:
   enable: false
-  title: "EE"
-  description: "eee"
-#  funfact_item:
-#  # funfacts item loop
-#  - icon: "fas fa-mug-hot" #https://fontawesome.com/v5.15/icons
-#    name: "Cups Of Coffee"
-#    count: "99"
-#
-#  # funfacts item loop
-#  - icon: "fas fa-glasses" #https://fontawesome.com/v5.15/icons
-#    name: "Article Written"
-#    count: "45"
-#
-#  # funfacts item loop
-#  - icon: "fas fa-keyboard" #https://fontawesome.com/v5.15/icons
-#    name: "Projects Completed"
-#    count: "125"
-#
-#  # funfacts item loop
-#  - icon: "fas fa-clock" #https://fontawesome.com/v5.15/icons
-#    name: "Combined Projects"
-#    count: "200"
-#
-#  testimonial_slider:
-#  # testimonial item loop
-#  - name: "Raymond Roy"
-#    image: "images/clients/avater-1.jpg"
-#    designation: "CEO-Themefisher"
-#    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel #that our site has unique elements that make us stand out from the crowd."
-#
-#  # testimonial item loop
-#  - name: "Randi Renin"
-#    image: "images/clients/avater-2.jpg"
-#    designation: "CEO-Themefisher"
-#    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel #that our site has unique elements that make us stand out from the crowd."
-#
-#  # testimonial item loop
-#  - name: "Rose Rio"
-#    image: "images/clients/avater-3.jpg"
-#    designation: "CEO-Themefisher"
-#    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel #that our site has unique elements that make us stand out from the crowd."
-#
-#
+  title: "Fun Facts About Us"
+  description: "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the blind 
+texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
+  funfact_item:
+  # funfacts item loop
+  - icon: "fas fa-mug-hot" #https://fontawesome.com/v5.15/icons
+    name: "Cups Of Coffee"
+    count: "99"
+
+  # funfacts item loop
+  - icon: "fas fa-glasses" #https://fontawesome.com/v5.15/icons
+    name: "Article Written"
+    count: "45"
+
+  # funfacts item loop
+  - icon: "fas fa-keyboard" #https://fontawesome.com/v5.15/icons
+    name: "Projects Completed"
+    count: "125"
+
+  # funfacts item loop
+  - icon: "fas fa-clock" #https://fontawesome.com/v5.15/icons
+    name: "Combined Projects"
+    count: "200"
+
+  testimonial_slider:
+  # testimonial item loop
+  - name: "Raymond Roy"
+    image: "images/clients/avater-1.jpg"
+    designation: "CEO-Themefisher"
+    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel 
+that our site has unique elements that make us stand out from the crowd."
+
+  # testimonial item loop
+  - name: "Randi Renin"
+    image: "images/clients/avater-1.jpg"
+    designation: "CEO-Themefisher"
+    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel 
+that our site has unique elements that make us stand out from the crowd."
+
+  # testimonial item loop
+  - name: "Rose Rio"
+    image: "images/clients/avater-3.jpg"
+    designation: "CEO-Themefisher"
+    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel 
+that our site has unique elements that make us stand out from the crowd."
+
 ---
