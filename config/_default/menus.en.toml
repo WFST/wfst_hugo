@@ -9,7 +9,7 @@ pre = "<i class='fas fa-home'></i>"
 
 [[main]]
 name = "About"
-# url = "about/"
+url = "about/about"
 weight = 2
 pre = "<i class='fas fa-info-circle'></i>"
 hasChildren = true
@@ -46,7 +46,7 @@ hasChildren = true
 
 [[main]]
 name = "Science"
-# url = "science/"
+url = "science/"
 weight = 3
 pre = "<i class='fas fa-atom'></i>"
 hasChildren = true
