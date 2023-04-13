@@ -1,8 +1,7 @@
 ---
 title: "The first discovery of the hysteresis effect of optical iron emission in the TDE event"
-author: admin
 date: 2022-09-02T22:41:09+08:00
-bg_image: "/images/AGN/d93038b4-6204-4563-a247-005637551bfe.png"
+# bg_image: "/images/news/hysteresis_effect-TDE/TDE/d93038b4-6204-4563-a247-005637551bfe.png"
 categories: ["News"]
 tags: ["hysteresis effect", "TDE"]
 draft: false
@@ -13,9 +12,9 @@ A team leaded by Prof. Tinggui Wang from the Department of astronomy, University
 
 
 <figure>
-<img src="/images/news/hysteresis_effect-TDE/TDE/d93038b4-6204-4563-a247-005637551bfe.png" width="550"/>
-<figcaption><h5>Figure 1. the ongoing TDE event in AGNs. (schematic, from network)</h5></figcaption>
-<figure>
+<img src="/images/news/hysteresis_effect-TDE/TDE/d93038b4-6204-4563-a247-005637551bfe.png" />
+<figcaption>Figure 1. the ongoing TDE event in AGNs. (schematic, from network)</figcaption>
+</figure>
 
 
 Supermassive black holes generally exist in the center of galaxies. When they are in the stage of high-speed accretion growth, they appear as active galactic nuclei (AGNs). The multi-component mixed iron emission (Fe II) is one of the most important characteristics of the ultraviolet and optical spectra of AGN. It is found that there is a good correlation between optical Fe II intensity and Eddington ratio, which can be used as the indicator of Eddington ratio. The Eddington ratio is one of the most important physical quantities to describe the black hole accretion system and to construct the main sequence of black hole activities. However, due to the complexity of iron energy levels, the mechanism and region of iron emission production are not clear, which seriously restricts our understanding of AGN.
@@ -29,9 +28,9 @@ In recent years, the rapid development of time-domain sky surveys has also found
 By carefully analyzing the spectra of ps1-10adi at different stages, we found an extraordinary response of optical Fe II line to central radiation (the Fe II response before and after TDE burst has different power-law exponent, Fig. 2) for the first time. At the same central luminosity, the intensity of Feii after the explosion is higher than that before the explosion, which indicates that the amount of iron produced during the explosion is indeed increased. When the central luminosity decays to the level before the explosion, the intensity of Fe II does not return back to the level before the explosion, but is higher than that before the explosion, which is a **hysteresis effect**. This kind of effect is common in many fields. It is a kind of path dependent effect, that is, the state of the system is not only related to the input of the current system, but also has different results because of the different paths of the past input process. This effect is first found in optical band of AGNs SED. The hysteresis effect of the Fe II line can be explained as that the Fe II line in TDE originates from the gas just sublimated from the dust. However, We didn't find this phenomenon in Hβ and the response of Hβ was consistent before and after the outbreak. This interpretation, together with the weak response of the Hβ emission as we observe, naturally explains the applicability of relative Fe ii strength as a tracer of the Eddington ratio. In addition,optical iron emission of this origin renders the Fe II time lag a potential "standard candle" with cosmological implications.
 
 <figure>
-<img src="/images/news/hysteresis_effect-TDE/TDE/0a393a5f-e296-4209-a92c-8c200758ffe9.jpg" width="550"/>
-<figcaption><h5>Figure 2: a demonstration of hysteresis effect of Fe II response in TDE event</h5></figcaption>
-<figure>
+<img src="/images/news/hysteresis_effect-TDE/TDE/0a393a5f-e296-4209-a92c-8c200758ffe9.jpg" />
+<figcaption>Figure 2: a demonstration of hysteresis effect of Fe II response in TDE event</figcaption>
+</figure>
 
 
 This work further proves that TDE events in AGN have important research value for understanding black hole accretion system. The Wide Field Survey Telescope (WFST) built by USTC and Purple Mountain Observatory is expected to find a large number of such events, which is expected to strongly promote the development of this field. The first author and co corresponding author of the paper is Dr. Zhicheng He, a special associate researcher of the Department of astronomy. Dr. Jiang Ning, associate researcher of the Department of astronomy, and Professor Wang Tinggui are the co-corresponding authors of the paper. This research is supported by the key Youth Innovation Fund of China University of science and technology, the National Natural Science Foundation of China and the national key R & D projects of the Ministry of science and technology.
