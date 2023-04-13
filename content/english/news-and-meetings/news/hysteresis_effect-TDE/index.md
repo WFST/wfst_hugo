@@ -11,7 +11,7 @@ type: "post"
 
 A team leaded by Prof. Tinggui Wang from the Department of astronomy, University of science and technology of China first detected the hysteresis effect of optical iron emission in the TDE event. The paper was published online in the international famous academic journal the Astrophysical Journal Letters on January 28, 2021.
 
-![img](/images/AGN/d93038b4-6204-4563-a247-005637551bfe.png)
+![img](TDE/d93038b4-6204-4563-a247-005637551bfe.png)
 
 **Figure 1. the ongoing TDE event in AGNs. (schematic, from network)**
 
@@ -27,7 +27,7 @@ By carefully analyzing the spectra of ps1-10adi at different stages, we found an
 
 
 
-![img](/images/AGN/0a393a5f-e296-4209-a92c-8c200758ffe9.jpg)
+![img](TDE/0a393a5f-e296-4209-a92c-8c200758ffe9.jpg)
 
 **Figure 2: a demonstration of hysteresis effect of Fe II response in TDE event**
 

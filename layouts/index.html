@@ -1,7 +1,8 @@
 {{ define "main" }}
 {{ with .Params.banner }}
 {{ if .enable }}
-<section class="slider {{ if .bg_overlay }} overly{{ end }}" style="background: url('{{ .bg_image | relURL }}') center center / cover no-repeat;">
+<section class="slider {{ if .bg_overlay }} overly{{ end }}"
+  style="background: url('{{ .bg_image | relURL }}') center center / cover no-repeat;">
   <div class="container">
     <div class="row">
       <div class="col-md-12">
@@ -22,6 +23,52 @@
 {{ end }}
 <!-- /banner -->
 
+<!-- news -->
+{{ with .Params.news }}
+{{ if .enable }}
+<section class="testimonial">
+  <div class="container">
+    <div class="row">
+      <div class="section-title text-center">
+        {{ with .title }}<h2 class="section-subtitle"><i class="fas fa-newspaper"></i> {{ . | markdownify }}</h2>{{ end
+        }}
+        {{ with .description }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12 ">
+        <div class="testimonial-carousel text-center">
+          <div class="testimonial-slider owl-carousel">
+            {{ range .news_slider }}
+            <div>
+              {{ with .event }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+              <div class="news-content">
+                <p><img class="br-img" src="{{ .image | relURL }}" alt="news_photos"></p>
+                <p>{{ .caption | markdownify }}</p>
+                <p>{{ .details | markdownify }}</p>
+                {{ with .button }}
+                {{ if .enable }}
+                <a href="{{ .link | relLangURL }}" class="btn btn-main">{{ .label }}</a>
+                {{ end }}
+                {{ end }}
+              </div>
+
+
+
+
+
+            </div>
+            {{ end }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /news -->
+
 <!-- about -->
 {{ with .Params.about }}
 {{ if .enable }}
@@ -29,18 +76,20 @@
   <div class="container">
     <div class="row">
       <div class="col-md-7 col-sm-12">
-        {{/*  强行解除行高限制  */}}
-        {{/*  <div class="block">  */}}
+        {{/* 强行解除行高限制 */}}
+        {{/* <div class="block"> */}}
           <div class="section-title">
-            {{ with .title }}<h2 class="section-subtitle">{{ . | markdownify }}</h2>{{ end }}
+            {{ with .title }}<h2 class="section-subtitle"><i class="fas fa-info-circle"></i> {{ . | markdownify }}</h2>
+            {{ end }}
             {{ with .description }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
           </div>
           {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
-        {{/*  </div>  */}}
+          {{/*
+        </div> */}}
       </div>
       <div class="col-md-5 col-sm-12">
         <div class="block">
-          <img src="{{ .image | relURL }}" class="img-responsive" alt="Img">
+          <img src="{{ .image | relURL }}" class="img-responsive br-img" alt="Img">
         </div>
       </div>
     </div>
@@ -107,6 +156,22 @@
             </li>
             {{ end }}
           </ul>
+        </div>
+      </div>
+      <div class="col-md-5 col-md-offset-1">
+        <div class="testimonial-carousel text-center">
+          <div class="testimonial-slider owl-carousel">
+            {{ range .testimonial_slider }}
+            <div>
+              <i class="fas fa-quote-left"></i>
+              {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+              <div class="user">
+                <img src="{{ .image | relURL }}" alt="client">
+                <p><span>{{ .name | markdownify }}</span> {{ .designation | markdownify }}</p>
+              </div>
+            </div>
+            {{ end }}
+          </div>
         </div>
       </div>
     </div>
