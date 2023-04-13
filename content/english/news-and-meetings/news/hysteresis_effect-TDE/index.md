@@ -1,13 +1,13 @@
 ---
-title: "The first discovery of the hysteresis effect of optical iron emission in the TDE event"
-author: admin
+# title: "The first discovery of the hysteresis effect of optical iron emission in the TDE event"
 date: 2022-09-02T22:41:09+08:00
-bg_image: "/images/AGN/d93038b4-6204-4563-a247-005637551bfe.png"
+# bg_image: "/images/news/hysteresis_effect-TDE/TDE/d93038b4-6204-4563-a247-005637551bfe.png"
 categories: ["News"]
 tags: ["hysteresis effect", "TDE"]
 draft: false
 type: "post"
 ---
+## The first discovery of the hysteresis effect of optical iron emission in the TDE event
 
 A team leaded by Prof. Tinggui Wang from the Department of astronomy, University of science and technology of China first detected the hysteresis effect of optical iron emission in the TDE event. The paper was published online in the international famous academic journal the Astrophysical Journal Letters on January 28, 2021.
 
@@ -15,7 +15,7 @@ A team leaded by Prof. Tinggui Wang from the Department of astronomy, University
 <figure>
 <img src="/images/news/hysteresis_effect-TDE/TDE/d93038b4-6204-4563-a247-005637551bfe.png" width="550"/>
 <figcaption><h5>Figure 1. the ongoing TDE event in AGNs. (schematic, from network)</h5></figcaption>
-<figure>
+</figure>
 
 
 Supermassive black holes generally exist in the center of galaxies. When they are in the stage of high-speed accretion growth, they appear as active galactic nuclei (AGNs). The multi-component mixed iron emission (Fe II) is one of the most important characteristics of the ultraviolet and optical spectra of AGN. It is found that there is a good correlation between optical Fe II intensity and Eddington ratio, which can be used as the indicator of Eddington ratio. The Eddington ratio is one of the most important physical quantities to describe the black hole accretion system and to construct the main sequence of black hole activities. However, due to the complexity of iron energy levels, the mechanism and region of iron emission production are not clear, which seriously restricts our understanding of AGN.
@@ -31,7 +31,7 @@ By carefully analyzing the spectra of ps1-10adi at different stages, we found an
 <figure>
 <img src="/images/news/hysteresis_effect-TDE/TDE/0a393a5f-e296-4209-a92c-8c200758ffe9.jpg" width="550"/>
 <figcaption><h5>Figure 2: a demonstration of hysteresis effect of Fe II response in TDE event</h5></figcaption>
-<figure>
+</figure>
 
 
 This work further proves that TDE events in AGN have important research value for understanding black hole accretion system. The Wide Field Survey Telescope (WFST) built by USTC and Purple Mountain Observatory is expected to find a large number of such events, which is expected to strongly promote the development of this field. The first author and co corresponding author of the paper is Dr. Zhicheng He, a special associate researcher of the Department of astronomy. Dr. Jiang Ning, associate researcher of the Department of astronomy, and Professor Wang Tinggui are the co-corresponding authors of the paper. This research is supported by the key Youth Innovation Fund of China University of science and technology, the National Natural Science Foundation of China and the national key R & D projects of the Ministry of science and technology.
