@@ -16,7 +16,7 @@ banner:
 news:
   enable: true
   title: "News"
-  description: "'Far far away, behind the word mountains <br> there live the blind texts.'"
+  description: ""
   news_slider:
   # testimonial item loop
   - event: "中国科学技术大学-紫金山天文台大视场 巡天望远镜本体顺利通过出所验收"
