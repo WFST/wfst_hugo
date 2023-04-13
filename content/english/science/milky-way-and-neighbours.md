@@ -1,6 +1,6 @@
 ---
 title: "Milky Way"
-date: 2022-09-06T15:11:51+08:00
+date: 2020-09-06T15:11:51+08:00
 draft: false
  
 math: true
