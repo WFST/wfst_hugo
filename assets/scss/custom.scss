@@ -9,6 +9,16 @@ figure{
   text-align: center;
   img{
     border-radius: 0%;
+    width: 50%;
+    
+  }
+  img.largefig{
+    width: 80%;
+  }
+  figcaption{
+    font-size: 1.5rem;
+    font-weight: 350;
+    padding-bottom: 1rem;
   }
 }
 
@@ -34,6 +44,11 @@ figure{
   text-shadow: 2px 2px 4px #000;
   font-weight: 200;
   font-size: $font_size*1.2;
+}
+
+.page-title .block h1{
+  letter-spacing: 0;
+  font-size: 3rem;
 }
 
 p,
