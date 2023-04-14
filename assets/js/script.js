@@ -27,7 +27,7 @@ $(document).ready(function () {
 
   // 自定义的特效
   const transparentHeight = ($('.slider').outerHeight() || $('.page-title').outerHeight()) - $('.navigation').outerHeight();
-  $('.section-subtitle').css('color','transparent')
+  $('.section-subtitle').css('color', 'transparent')
   $(window).scroll(function () {
     let topDistance = $(document).scrollTop();
     let windowHeight = $(window).height();
@@ -39,23 +39,24 @@ $(document).ready(function () {
     else {
       $('.navigation').addClass('navi-ice');
       $('.navigation').removeClass('navi-milk');
-      if(topDistance){
+      if (topDistance) {
 
       }
     }
 
     //首页子标题浮现
     $('.section-subtitle').each(function () {
-      if (topDistance > $(this).offset().top - windowHeight*2/3 ) {
-        $(this).css('color','');
+      if (topDistance > $(this).offset().top - windowHeight * 2 / 3) {
+        $(this).css('color', '');
         $(this).addClass('tracking-in-expand-fwd');
       }
-      else if(topDistance <= Math.max(0,$(this).offset().top - windowHeight)){
+      else if (topDistance <= Math.max(0, $(this).offset().top - windowHeight)) {
         $(this).removeClass('tracking-in-expand-fwd');
-        $(this).css('color','transparent');
+        $(this).css('color', 'transparent');
       }
     })
   })
+  $(window).scroll();
 
   // Shuffle js filter and masonry
   var containerEl = document.querySelector('.shuffle-wrapper');
@@ -90,9 +91,12 @@ $(document).ready(function () {
   });
 
   $('.testimonial-slider').slick({
+    // centerMode: true,
+    // centerPadding: '60px',
     slidesToShow: 1,
     infinite: true,
-    arrows: false,
+    arrows: true,
+    dots: false,
     autoplay: true,
     autoplaySpeed: 2000
   });
