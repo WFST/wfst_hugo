@@ -20,23 +20,32 @@ news:
   news_slider:
   # testimonial item loop
   - event: "墨子巡天望远镜本体顺利通过出所验收"
-    image: "images/news/4-zjhy.png"
+    image: "/images/news/check-and-accept/4-zjhy.png"
     caption: "2023-04-10"
     details: "4月10日，中国科学技术大学-中国科学院紫金山天文台大视场巡天望远镜（WFST）本体出所验收评审会在中国科学院成都光电技术研究所召开，会议以线下为主、线上为辅的方式进行。参加会议的有来自中国科学院南京天文光学技术研究所、南京天文仪器有限公司、紫金山天文台、光电技术研究所以及中国科学技术大学的有关专家。"
     button:
       enable: true
       label: "More"
-      link: "news-and-meetings/news/check-and-accept/"
+      link: "/news-and-meetings/news/check-and-accept/"
 
   # testimonial item loop
-  - event: "The First Discovery Of The Hysteresis Effect Of Optical Iron Emission In The TDE Event"
-    image: "images/news/hysteresis_effect-TDE/TDE/d93038b4-6204-4563-a247-005637551bfe.png"
-    caption: "January 28, 2021"
-    details: "A team leaded by Prof. Tinggui Wang from the Department of astronomy, University of science and technology of China first detected the hysteresis effect of optical iron emission in the TDE event. The paper was published online in the international famous academic journal the Astrophysical Journal Letters on January 28, 2021."
+  - event: "WFST先导观测计划完成评审"
+    image: "/images/news/20230413/pre-obs-plan.jpg"
+    caption: "2023-04-13"
+    details: "2023年4月13日，中国科学技术大学-紫金山天文台大视场巡天望远镜（WFST）先导观测计划评审会在中国科学技术大学召开，会议以线上线下相结合的方式进行。中国科学技术大学-紫金山天文台大视场巡天望远镜科学委员会专家参加了此次评审。"
     button:
       enable: true
       label: "More"
-      link: "news-and-meetings/news/hysteresis_effect-tde/"
+      link: "/news-and-meetings/news/20230413/pre-obs-plan/"
+
+  - event: "WFST调试样机通过出所验收"
+    image: "/images/news/20230413/check-prototype.jpg"
+    caption: "2023-04-13"
+    details: "2023年4月13日，中国科学技术大学-紫金山天文台大视场巡天望远镜（WFST）主焦相机调试样机出所验收评审会在中国科学技术大学召开。参加会议的有来自中国科学院国家天文台、上海天文台、紫金山天文台，南京天文仪器有限公司以及中国科学技术大学的有关专家。"
+    button:
+      enable: true
+      label: "More"
+      link: "/news-and-meetings/news/20230413/check-prototype/"
 
 
 ############################# About #################################
