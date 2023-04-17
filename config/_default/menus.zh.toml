@@ -16,7 +16,7 @@ hasChildren = true
   [[main]]
   parent = "关于"
   name = "WFST介绍"
-  url = "about/about/"
+  url = "about/whats/"
   weight = 1
 
   [[main]]
