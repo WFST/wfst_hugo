@@ -98,7 +98,8 @@ $(document).ready(function () {
     arrows: true,
     dots: false,
     autoplay: true,
-    autoplaySpeed: 2000
+    autoplaySpeed: 2000,
+    draggable:true,
   });
 
   //  Count Up

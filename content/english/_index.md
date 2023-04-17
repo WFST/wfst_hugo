@@ -10,7 +10,7 @@ banner:
   button:
     enable: true
     label: "About WFST"
-    link: "about/about"
+    link: "about/whats"
 
 ############################# News ###############################
 news:
@@ -18,7 +18,6 @@ news:
   title: "News"
   description: ""
   news_slider:
-  # testimonial item loop
   - event: "墨子巡天望远镜本体顺利通过出所验收"
     image: "/images/news/check-and-accept/4-zjhy.png"
     caption: "2023-04-10"

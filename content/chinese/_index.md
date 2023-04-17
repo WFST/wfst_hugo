@@ -10,7 +10,7 @@ banner:
   button:
     enable: true
     label: "关于WFST"
-    link: "about/about"
+    link: "about/whats"
 ############################# News ###############################
 news:
   enable: true
