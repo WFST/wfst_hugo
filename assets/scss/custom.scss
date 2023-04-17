@@ -556,13 +556,16 @@ header {
   font-size: 19px;
   color: black;
   z-index: 1;
+
 }
 
 .button:before {
+
   content: "";
   position: absolute;
   left: 50%;
   -webkit-transform: translateX(-50%) scaleY(1) scaleX(1.25);
+
   -ms-transform: translateX(-50%) scaleY(1) scaleX(1.25);
   transform: translateX(-50%) scaleY(1) scaleX(1.25);
   top: 100%;
@@ -574,9 +577,11 @@ header {
   -webkit-transition: all 0.5s 0.1s cubic-bezier(0.55, 0, 0.1, 1);
   transition: all 0.5s 0.1s cubic-bezier(0.55, 0, 0.1, 1);
   z-index: -1;
+
 }
 
 .button:after {
+
   content: "";
   position: absolute;
   left: 55%;
@@ -592,6 +597,7 @@ header {
   -webkit-transition: all 0.5s 0.1s cubic-bezier(0.55, 0, 0.1, 1);
   transition: all 0.5s 0.1s cubic-bezier(0.55, 0, 0.1, 1);
   z-index: -1;
+
 }
 
 .button:hover {
