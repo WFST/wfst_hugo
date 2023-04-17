@@ -308,6 +308,8 @@ header {
 
     &.navigation .navbar .navbar-nav a {
       color: darken($white, 15);
+      text-shadow:#000 2px 2px 12px;
+      font-weight: 600;
     }
 
     &.navigation .navbar .navbar-nav a.current,
