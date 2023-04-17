@@ -27,11 +27,20 @@ jobs:
           publish_branch: gh-pages  # Page 仓库的分支
           publish_dir: ./public # 静态网页路径
           commit_message: ${{ github.event.head_commit.message }}
-      - name: Mirror
-        uses: Yikun/hub-mirror-action@v1.2
-        with:
-          src: github/username
-          dst: gitee/username
-          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
-          static_list: 'repo'
-          force_update: true
+      - name: Config private key
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.ACTIONS_PRIVATE_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          echo "StrictHostKeyChecking no" >> ~/.ssh/config
+      - name: Clone repo and push
+        env:
+          SRC_REPO: "git@github.com:WFST/wfst_hugo.git"
+          DIST_REPO: "git@git.lug.ustc.edu.cn:wfst-website/wfst-hugo.git"
+        run: |
+          git clone --mirror "$SRC_REPO"
+          cd `basename "$SRC_REPO"`
+          git remote set-url --push origin "$DIST_REPO"
+          git push --mirror
