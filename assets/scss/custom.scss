@@ -1,38 +1,42 @@
 .page-title h1,
-.slider .block h1{
+.slider .block h1 {
   color: $white;
   text-shadow: 2px 2px 4px #000;
   font-weight: 400;
 }
 
-figure{
+figure {
   text-align: center;
-  img{
+
+  img {
     border-radius: 0%;
     width: 50%;
-    
+
   }
-  img.largefig{
+
+  img.largefig {
     width: 80%;
   }
-  figcaption{
+
+  figcaption {
     font-size: 1.5rem;
     font-weight: 350;
     padding-bottom: 1rem;
   }
 }
 
-.news-content{
-  img{
+.news-content {
+  img {
     display: inline;
     height: 30vh;
   }
 }
 
-.section-title{
+.section-title {
   margin-bottom: 0;
 }
-.br-img{
+
+.br-img {
   border-radius: 1.5rem;
 }
 
@@ -49,7 +53,7 @@ figure{
   font-size: $font_size*1.2;
 }
 
-.page-title .block h1{
+.page-title .block h1 {
   letter-spacing: 0;
   font-size: 3rem;
 }
@@ -73,6 +77,7 @@ video {
   text-align: center;
   align-items: center;
   justify-content: center;
+
   img {
     border-radius: 1.5rem;
   }
@@ -88,6 +93,11 @@ video {
 //logo大小
 .navigation a.navbar-brand {
   padding: 0 10px;
+}
+
+.navigation {
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
 }
 
 iframe {
@@ -546,15 +556,18 @@ header {
   font-size: 19px;
   color: black;
   z-index: 1;
- }
- 
- .button:before {
+
+}
+
+.button:before {
+
   content: "";
   position: absolute;
   left: 50%;
   -webkit-transform: translateX(-50%) scaleY(1) scaleX(1.25);
-      -ms-transform: translateX(-50%) scaleY(1) scaleX(1.25);
-          transform: translateX(-50%) scaleY(1) scaleX(1.25);
+
+  -ms-transform: translateX(-50%) scaleY(1) scaleX(1.25);
+  transform: translateX(-50%) scaleY(1) scaleX(1.25);
   top: 100%;
   width: 140%;
   height: 180%;
@@ -564,15 +577,17 @@ header {
   -webkit-transition: all 0.5s 0.1s cubic-bezier(0.55, 0, 0.1, 1);
   transition: all 0.5s 0.1s cubic-bezier(0.55, 0, 0.1, 1);
   z-index: -1;
- }
- 
- .button:after {
+
+}
+
+.button:after {
+
   content: "";
   position: absolute;
   left: 55%;
   -webkit-transform: translateX(-50%) scaleY(1) scaleX(1.45);
-      -ms-transform: translateX(-50%) scaleY(1) scaleX(1.45);
-          transform: translateX(-50%) scaleY(1) scaleX(1.45);
+  -ms-transform: translateX(-50%) scaleY(1) scaleX(1.45);
+  transform: translateX(-50%) scaleY(1) scaleX(1.45);
   top: 180%;
   width: 160%;
   height: 190%;
@@ -582,25 +597,26 @@ header {
   -webkit-transition: all 0.5s 0.1s cubic-bezier(0.55, 0, 0.1, 1);
   transition: all 0.5s 0.1s cubic-bezier(0.55, 0, 0.1, 1);
   z-index: -1;
- }
- 
- .button:hover {
+
+}
+
+.button:hover {
   color: #ffffff;
   border: 1px solid #39bda7;
- }
- 
- .button:hover:before {
+}
+
+.button:hover:before {
   top: -35%;
   background-color: #39bda7;
   -webkit-transform: translateX(-50%) scaleY(1.3) scaleX(0.8);
-      -ms-transform: translateX(-50%) scaleY(1.3) scaleX(0.8);
-          transform: translateX(-50%) scaleY(1.3) scaleX(0.8);
- }
- 
- .button:hover:after {
+  -ms-transform: translateX(-50%) scaleY(1.3) scaleX(0.8);
+  transform: translateX(-50%) scaleY(1.3) scaleX(0.8);
+}
+
+.button:hover:after {
   top: -45%;
   background-color: #39bda7;
   -webkit-transform: translateX(-50%) scaleY(1.3) scaleX(0.8);
-      -ms-transform: translateX(-50%) scaleY(1.3) scaleX(0.8);
-          transform: translateX(-50%) scaleY(1.3) scaleX(0.8);
- }
+  -ms-transform: translateX(-50%) scaleY(1.3) scaleX(0.8);
+  transform: translateX(-50%) scaleY(1.3) scaleX(0.8);
+}
