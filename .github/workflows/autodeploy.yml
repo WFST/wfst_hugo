@@ -22,8 +22,16 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.HUGODEPLOY }} # secret 中设置好私钥
+          personal_token: ${{ secrets.ACTIONS_PRIVATE_KEY }} # secret 中设置好私钥
           external_repository: WFST/wfst.github.io  # Page 仓库
           publish_branch: gh-pages  # Page 仓库的分支
           publish_dir: ./public # 静态网页路径
           commit_message: ${{ github.event.head_commit.message }}
+      - name: Mirror
+        uses: Yikun/hub-mirror-action@v1.2
+        with:
+          src: github/username
+          dst: gitee/username
+          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+          static_list: 'repo'
+          force_update: true
