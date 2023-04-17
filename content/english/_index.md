@@ -28,10 +28,6 @@ news:
       label: "More"
       link: "/news-and-meetings/news/check-and-accept/"
 
-<<<<<<< HEAD
-=======
-  # testimonial item loop
->>>>>>> master
   - event: "WFST先导观测计划完成评审"
     image: "/images/news/20230413/pre-obs-plan.jpg"
     caption: "2023-04-13"
