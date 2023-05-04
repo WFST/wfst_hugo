@@ -59,6 +59,7 @@ $(document).ready(function () {
   // 初始滑动
   $(window).scroll();
 
+
   // 图片懒加载
   function lazyload() {
     $('[bg-img]').each(function () {
