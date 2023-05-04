@@ -56,25 +56,22 @@ $(document).ready(function () {
       }
     })
   })
-
+  // 初始滑动
+  $(window).scroll();
 
   // 图片懒加载
   function lazyload() {
     $('[bg-img]').each(function () {
       $(this).attr('style', $(this).attr('bg-img'));
-      console.log($(this).attr('bg-img'));
     })
     $('[data-src]').each(function () {
       $(this).attr('src', $(this).attr('data-src'));
-      console.log($(this).attr('data-src'));
     })
   }
   document.addEventListener("scroll", lazyload);
   window.addEventListener("resize", lazyload);
   window.addEventListener("orientationChange", lazyload);
-  
-  // 初始滑动
-  $(window).scroll();
+  lazyload();
 
   // Shuffle js filter and masonry
   var containerEl = document.querySelector('.shuffle-wrapper');
