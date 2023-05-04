@@ -58,6 +58,16 @@ $(document).ready(function () {
   })
   $(window).scroll();
 
+  // 图片懒加载
+  $('[bg-img]').each(function(){
+    $(this).attr('style',$(this).attr('bg-img'));
+    console.log($(this).attr('bg-img'));
+  })
+  $('[data-src]').each(function(){
+    $(this).attr('src',$(this).attr('data-src'));
+    console.log($(this).attr('data-src'));
+  })
+
   // Shuffle js filter and masonry
   var containerEl = document.querySelector('.shuffle-wrapper');
   if (containerEl) {
@@ -99,7 +109,7 @@ $(document).ready(function () {
     dots: false,
     autoplay: true,
     autoplaySpeed: 2000,
-    draggable:true,
+    draggable: true,
   });
 
   //  Count Up

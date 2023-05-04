@@ -86,9 +86,14 @@ video {
 //按钮样式
 
 .slider .btn-main {
-
   background-color: rgba(10, 170, 255, 0.8);
+  transition: all .3s linear;
 }
+
+.slider .btn-main:hover {
+  padding: 14px 80px;
+}
+
 
 //logo大小
 .navigation a.navbar-brand {
@@ -308,7 +313,7 @@ header {
 
     &.navigation .navbar .navbar-nav a {
       color: darken($white, 15);
-      text-shadow:#000 2px 2px 12px;
+      text-shadow: #000 2px 2px 12px;
       font-weight: 600;
     }
 
