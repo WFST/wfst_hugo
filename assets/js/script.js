@@ -69,10 +69,12 @@ $(document).ready(function () {
       $(this).attr('src', $(this).attr('data-src'));
     })
   }
-  document.addEventListener("scroll", lazyload);
-  window.addEventListener("resize", lazyload);
-  window.addEventListener("orientationChange", lazyload);
+  // window.addEventListener("scroll", lazyload);
+  // window.addEventListener("resize", lazyload);
+  // window.addEventListener("orientationChange", lazyload);
   lazyload();
+
+
 
   // Shuffle js filter and masonry
   var containerEl = document.querySelector('.shuffle-wrapper');
