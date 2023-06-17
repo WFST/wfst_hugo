@@ -72,9 +72,9 @@ hasChildren = true
 
   [[main]]
   parent = "Science"
-  name = "Galaxies and Cosmology"
+  name = "Galaxy and Cosmology"
   weight = 4
-  url = "science/galaxies-and-cosmology/"
+  url = "science/galaxy-and-cosmology/"
 
 [[main]]
 name = "Survey & Data"
