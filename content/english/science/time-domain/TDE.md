@@ -3,7 +3,8 @@ title: "Tidal Disruption Event"
 date: 2023-01-06T15:11:51+08:00
 draft: false
 # description
-description: "Tidal Disruption Event"
+bg_image: "images/figs_TDE/tde.jpeg"
+# description: "Tidal Disruption Event"
 math: true
 ---
 
