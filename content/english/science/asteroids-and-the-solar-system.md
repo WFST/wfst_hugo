@@ -2,7 +2,7 @@
 title: "Solar system"
 date: 2019-09-06T15:14:45+08:00
 draft: false
- 
+bg_image: "images/figs_Sloar_System/pia12114_0.jpeg"
 description: " "
 math: true
 ---
