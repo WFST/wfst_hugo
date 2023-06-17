@@ -2,7 +2,7 @@
 title: "Multi-messenger Event"
 date: 2022-09-06T15:11:51+08:00
 draft: false
- 
+bg_image: "images/figs_gravitational_wave/gwwave.jpeg"
 description: " "
 math: true
 ---
