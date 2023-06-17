@@ -1,5 +1,5 @@
 ---
-title: "Galaxies and Cosmology"
+title: "Galaxy and Cosmology"
 date: 2020-09-06T15:11:51+08:00
 draft: false
  
