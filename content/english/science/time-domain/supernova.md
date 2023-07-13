@@ -4,7 +4,7 @@ date: 2023-02-28T15:11:51+08:00
 draft: false
 # description 
 bg_image: "images/SN/sn.jpeg"
-author: "Ji-an Jiang"
+# author: "Ji-an Jiang"
 #description: "Supernova "
 math: true
 
