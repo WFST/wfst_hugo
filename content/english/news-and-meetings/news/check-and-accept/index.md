@@ -2,7 +2,8 @@
 title: "墨子巡天望远镜本体顺利通过出所验收"
 date: 2023-04-11T15:11:51+08:00
 draft: false
- 
+image: "/images/news/check-and-accept/1-ldzc.png"
+author: "USTC News"
 description: ""
 ---
 

@@ -1,5 +1,7 @@
 ---
 title: "WFST先导观测计划完成评审"
+author: "USTC News"
+image: "/images/news/20230413/pre-obs-plan.jpg"
 date: 2023-04-13T15:11:51+08:00
 description: ""
 ---
