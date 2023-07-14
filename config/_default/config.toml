@@ -72,3 +72,7 @@ suffixes = [""]
 [outputFormats.WebAppManifest]
 mediaType = "application/manifest+json"
 rel = "manifest"
+
+############################ busuanzi ###########################
+[params]
+  analytics = true 
