@@ -13,20 +13,31 @@ go
         {{/*  <div class="post post-single">  */}}
           <div>
           {{/*  <h2 class="post-title">{{ .Title }}</h2>  */}}
-          <!-- <div class="post-meta"> -->
-            <!-- <ul> -->
-              <!-- <li style="font-size: 15px"><i class="ion-calendar"></i> {{ time.Format ":date_long" .PublishDate }}</li> -->
-              <!-- <li style="font-size: 15px"><i class="ion-android-people" ></i> -->
-                <!-- {{ i18n "posted_by" }} -->
-                <!-- {{ $authors := slice }}{{ if reflect.IsSlice .Params.author }}{{ $authors = .Params.author }}{{ else }}{{ $authors = (slice .Params.author) }}{{ end -}} -->
-                <!-- {{ range $index, $elements := $authors }}{{ if ne $index 0 }}, {{ end }}<a class="text-primary" href="{{ `author/` | relLangURL }}{{ . | urlize }}">{{ . }}</a>{{ end }} -->
-              <!-- </li> -->
-              <!-- <li><i class="ion-pricetags"></i> -->
-                <!-- {{ range $index, $elements:= .Params.tags }}{{ if ne $index 0 }}, {{ end }}<a href="{{ `tags/` | relLangURL }}{{ . | urlize }}">{{ . }}</a>{{ end }} -->
-              <!-- </li> -->
-            <!-- </ul> -->
-          </div>
-          
+          {{ if .Params.author }}
+            <div class="post-meta">
+              <ul>
+                <li style="font-size: 15px" ><i class="ion-calendar"></i> {{ time.Format ":date_long" .PublishDate }}, {{ i18n "posted_by" }}
+                  {{ $authors := slice }}{{ if reflect.IsSlice .Params.author }}{{ $authors = .Params.author }}{{ else }}{{ $authors = (slice .Params.author) }}{{ end -}}
+                  {{ range $index, $elements := $authors }}{{ if ne $index 0 }}, {{ end }}<a class="text-primary" href="{{ `author/` | relLangURL }}{{ . | urlize }}">{{ . }}</a>{{ end }},
+                
+                <span id="busuanzi_container_site_pv">
+                  {{ i18n "visit_time" }} <span id="busuanzi_value_page_pv"></span>
+                </span>
+                </li>
+                <!-- <li style="font-size: 15px"><i class="ion-android-people" ></i>
+                  {{ i18n "posted_by" }}
+                  {{ $authors := slice }}{{ if reflect.IsSlice .Params.author }}{{ $authors = .Params.author }}{{ else }}{{ $authors = (slice .Params.author) }}{{ end -}}
+                  {{ range $index, $elements := $authors }}{{ if ne $index 0 }}, {{ end }}<a class="text-primary" href="{{ `author/` | relLangURL }}{{ . | urlize }}">{{ . }}</a>{{ end }}
+                </li> -->
+                <!-- <li><i class="ion-pricetags"></i> -->
+                  <!-- {{ range $index, $elements:= .Params.tags }}{{ if ne $index 0 }}, {{ end }}<a href="{{ `tags/` | relLangURL }}{{ . | urlize }}">{{ . }}</a>{{ end }} -->
+                <!-- </li> -->
+              </ul>
+            </div>
+            {{/* 分割线 */}}
+
+            <HR width="90%" color="#541a97" SIZE=2>
+              {{end}}
           <!-- <div class="post-thumb">
             {{ with .Params.image -}}
             <img class="img-responsive" src="{{ . | relURL }}" alt="{{ $.Title }}">

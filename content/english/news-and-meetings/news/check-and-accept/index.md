@@ -1,45 +1,41 @@
 ---
-title: "墨子巡天望远镜本体顺利通过出所验收"
+title: "The body of the MoZi Wide Field Survey Telescope successfully passed the acceptance of the Laboratory"
 date: 2023-04-11T15:11:51+08:00
 draft: false
 image: "/images/news/check-and-accept/1-ldzc.png"
 author: "USTC News"
 description: ""
 ---
-
+<!-- 
 *原文转自[USTC新闻网](http://news.ustc.edu.cn/info/1055/82449.htm)*
+ -->
 
-2023年4月10日，中国科学技术大学-中国科学院紫金山天文台 大视场巡天望远镜（WFST）本体出所验收评审会在中国科学院成都光电技术研究所召开，会议以线下为主、线上为辅的方式进行。参加会议的有来自中国科学院南京天文光学技术研究所、南京天文仪器有限公司、紫金山天文台、光电技术研究所以及中国科学技术大学的有关专家。会议开始，分别由光电技术研究所饶长辉副所长和中国科学技术大学傅尧副校长致辞。
+On April 10, 2023, the acceptance review meeting of the University of Science and Technology of China (USTC)- Purple Mountain Observatory (PMO) of the Chinese Academy of Sciences (CAS) for the Wide Field Survey Telescope (WFST) was held at the Institute of Optics and Electronics of Chinese Academy of Sciences (IOE) in Chengdu, China, which was conducted in an offline mode and supplemented by an online mode. The meeting was attended by relevant experts from Nanjing Institute of Astronomy and Optics Technology of the Chinese Academy of Sciences, Nanjing Astronomical Instrument Co., LTD (NAIRC), Purple Mountain Observatory, Institute of Optics and Electronics of Chinese Academy of Sciences. At the beginning of the meeting, speeches were made by Changhui Rao, Deputy Director of the Institute of Photoelectric Technology, and Yao Fu, Vice President of the University of Science and Technology of China, respectively.
 
 <figure>
 <img src="/images/news/check-and-accept/1-ldzc.png"/>
-<figcaption>领导致辞</figcaption>
+<figcaption>Message from the Leader.</figcaption>
 </figure>
 
-随后，WFST本体副总设计师张程做了《中国科学技术大学-紫金山天文台大视场巡天望远镜（WFST）本体研制》和《中国科学技术大学-紫金山天文台大视场巡天望远镜（WFST）本体出所测试》的报告。
+
+Subsequently, Mr. Cheng Zhang, Deputy Chief Designer of WFST, made a report on "Development of University of Science and Technology of China (USTC)-Purple Mountain Observatory (PMO) Wide Field Survey Telescope (WFST)" and "University of Science and Technology of China (USTC)-Purple Mountain Observatory (PMO) Wide Field Survey Telescope (WFST) Body Exit Tests".
 
 
 <figure>
 <img src="/images/news/check-and-accept/2-yzqk.png" />
-<figcaption>项目组汇报研制情况</figcaption>
+<figcaption>Reporting on development by the project team.</figcaption>
 </figure>
-
 
 
 <figure>
 <img src="/images/news/check-and-accept/3-xcck.png" />
-<figcaption>现场查看和检测</figcaption>
+<figcaption>On-site viewing and testing.</figcaption>
 </figure>
 
 
-验收组专家听取了上述报告，依据《中国科学技术大学-紫金山天文台大视场巡天望远镜（WFST）本体测试大纲》进行了文档资料查验，前往现场对所内可测试项目逐一进行现场检测，并对其中部分关键项目指标、后期台址现场实际工作情况等方面提出建议和意见。经讨论，验收组一致认为望远镜本体具备出所条件，同意出所。
-
+The experts of the acceptance group listened to the above report, checked the documents and materials according to the "Test Outline for the Wide Field Survey Telescope (WFST) of the University of Science and Technology of China (USTC) - Purple Mountain Observatory (PMO)", went to the site to carry out on-site testing for the test items of the telescope one by one, and put forward suggestions and opinions on the indexes of some of the key items and the actual working condition of the site at the later stage of the project. After discussion, the acceptance group unanimously agreed that the telescope body has the conditions to leave the institute and agreed to leave the institute.
 
 <figure>
 <img src="/images/news/check-and-accept/4-zjhy.png"/>
-<figcaption>与会专家合影</figcaption>
+<figcaption>Group photo of participating experts.</figcaption>
 </figure>
-
-
-（物理学院、科研部）
-

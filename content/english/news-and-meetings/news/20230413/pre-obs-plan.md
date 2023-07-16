@@ -1,11 +1,11 @@
 ---
-title: "WFST先导观测计划完成评审"
+title: "WFST Pilot Observation Program Completes Review"
 author: "USTC News"
 image: "/images/news/20230413/pre-obs-plan.jpg"
 date: 2023-04-13T15:11:51+08:00
 description: ""
 ---
 
-2023年4月13日，中国科学技术大学-紫金山天文台大视场巡天望远镜（WFST）先导观测计划评审会在中国科学技术大学召开，会议以线上线下相结合的方式进行。中国科学技术大学-紫金山天文台大视场巡天望远镜科学委员会专家参加了此次评审。王挺贵教授代表WFST科学工作组作了《WFST先导观测计划》的报告。科学委员会听取了上述报告，开展质询，认为WFST科学工作组提出的科学测试项目、多科学时域先导巡天和机遇观测计划，可以全面测试WFST的性能，为开展正式巡天开展奠定基础，并有望取得先期科学成果。经讨论，科学委员会通过WFST科学工作组制定的先导观测计划评审，并对后续实施提出了指导性的意见和建议。
+On April 13, 2023, the WFST Pioneer Observation Plan Review Meeting was held at the University of Science and Technology of China (USTC) - Purple Mountain Observatory (PMO), which was conducted in a combination of online and offline methods. The scientific committee of WFST participated in this review. Professor Tinggui Wang, on behalf of the WFST scientific working group, made a report on the “WFST Pioneer Observation Plan”. The scientific committee listened to the above report, conducted questioning, and believed that the scientific test projects, multi-scientific time-domain pioneer survey and opportunity observation plan proposed by the WFST scientific working group can comprehensively test the performance of WFST, lay a foundation for the formal survey, and are expected to achieve early scientific results. After discussion, the scientific committee passed the review of the Pioneer Observation Plan formulated by the WFST scientific working group and put forward guiding opinions and suggestions for subsequent implementation
 
 ![](/images/news/20230413/pre-obs-plan.jpg)
