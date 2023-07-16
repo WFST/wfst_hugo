@@ -73,6 +73,3 @@ suffixes = [""]
 mediaType = "application/manifest+json"
 rel = "manifest"
 
-############################ busuanzi ###########################
-[params]
-  analytics = true 
