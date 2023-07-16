@@ -263,6 +263,11 @@ header {
   }
 }
 
+.post-meta ul{ 
+  display: flex;
+  flex-direction: row; 
+  justify-content: left;
+}
 //重设页脚样式
 .footer {
   background-image: linear-gradient(to right, rgb(104, 147, 241), rgb(33, 33, 75));
