@@ -18,8 +18,8 @@
                   {{ $authors := slice }}{{ if reflect.IsSlice .Params.author }}{{ $authors = .Params.author }}{{ else }}{{ $authors = (slice .Params.author) }}{{ end -}}
                   {{ range $index, $elements := $authors }}{{ if ne $index 0 }}, {{ end }}<a class="text-primary" href="{{ `author/` | relLangURL }}{{ . | urlize }}">{{ . }}</a>{{ end }},
                 
-                <span id="busuanzi_container_site_pv">
-                  {{ i18n "visit_time" }} <span id="busuanzi_value_site_pv"></span>
+                <span id="busuanzi_container_page_pv">
+                  {{ i18n "visit_time" }} <span id="busuanzi_value_page_pv"></span>
                 </span>
                 </li>
                 <!-- <li style="font-size: 15px"><i class="ion-android-people" ></i>
