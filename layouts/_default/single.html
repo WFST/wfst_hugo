@@ -19,7 +19,7 @@
                   {{ range $index, $elements := $authors }}{{ if ne $index 0 }}, {{ end }}<a class="text-primary" href="{{ `author/` | relLangURL }}{{ . | urlize }}">{{ . }}</a>{{ end }},
                 
                 <span id="busuanzi_container_site_pv">
-                  {{ i18n "visit_time" }} <span id="busuanzi_value_page_pv"></span>
+                  {{ i18n "visit_time" }} <span id="busuanzi_value_site_pv"></span>
                 </span>
                 </li>
                 <!-- <li style="font-size: 15px"><i class="ion-android-people" ></i>

@@ -1,7 +1,7 @@
 ---
 title: "survey strategy"
 date: 2022-09-06T15:11:51+08:00
-author: "Ji-an Jiang"
+# author: "Ji-an Jiang"
 description: " "
 ---
 <!-- 
