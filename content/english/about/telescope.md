@@ -9,7 +9,7 @@ date: 2022-09-06T14:40:06+08:00
 
 <figure>
 <div align=center>
-  <img src="/images/telescope-1.png" width="400" title="Figure 1" />
+  <img src="/images/telescope-1.png" width="250" title="Figure 1" />
     <figcaption>
       <h5>Figure 1, 3D model of the telescope structure.</h5>
   </figcaption>
@@ -52,7 +52,7 @@ The optical layout of WFST is shown in Figure 2. The optical system consists of 
 
 <figure>
 <div align=center>
-  <img src="/images/telescope-3.png" width="600" title="Figure 2" />
+  <img src="/images/telescope-3.png" width="900" title="Figure 2" />
     <figcaption>
       <h5>Figure 2: Optical layout of WFST.</h5>
   </figcaption>
@@ -78,7 +78,7 @@ A total of 9 pieces of 10KX 10K CCD chips with 9 μm×9 μm pixels fills the 300
 
 <figure>
 <div align=center>
-  <img src="/images/telescope-6.png" width="400" title="Figure 4" />
+  <img src="/images/telescope-6.png" width="150" title="Figure 4" />
     <figcaption>
       <h5>Figure 4: The WFST camera provides a 0.765 Gigapixel flat focal plane array, tiled by 9 pieces of 9K × 9K CCD science sensors with 10 μm pixels (white borders). Eight additional 4K × 4K chips are used for curvature wavefront sensors (orange borders), and four additional chips are used as guiding sensors (green).</h5>
   </figcaption>
@@ -91,7 +91,7 @@ The CCD chips, the RAFT structures, and the readout electronics are housed in a 
 
 <figure>
 <div align=center>
-  <img src="/images/telescope-7.png" width="300" title="Figure 5" />
+  <img src="/images/telescope-7.png" width="50" title="Figure 5" />
     <figcaption>
       <h5>Figure 5: A vacuum cryogenic dewar that houses the CCD chips, the RAFT structures, and the readout electronics. It provides the required working temperature of −100◦C for the CCDs.</h5>
   </figcaption>
@@ -136,7 +136,7 @@ Active optics (AO) is equipped to keep the telescope in a seeing-limited conditi
 
 <figure>
 <div align=center>
-  <img src="/images/telescope-11.png" width="500" title="Figure 8" />
+  <img src="/images/telescope-11.png" width="600" title="Figure 8" />
     <figcaption>
       <h5>Figure 8: The laser tracker alignment system.</h5>
   </figcaption>
