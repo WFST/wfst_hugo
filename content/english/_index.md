@@ -18,33 +18,51 @@ news:
   title: "News"
   description: ""
   news_slider:
-  - event: "墨子巡天望远镜本体顺利通过出所验收"
+  - event: "The Body Of The MoZi Wide Field Survey Telescope Successfully Passed The Acceptance Of The Laboratory"
     image: "/images/news/check-and-accept/4-zjhy.png"
     caption: "2023-04-10"
-    details: "4月10日，中国科学技术大学-中国科学院紫金山天文台大视场巡天望远镜（WFST）本体出所验收评审会在中国科学院成都光电技术研究所召开，会议以线下为主、线上为辅的方式进行。参加会议的有来自中国科学院南京天文光学技术研究所、南京天文仪器有限公司、紫金山天文台、光电技术研究所以及中国科学技术大学的有关专家。"
+    details: "On April 10, 2023, the acceptance review meeting of the University of Science and Technology of China (USTC)- Purple Mountain Observatory (PMO) of the Chinese Academy of Sciences (CAS) for the Wide Field Survey Telescope (WFST) was held at the Institute of Optics and Electronics of Chinese Academy of Sciences (IOE) in Chengdu, China, which was conducted in an offline mode and supplemented by an online mode. The meeting was attended by relevant experts from Nanjing Institute of Astronomy and Optics Technology of the Chinese Academy of Sciences, Nanjing Astronomical Instrument Co., LTD (NAIRC), Purple Mountain Observatory, Institute of Optics and Electronics of Chinese Academy of Sciences."
     button:
       enable: true
       label: "More"
       link: "/news-and-meetings/news/check-and-accept/"
 
-  - event: "WFST先导观测计划完成评审"
+  - event: "WFST Pilot Observation Program Completes Review"
     image: "/images/news/20230413/pre-obs-plan.jpg"
     caption: "2023-04-13"
-    details: "2023年4月13日，中国科学技术大学-紫金山天文台大视场巡天望远镜（WFST）先导观测计划评审会在中国科学技术大学召开，会议以线上线下相结合的方式进行。中国科学技术大学-紫金山天文台大视场巡天望远镜科学委员会专家参加了此次评审。"
+    details: "On April 13, 2023, the WFST Pioneer Observation Plan Review Meeting was held at the University of Science and Technology of China (USTC) - Purple Mountain Observatory (PMO), which was conducted in a combination of online and offline methods. The scientific committee of WFST participated in this review. Professor Tinggui Wang, on behalf of the WFST scientific working group, made a report on the “WFST Pioneer Observation Plan”."
     button:
       enable: true
       label: "More"
       link: "/news-and-meetings/news/20230413/pre-obs-plan/"
 
-  - event: "WFST调试样机通过出所验收"
+  - event: "WFST Debugging Prototype Passed The Acceptance Of The Laboratory"
     image: "/images/news/20230413/check-prototype.jpg"
     caption: "2023-04-13"
-    details: "2023年4月13日，中国科学技术大学-紫金山天文台大视场巡天望远镜（WFST）主焦相机调试样机出所验收评审会在中国科学技术大学召开。参加会议的有来自中国科学院国家天文台、上海天文台、紫金山天文台，南京天文仪器有限公司以及中国科学技术大学的有关专家。"
+    details: "On April 13, 2023, the Acceptance Review Meeting for the Commissioning Prototype of the Wide Field Survey Telescope (WFST) of the University of Science and Technology of China (USTC) - Purple Mountain Observatory (PMO) was held at USTC. Experts from the National Astronomical Observatory of the Chinese Academy of Sciences (NAOC), Shanghai Astronomical Observatory (SHAO), Purple Mountain Observatory (PMO), Nanjing Astronomical Instrument Co., LTD (NAIRC), and USTC attended the meeting."
     button:
       enable: true
       label: "More"
       link: "/news-and-meetings/news/20230413/check-prototype/"
+  
 
+  - event: "Completion Of WFST Infrastructure Project Receives Acceptance"
+    image: "/images/news/20230713/image1.png"
+    caption: "2023-07-22"
+    details: "On July 13, 2023, the acceptance meeting for the supporting infrastructure project of the Wide Field Survey Telescope (WFST) at University of Science and Technology of China (USTC) - Purple Mountain Observatory (PMO) was held at Lenghu. The meeting was attended by representatives from Lenghu Science and Technology Innovation Industrial Park Management Committee, Qinghai Tongtai Construction Engineering Co., Ltd., University of Science and Technology of China, Purple Mountain Observatory of the Chinese Academy of Sciences, Yunnan Observatory, Nanjing Institute of Astronomical Optics and Technology, China Investment Engineering Inspection and Testing Co., Ltd., Qinghai Dongya Engineering Construction Management Consulting Co., Ltd., as well as relevant experts from Mangya City Construction and Transportation Quality Inspection Station."
+    button:
+      enable: true
+      label: "More"
+      link: "/news-and-meetings/news/20230722/20230722/"
+
+  - event: "USTC President Xinhe Bao Investigates Lenghu Astronomical Observatory"
+    image: "/images/news/20230724/hezhao.png"
+    caption: "2023-07-24"
+    details: "From July 15 to 16, President Bao Xinhe academician and his entourage arrived at the astronomical observation base of Saishiteng Mountain in Lenghu, Haixi Prefecture, Qinghai for investigation and research. Secretary of the Party Group of the Standing Committee of the Haixi Prefecture People’s Congress, Director Rang-Tai Cai, Deputy Secretary of the Party Group of the Management Committee of the Lenghu Science and Technology Innovation Industrial Park, Executive Deputy Director Cai-Rang Tian, accompanied by the research and investigation, the Ministry of Scientific Research, the School of Physics and other relevant responsible comrades to participate in the investigation and research activities."
+    button:
+      enable: true
+      label: "More"
+      link: "/news-and-meetings/news/20230724/20230724/"
 
 ############################# About #################################
 # about:
