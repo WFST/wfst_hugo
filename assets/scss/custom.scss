@@ -139,6 +139,11 @@ ul.nav li.dropdown:hover>ul.dropdown-menu {
   font-family: $font_primary;
 }
 
+.row {
+  display: flex;
+  align-items: center;
+}
+
 @keyframes slideDown {
   0% {
     top: 0;
@@ -152,7 +157,7 @@ ul.nav li.dropdown:hover>ul.dropdown-menu {
     text-transform: none;
     font-weight: 400;
     color: #7c7c7c;
-    padding: 10px 20px;
+    padding: 10px 10px;
     -webkit-transition: color .1s ease, padding .3s ease;
     -moz-transition: color .1s ease, padding .3s ease;
     -ms-transition: color .1s ease, padding .3s ease;
