@@ -108,9 +108,13 @@ $(document).ready(function () {
     infinite: true,
     arrows: true,
     dots: false,
-    autoplay: true,
+    autoplay: false,
     autoplaySpeed: 2000,
     draggable: true,
+    // adaptiveHeight: true,
+    // mobileFirst: true,
+    // respondTo: 'slider',
+    // variableWidth: true,
   });
 
   //  Count Up
