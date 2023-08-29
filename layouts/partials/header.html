@@ -36,7 +36,7 @@
           {{ end }}">
           
             <a class="dropdown-toggle hvr-overline-from-left" href="{{if .URL}}{{.URL | relLangURL}}{{else}}#{{end}}" role="button" data-toggle="" aria-haspopup="true"
-              aria-expanded="false">
+              aria-expanded="true">
               {{ .Pre }} {{ .Name }} <i class="fas fa-angle-down"></i>
             </a>
             <ul class="dropdown-menu" style="{{if eq $.Lang `zh`}} width:200px {{else}} width:300px {{end}};">
