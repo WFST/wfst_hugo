@@ -44,7 +44,7 @@ figure {
 .testimonial .testimonial-carousel {
   border: 1px solid #acb9c4;
   border-radius: 2em;
-  padding: 24px
+  padding: 24px;
 }
 
 .slider .block p {
@@ -119,6 +119,7 @@ iframe {
   position: absolute;
   bottom: 5vh;
   font-size: x-large;
+
   a {
     color: $white;
     text-shadow: 0px 3px 10px #000;
@@ -346,7 +347,7 @@ header {
   }
 }
 
-.row {
+footer .row {
   display: flex;
   align-items: center;
 }
