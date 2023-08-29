@@ -18,6 +18,9 @@ news:
   title: "News"
   description: ""
   news_slider:
+
+  # <!-- 请按照时间从新到旧依次向后排序 -->
+  
   - event: "USTC President Xinhe Bao Investigates Lenghu Astronomical Observatory"
     image: "/images/news/20230724/hezhao.png"
     caption: "2023-07-24"
