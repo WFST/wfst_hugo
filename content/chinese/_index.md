@@ -17,7 +17,9 @@ news:
   title: "News"
   description: ""
   news_slider:
-  # testimonial item loop
+
+  # <!-- 请按照时间从新到旧依次向后排序 -->
+
   - event: "USTC包信和校长调研冷湖天文观测基地"
     image: "/images/news/20230724/hezhao.png"
     caption: "2023-07-24"
