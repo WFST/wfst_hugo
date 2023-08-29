@@ -18,14 +18,28 @@ news:
   title: "News"
   description: ""
   news_slider:
-  - event: "The Body Of The MoZi Wide Field Survey Telescope Successfully Passed The Acceptance Of The Laboratory"
-    image: "/images/news/check-and-accept/4-zjhy.png"
-    caption: "2023-04-10"
-    details: "On April 10, 2023, the acceptance review meeting of the University of Science and Technology of China (USTC)- Purple Mountain Observatory (PMO) of the Chinese Academy of Sciences (CAS) for the Wide Field Survey Telescope (WFST) was held at the Institute of Optics and Electronics of Chinese Academy of Sciences (IOE) in Chengdu, China, which was conducted in an offline mode and supplemented by an online mode. The meeting was attended by relevant experts from Nanjing Institute of Astronomy and Optics Technology of the Chinese Academy of Sciences, Nanjing Astronomical Instrument Co., LTD (NAIRC), Purple Mountain Observatory, Institute of Optics and Electronics of Chinese Academy of Sciences."
+  - event: "USTC President Xinhe Bao Investigates Lenghu Astronomical Observatory"
+    image: "/images/news/20230724/hezhao.png"
+    caption: "2023-07-24"
+    details: "From July 15 to 16, President Bao Xinhe academician and his entourage arrived at the astronomical observation base of Saishiteng Mountain in Lenghu, Haixi Prefecture, Qinghai for investigation and research. Secretary of the Party Group of the Standing Committee of 
+the Haixi Prefecture People’s Congress, Director Rang-Tai Cai, Deputy Secretary of the Party Group of the Management Committee of the Lenghu Science and Technology Innovation Industrial Park, Executive Deputy Director Cai-Rang Tian, accompanied by the research and 
+investigation, the Ministry of Scientific Research, the School of Physics and other relevant responsible comrades to participate in the investigation and research activities."
     button:
       enable: true
       label: "More"
-      link: "/news-and-meetings/news/check-and-accept/"
+      link: "/news-and-meetings/news/20230724/20230724/"
+
+  - event: "Completion Of WFST Infrastructure Project Receives Acceptance"
+    image: "/images/news/20230713/image1.png"
+    caption: "2023-07-13"
+    details: "On July 13, 2023, the acceptance meeting for the supporting infrastructure project of the Wide Field Survey Telescope (WFST) at University of Science and Technology of China (USTC) - Purple Mountain Observatory (PMO) was held at Lenghu. The meeting was attended by 
+representatives from Lenghu Science and Technology Innovation Industrial Park Management Committee, Qinghai Tongtai Construction Engineering Co., Ltd., University of Science and Technology of China, Purple Mountain Observatory of the Chinese Academy of Sciences, Yunnan 
+Observatory, Nanjing Institute of Astronomical Optics and Technology, China Investment Engineering Inspection and Testing Co., Ltd., Qinghai Dongya Engineering Construction Management Consulting Co., Ltd., as well as relevant experts from Mangya City Construction and 
+Transportation Quality Inspection Station."
+    button:
+      enable: true
+      label: "More"
+      link: "/news-and-meetings/news/20230713/20230713/"
 
   - event: "WFST Pilot Observation Program Completes Review"
     image: "/images/news/20230413/pre-obs-plan.jpg"
@@ -44,25 +58,17 @@ news:
       enable: true
       label: "More"
       link: "/news-and-meetings/news/20230413/check-prototype/"
-  
-
-  - event: "Completion Of WFST Infrastructure Project Receives Acceptance"
-    image: "/images/news/20230713/image1.png"
-    caption: "2023-07-22"
-    details: "On July 13, 2023, the acceptance meeting for the supporting infrastructure project of the Wide Field Survey Telescope (WFST) at University of Science and Technology of China (USTC) - Purple Mountain Observatory (PMO) was held at Lenghu. The meeting was attended by representatives from Lenghu Science and Technology Innovation Industrial Park Management Committee, Qinghai Tongtai Construction Engineering Co., Ltd., University of Science and Technology of China, Purple Mountain Observatory of the Chinese Academy of Sciences, Yunnan Observatory, Nanjing Institute of Astronomical Optics and Technology, China Investment Engineering Inspection and Testing Co., Ltd., Qinghai Dongya Engineering Construction Management Consulting Co., Ltd., as well as relevant experts from Mangya City Construction and Transportation Quality Inspection Station."
+      
+  - event: "The Body Of The MoZi Wide Field Survey Telescope Successfully Passed The Acceptance Of The Laboratory"
+    image: "/images/news/20230410/4-zjhy.png"
+    caption: "2023-04-10"
+    details: "On April 10, 2023, the acceptance review meeting of the University of Science and Technology of China (USTC)- Purple Mountain Observatory (PMO) of the Chinese Academy of Sciences (CAS) for the Wide Field Survey Telescope (WFST) was held at the Institute of Optics 
+and Electronics of Chinese Academy of Sciences (IOE) in Chengdu, China, which was conducted in an offline mode and supplemented by an online mode. The meeting was attended by relevant experts from Nanjing Institute of Astronomy and Optics Technology of the Chinese Academy of 
+Sciences, Nanjing Astronomical Instrument Co., LTD (NAIRC), Purple Mountain Observatory, Institute of Optics and Electronics of Chinese Academy of Sciences."
     button:
       enable: true
       label: "More"
-      link: "/news-and-meetings/news/20230722/20230722/"
-
-  - event: "USTC President Xinhe Bao Investigates Lenghu Astronomical Observatory"
-    image: "/images/news/20230724/hezhao.png"
-    caption: "2023-07-24"
-    details: "From July 15 to 16, President Bao Xinhe academician and his entourage arrived at the astronomical observation base of Saishiteng Mountain in Lenghu, Haixi Prefecture, Qinghai for investigation and research. Secretary of the Party Group of the Standing Committee of the Haixi Prefecture People’s Congress, Director Rang-Tai Cai, Deputy Secretary of the Party Group of the Management Committee of the Lenghu Science and Technology Innovation Industrial Park, Executive Deputy Director Cai-Rang Tian, accompanied by the research and investigation, the Ministry of Scientific Research, the School of Physics and other relevant responsible comrades to participate in the investigation and research activities."
-    button:
-      enable: true
-      label: "More"
-      link: "/news-and-meetings/news/20230724/20230724/"
+      link: "/news-and-meetings/news/20230410/20230410"
 
 ############################# About #################################
 # about:

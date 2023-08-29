@@ -18,24 +18,51 @@ news:
   description: ""
   news_slider:
   # testimonial item loop
+  - event: "USTC包信和校长调研冷湖天文观测基地"
+    image: "/images/news/20230724/hezhao.png"
+    caption: "2023-07-24"
+    details: "7月15至16日，中国科学技术大学校长包信和院士一行到达青海海西州冷湖赛什腾山天文观测基地进行考察调研。海西州人大常委会党组书记、主任才让太，冷湖科技创新产业园区管委会党组副书记、常务副主任田才让等陪同考察调研，科研部、物理学院等相关负责同志参加调研活动。"
+    button:
+      enable: true
+      label: "更多"
+      link: "/news-and-meetings/news/20230724/20230724/"
+
+  - event: "WFST基建竣工通过验收"
+    image: "/images/news/20230713/image1.png"
+    caption: "2023-07-13"
+    details: "2023年7月13日，中国科学技术大学-紫金山天文台大视场巡天望远镜（WFST）配套基础设施项目验收会在冷湖召开。参加会议的有来自冷湖科技创新产业园区管理委员会，青海同泰建筑工程有限公司，中国科学技术大学，中国科学院紫金山天文台、云南天文台、南京天文光学技术研究所，国投工程检验检测有限公司，青海东亚工程建设管理咨询有限公司，以及茫崖市建设和交通运输质检站的有关专家。专家们首先前往赛什腾山台址现场，圆顶制作安装项目检测组专家依据《2.5米口径大视场巡天望远镜17.1米随动圆顶检测大纲》对圆顶相关可测试性能参数逐一进行现场检测并记录。同时，基建项目验收组专家对大视场巡天望远镜配套观测楼等相关建设内容进了考察和检验。"
+    button:
+      enable: true
+      label: "更多"
+      link: "/news-and-meetings/news/20230713/20230713/"
+
+  - event: "WFST先导观测计划完成评审"
+    image: "/images/news/20230413/pre-obs-plan.jpg"
+    caption: "2023-04-13"
+    details: ”2023年4月13日，中国科学技术大学-紫金山天文台大视场巡天望远镜（WFST）先导观测计划评审会在中国科学技术大学召开，会议以线上线下相结合的方式进行。中国科学技术大学-紫金山天文台大视场巡天望远镜科学委员会专家参加了此次评审。王挺贵教授代表WFST科学工作组作了《WFST先导观测计划》的报告。科学委员会听取了上述报告，开展质询，认为WFST科学工作组提出的科学测试项目、多科学时域先导巡天和机遇观测计划，可以全面测试WFST的性能，为开展正式巡天开展奠定基础，并有望取得先期科学成果。经讨论，科学委员会通过WFST科学工作组制定的先导观测计划评审，并对后续实施提出了指导性的意见和建议。“
+    button:
+      enable: true
+      label: "更多"
+      link: "/news-and-meetings/news/20230413/pre-obs-plan/"
+
+  - event: "WFST调试样机通过出所验收"
+    image: "/images/news/20230413/check-prototype.jpg"
+    caption: "2023-04-13"
+    details: "评审专家一致认为主焦相机研制团队完成了WFST主焦相机调试样机的各项研制任务，并在中国科学院光电技术研究所配合望远镜本体完成了所内各项调试任务，满足去台站现场调试的要求，具备出所条件。评审专家组同意大视场巡天望远镜调试样机通过出所验收。"
+    button:
+      enable: true
+      label: "更多"
+      link: "/news-and-meetings/news/20230413/check-prototype/"
+
   - event: "中国科学技术大学-紫金山天文台大视场 巡天望远镜本体顺利通过出所验收"
-    image: "images/news/4-zjhy.png"
+    image: "/images/news/20230410/4-zjhy.png"
     caption: "2023-04-10"
     details: "4月10日，中国科学技术大学-中国科学院紫金山天文台大视场巡天望远镜（WFST）本体出所验收评审会在中国科学院成都光电技术研究所召开，会议以线下为主、线上为辅的方式进行。参加会议的有来自中国科学院南京天文光学技术研究所、南京天文仪器有限公司、紫金山天文台、光电技术研究所以及中国科学技术大学的有关专家。"
     button:
       enable: true
-      label: "More"
-      link: "news-and-meetings/news/check-and-accept/"
+      label: "更多"
+      link: "news-and-meetings/news/20230410/20230410/"
 
-  # testimonial item loop
-  - event: "The First Discovery Of The Hysteresis Effect Of Optical Iron Emission In The TDE Event"
-    image: "images/news/hysteresis_effect-TDE/TDE/d93038b4-6204-4563-a247-005637551bfe.png"
-    caption: "January 28, 2021"
-    details: "A team leaded by Prof. Tinggui Wang from the Department of astronomy, University of science and technology of China first detected the hysteresis effect of optical iron emission in the TDE event. The paper was published online in the international famous academic journal the Astrophysical Journal Letters on January 28, 2021."
-    button:
-      enable: true
-      label: "More"
-      link: "news-and-meetings/news/hysteresis_effect-tde/"
 ############################# About #################################
 about:
   enable: true
