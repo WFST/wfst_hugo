@@ -112,6 +112,45 @@ iframe {
   padding-left: auto;
 }
 
+//首页跳动箭头
+.row.arrowSS {
+  justify-self: end;
+  display: block;
+  position: absolute;
+  bottom: 5vh;
+  font-size: x-large;
+  a {
+    color: $white;
+    text-shadow: 0px 3px 10px #000;
+  }
+}
+
+/* 包裹箭头效果的盒子 */
+.arrowSS {
+  animation: bounce-inSS 4s infinite;
+  /* 启动动画特效 */
+}
+
+/* 箭头动画 */
+@keyframes bounce-inSS {
+
+  0%,
+  20%,
+  50%,
+  80%,
+  100% {
+    transform: translateY(0);
+  }
+
+  40% {
+    transform: translateY(-30px);
+  }
+
+  60% {
+    transform: translateY(-15px);
+  }
+}
+
 //导航栏悬停下拉菜单
 
 ul.nav li.dropdown:hover>ul.dropdown-menu {
@@ -139,10 +178,6 @@ ul.nav li.dropdown:hover>ul.dropdown-menu {
   font-family: $font_primary;
 }
 
-.row {
-  display: flex;
-  align-items: center;
-}
 
 @keyframes slideDown {
   0% {
@@ -311,6 +346,12 @@ header {
   }
 }
 
+.row {
+  display: flex;
+  align-items: center;
+}
+
+
 //封面图
 .slider {
   height: 100vh;
@@ -323,7 +364,9 @@ header {
 .slider,
 .page-title {
   display: flex;
+  flex-flow: column nowrap;
   align-items: center;
+  justify-content: space-evenly;
 }
 
 .navi-ice.navigation {
