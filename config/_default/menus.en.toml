@@ -109,18 +109,18 @@ hasChildren = true
 
 [[main]]
 weight = 5
-name = "Publications"
+name = "Publications & Highlights"
 pre = "<i class='fas fa-book'></i>"
 hasChildren = true
 
   [[main]]
-  parent = "Publications"
-  name = "Publication"
-  url = "publications/publication/"
+  parent = "Publications & Highlights"
+  name = "Publications"
+  url = "publications/publications/"
   weight = 1
 
   [[main]]
-  parent = "Publications"
+  parent = "Publications & Highlights"
   name = "Research Highlights"
   url = "publications/highlights/"
   weight = 2

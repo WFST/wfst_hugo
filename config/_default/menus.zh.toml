@@ -117,7 +117,7 @@ hasChildren = true
   [[main]]
   parent = "出版及亮点"
   name = "出版"
-  url = "publications/publication/"
+  url = "publications/publications/"
   weight = 1
   
   [[main]]
