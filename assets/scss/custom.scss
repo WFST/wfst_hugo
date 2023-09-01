@@ -201,9 +201,9 @@ ul.nav li.dropdown:hover>ul.dropdown-menu {
     transition: color .1s ease, padding .3s ease;
   }
 
-  a::before {
-    content: '└ ';
-  }
+  // a::before {
+  //   content: '└ ';
+  // }
 }
 
 /* Overline From Left */
