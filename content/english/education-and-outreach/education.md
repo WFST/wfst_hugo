@@ -17,7 +17,7 @@ To enhance outstanding students' understanding of USTC, promote exchanges among 
 
 <figure>
 <div align=center>
-   <img src="/images/volute-1.jpg" width="250" title="Figure 1">
+   <img src="/images/education/volute-1.jpg" width="250" title="Figure 1">
      <figcaption>
        <h5>Figure 1, Please utilize WeChat to scan the QR code for access.</h5>
    </figcaption>
