@@ -20,13 +20,19 @@ news:
   news_slider:
 
   # <!-- 请按照时间从新到旧依次向后排序 -->
-  
+  - event: "WFST's First Commissioning Observations Underway"
+    image: "/images/news/20230817/news-1.png"
+    caption: "2023-08-17"
+    details: "On August 16, 2023, WFST conducted its inaugural commissioning observations. This milestone signifies that the telescope underwent a series of rigorous tests and calibrations prior to its observational mission to ensure a smooth and successful operation upon its first activation."
+    button:
+      enable: true
+      label: "More"
+      link: "/news-and-meetings/news/20230817/20230817/"
+ 
   - event: "USTC President Xinhe Bao Investigates Lenghu Astronomical Observatory"
     image: "/images/news/20230724/hezhao.png"
     caption: "2023-07-24"
-    details: "From July 15 to 16, President Bao Xinhe academician and his entourage arrived at the astronomical observation base of Saishiteng Mountain in Lenghu, Haixi Prefecture, Qinghai for investigation and research. Secretary of the Party Group of the Standing Committee of 
-the Haixi Prefecture People’s Congress, Director Rang-Tai Cai, Deputy Secretary of the Party Group of the Management Committee of the Lenghu Science and Technology Innovation Industrial Park, Executive Deputy Director Cai-Rang Tian, accompanied by the research and 
-investigation, the Ministry of Scientific Research, the School of Physics and other relevant responsible comrades to participate in the investigation and research activities."
+    details: "From July 15 to 16, President Bao Xinhe academician and his entourage arrived at the astronomical observation base of Saishiteng Mountain in Lenghu, Haixi Prefecture, Qinghai for investigation and research. Secretary of the Party Group of the Standing Committee of the Haixi Prefecture People’s Congress, Director Rang-Tai Cai, Deputy Secretary of the Party Group of the Management Committee of the Lenghu Science and Technology Innovation Industrial Park, Executive Deputy Director Cai-Rang Tian, accompanied by the research and investigation, the Ministry of Scientific Research, the School of Physics and other relevant responsible comrades to participate in the investigation and research activities."
     button:
       enable: true
       label: "More"
