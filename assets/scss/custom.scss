@@ -3,7 +3,7 @@
   color: $white;
   text-shadow: 2px 2px 4px #000;
   font-weight: 400;
-  font-size: xxx-large;
+  font-size: $font_size*3.0;
 }
 
 figure {
@@ -51,7 +51,13 @@ figure {
   color: $white;
   text-shadow: 2px 2px 4px #000;
   font-weight: 200;
-  font-size: $font_size*1.5;
+  font-size: $font_size*2.0;
+
+  &.description {
+    font-size: $font_size*0.8;
+    font-style: italic;
+    font-weight: 50;
+  }
 }
 
 .page-title .block h1 {
@@ -87,7 +93,8 @@ video {
 //按钮样式
 
 .slider .btn-main {
-  background-color: rgba(10, 170, 255, 0.8);
+  background-color: rgba(10, 170, 255, 0.3);
+  border: solid 1px;
   transition: all .3s linear;
 }
 

@@ -7,8 +7,10 @@
     <div class="row">
       <div class="col-md-12">
         <div class="block">
+          <p class="invisible"> WFST </p>
           {{ with .title }}<h1 class="tracking-in-expand">{{ . | markdownify }}</h1>{{ end }}
           {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+          {{ with .description}}<p class="description">{{ . | markdownify }}</p>{{ end }}
           {{ with .button }}
           {{ if .enable }}
           <a href="{{ .link | relLangURL }}" class="btn btn-main animated fadeInUp">{{ .label }}</a>
