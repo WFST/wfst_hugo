@@ -5,10 +5,10 @@
 
 ## Hugo 安装
 
-- macos:
+- MacOS:
   - `brew install hugo`
-  - Nots: for other operation systems, see [hugo](https://gohugo.io/getting-started/installing/) for details.
-- **推荐用vscode进行调试**
+- Notes: for other operation systems, see [hugo](https://gohugo.io/getting-started/installing/) for details.
+- **推荐用 VSCode 进行调试**
 
 ## 网站测试流程
 
