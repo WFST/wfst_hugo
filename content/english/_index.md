@@ -6,7 +6,7 @@ banner:
   bg_image: "images/slides/M31byWFST_4K-min.png"
   bg_overlay: false
   title: " 墨子巡天望远镜"
-  content: "\"Mozi\" Wide Field Survey Telescope (WFST)"
+  content: "Wide Field Survey Telescope (WFST or \"Mozi\")"
   description: ""
   button:
     enable: false
