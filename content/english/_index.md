@@ -21,10 +21,10 @@ news:
   news_slider:
 
   # <!-- 请按照时间从新到旧依次向后排序 -->
-  - event: "WFST's First Commissioning Observations Underway"
+  - event: "WFST Started the Engineering Commissioning Observation"
     image: "/images/news/20230817/news-1.png"
     caption: "2023-08-17"
-    details: "On August 16, 2023, WFST conducted its inaugural commissioning observations. This milestone signifies that the telescope underwent a series of rigorous tests and calibrations prior to its observational mission to ensure a smooth and successful operation upon its first activation."
+    details: "On August 16, 2023, WFST started its engineering commissioning observations. This milestone signifies that the telescope underwent a series of rigorous tests and calibrations prior to its observational mission to ensure a smooth and successful operation upon its first activation."
     button:
       enable: true
       label: "More"
