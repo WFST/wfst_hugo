@@ -21,6 +21,15 @@ news:
   news_slider:
 
   # <!-- 请按照时间从新到旧依次向后排序 -->
+  - event: "WFST Took the First-light Image on the Andromeda Galaxy"
+    image: "/images/news/20230917/first_light_m31.png"
+    caption: "2023-09-17"
+    details: "The largest time-domain survey facility in the northern hemisphere, the Wide Field Survey Telescope (WFST), took its first-light image on the closest large spiral galaxy to the Milky Way, the Andromeda Galaxy (known as M31). The picture shows a panoramic view of the Andromeda Galaxy and reveals distributions of bright and faint starlight in the galaxy and its surrounding celestial bodies, suggesting the dynamic processes occurring within the galaxy and interactions among galaxies."
+    button:
+      enable: true
+      label: "More"
+      link: "/news-and-meetings/news/20230917/20230917/"
+
   - event: "WFST Started the Engineering Commissioning Observation"
     image: "/images/news/20230817/news-1.png"
     caption: "2023-08-17"
