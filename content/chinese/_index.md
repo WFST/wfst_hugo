@@ -21,13 +21,31 @@ news:
 
   # <!-- 请按照时间从新到旧依次向后排序 -->
   - event: "墨子巡天望远镜发现首批近地小行星"
-    image: "/images/news/20231122/near_earth.png"
+    image: "/images/news/20231122/20231122.gif"
     caption: "2023-11-22"
     details: "2023年11月22日，国际小行星中心（MPC）发布公告确认墨子巡天望远镜（WFST）新发现两颗近地小行星——2023 WX1和2023 WB2，这是墨子巡天望远镜发现的首批近地小行星。"
     button:
       enable: true
       label: "更多"
       link: "/news-and-meetings/news/20231122/20231122/"
+
+  - event: "WFST拍摄首张仙女座星系"
+    image: "/images/news/20230917/firstlight_m31_1142x1142.jpg"
+    caption: "2023-09-17"
+    details: "墨子巡天望远镜（WFST）是北半球最大的时域调查设备，它在距离银河系最近的大型螺旋星系——仙女座星系（也被称为M31）上拍摄了首光图。这张图片展示了仙女座星系的全景视图，呈现出星系及其周围天体明亮和微弱星光的分布情况，揭示了星系内部的动态过程以及星系之间的相互作用。"
+    button:
+      enable: true
+      label: "更多"
+      link: "/news-and-meetings/news/20230917/20230917/"
+
+  - event: "WFST开始工程调试观测"
+    image: "/images/news/20230817/news-1.png"
+    caption: "2023-08-17"
+    details: "2023年8月16日，WFST开始进行工程调试观测。这个里程碑意味着在首次正式观测之前，望远镜经历了一系列严格的测试和校准，以确保在观测任务中能够顺利地运行。"
+    button:
+      enable: true
+      label: "更多"
+      link: "/news-and-meetings/news/20230817/20230817/"
 
   - event: "USTC包信和校长调研冷湖天文观测基地"
     image: "/images/news/20230724/hezhao.png"

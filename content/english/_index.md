@@ -21,10 +21,10 @@ news:
   news_slider:
 
   # <!-- 请按照时间从新到旧依次向后排序 -->
-  - event: "WFST Discovers First Batch of Near-Earth Asteroids"
-    image: "/images/news/20231122/near_earth.png"
+  - event: "WFST Discovered Two Near-Earth Asteroids"
+    image: "/images/news/20231122/20231122.gif"
     caption: "2023-11-22"
-    details: "On November 22, 2023, the International Astronomical Union's Minor Planet Center (MPC) issued an announcement confirming the discovery of two near-Earth asteroids, 2023 WX1 and 2023 WB2, by the WFST. This marks the first batch of near-Earth asteroids discovered by the WFST."
+    details: "On November 22, 2023, the International Astronomical Union’s Minor Planet Center (MPC) issued an announcement confirming the discovery of two near-Earth asteroids (NEAs), 2023 WX1 and 2023 WB2 by WFST. This is the first time of the NEA discovery with WFST."
     button:
       enable: true
       label: "More"
