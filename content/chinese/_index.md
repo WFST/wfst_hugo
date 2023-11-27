@@ -20,6 +20,14 @@ news:
   news_slider:
 
   # <!-- 请按照时间从新到旧依次向后排序 -->
+  - event: "墨子巡天望远镜发现首批近地小行星"
+    image: "/images/news/20231122/near_earth.png"
+    caption: "2023-11-22"
+    details: "2023年11月22日，国际小行星中心（MPC）发布公告确认墨子巡天望远镜（WFST）新发现两颗近地小行星——2023 WX1和2023 WB2，这是墨子巡天望远镜发现的首批近地小行星。"
+    button:
+      enable: true
+      label: "更多"
+      link: "/news-and-meetings/news/20231122/20231122/"
 
   - event: "USTC包信和校长调研冷湖天文观测基地"
     image: "/images/news/20230724/hezhao.png"
