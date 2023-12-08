@@ -12,6 +12,9 @@ WFST Collaboration; arXiv:2306.07590 [ "Sciences for The 2.5-meter Wide Field Su
 ## Other referred papers published by WFST team
 
 <!-- 按照时间从新到旧依次向后排序 -->
+<!-- 格式可以使用IEEE -->
+
+Chen, Y.-P., [“Basic Survey Scheduling for the Wide Field Survey Telescope (WFST)”](https://arxiv.org/abs/2312.03421)
 
 Liu, Zheng-Yan; Lin, Zhe-Yu; Yu, Ji-Ming; Wang, Hui-Yu; Mourani, Gibran-Marc; Zhao, Wen; Dai, Zi-Gao. The Astrophysical Journal, Volume 947, Issue 2, id.59, 14 pp. 
 ["Target of Opportunity Observations Detectability of Kilonova with WFST"](https://ui.adsabs.harvard.edu/abs/2023ApJ...947...59L/abstract)

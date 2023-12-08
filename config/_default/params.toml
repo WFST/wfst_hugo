@@ -16,7 +16,7 @@ author = ""
 image = "images/wfst/lenghu.jpeg" # this image will be used as fallback if a page has no image of its own
 useDefualtBgImage = true
 #backgroundimage = "images/20230111全景_2560x1100.jpg"
-backgroundimage = "images/bg_wfst.jpeg"
+backgroundimage = "images/overlook_wfst.jpg"
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
 # contact info
