@@ -6,7 +6,7 @@ description: ""
 
 ## The white paper
 
-WFST Collaboration; arXiv:2306.07590 [ "Sciences for The 2.5-meter Wide Field Survey Telescope (WFST)"](https://ui.adsabs.harvard.edu/abs/2023arXiv230607590W/abstract)
+WFST Collaboration; Science China Physics, Mechanics & Astronomy, Volume 66, Issue 10, article id.109512. [ "Sciences for The 2.5-meter Wide Field Survey Telescope (WFST)"](https://ui.adsabs.harvard.edu/abs/2023arXiv230607590W/abstract)
 
 
 ## Other referred papers published by WFST team
