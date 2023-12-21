@@ -13,6 +13,7 @@ WFST Collaboration; Science China Physics, Mechanics & Astronomy, Volume 66, Iss
 
 <!-- 按照时间从新到旧依次向后排序 -->
 <!-- 格式可以使用IEEE -->
+<!-- 格式根据：作者姓名，ads 上 publication 信息-->
 
 [7] Liang, Run-Duo; Liu Zheng-Yan; Lei Lei; Zhao Wen. [“Kilonova-Targeting Lightcurve Classification for Wide Field Survey Telescope”](https://arxiv.org/abs/2312.12169)
 
