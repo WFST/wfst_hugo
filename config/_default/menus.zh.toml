@@ -42,6 +42,12 @@ hasChildren = true
   name = "团队"
   url = "about/team/"
   weight = 5
+  
+  [[main]]
+  parent = "关于"
+  name = "加入我们"
+  url = "about/joinus/"
+  weight = 6
 
 [[main]]
 name = "科学"
