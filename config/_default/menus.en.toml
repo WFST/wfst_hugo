@@ -43,6 +43,12 @@ hasChildren = true
   url = "about/team/"
   weight = 5
 
+  [[main]]
+  parent = "About"
+  name = "Join us"
+  url = "about/joinus/"
+  weight = 6
+
 [[main]]
 name = "Science"
 url = "science/"
