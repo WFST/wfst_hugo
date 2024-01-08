@@ -13,6 +13,7 @@ WFST Collaboration; Science China Physics, Mechanics & Astronomy, Volume 66, Iss
 
 <!-- 按照时间从新到旧依次向后排序 -->
 <!-- 格式根据：作者姓名，ads 上 publication 信息-->
+[8] Liu, Yu; Lin, Xiao-Zhi; Xue, Yong-Quan; Le, Huynh Anh N. [“Preliminary Study of Photometric Redshifts Based on the Wide Field Survey Telescope”](https://ui.adsabs.harvard.edu/abs/2023RAA....23l5011L/abstract)
 
 [7] Liang, Run-Duo; Liu Zheng-Yan; Lei Lei; Zhao Wen. [“Kilonova-Targeting Lightcurve Classification for Wide Field Survey Telescope”](https://arxiv.org/abs/2312.12169)
 
