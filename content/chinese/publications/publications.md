@@ -7,13 +7,16 @@ description: ""
 
 ## 白皮书
 
-WFST Collaboration; arXiv:2306.07590 [ "Sciences for The 2.5-meter Wide Field Survey Telescope (WFST)"](https://ui.adsabs.harvard.edu/abs/2023arXiv230607590W/abstract)
+WFST Collaboration; Science China Physics, Mechanics & Astronomy, Volume 66, Issue 10, article id.109512. [ "Science with the 2.5-meter Wide Field Survey Telescope (WFST)"](https://ui.adsabs.harvard.edu/abs/2023arXiv230607590W/abstract)
 
 
 ## 相关论文
 
 <!-- 请按照时间从新到旧依次向后排序 -->
 <!-- 格式根据：作者姓名，ads 上 publication 信息-->
+[9] Huang, Shifeng ; Jiang, Ning ; Zhu, Jiazheng ; Wang, Yibo ; Wang, Tinggui ; Wang, Shan-Qin ; Gan, Wen-Pei ; Liang, En-Wei ; Qin, Yu-Jing ; Lin, Zheyu ; Xu, Lin-Na ; Cai, Min-Xuan ; Jiang, Ji-An ; Kong, Xu ; Li, Jiaxun ; Li, Long ; Wang, Jian-Guo ; Xu, Ze-Lin ; Xue, Yongquan ; Yuan, Ye-Fei ; Cheng, Jingquan ; Fan, Lulu ; Gao, Jie ; Hu, Lei ; Hu, Weida ; li, Bin ; Li, Feng ; Liang, Ming ; Liu, Hao ; Liu, Wei ; Lou, Zheng ; Luo, Wentao ; Qian, Yuan ; Tang, Jinlong ; Wan, Zhen ; Wang, Hairen ; Wang, Jian ; Yang, Ji ; Yao, Dazhi ; Zhang, Hongfei ; Zhang, Xiaoling ; Zhao, Wen ; Zheng, Xianzhong ; Zhu, Qingfeng ; Zuo, Yingxi. eprint arXiv:2403.01686.
+[“AT2023lli: A Tidal Disruption Event with Prominent Optical Early Bump and Delayed Episodic X-ray Emission”](https://ui.adsabs.harvard.edu/abs/2024arXiv240301686H/abstract)
+
 [8] Liu, Yu; Lin, Xiao-Zhi; Xue, Yong-Quan; Le, Huynh Anh N. Research in Astronomy and Astrophysics, Volume 23, Issue 12, id.125011, 20  pp.
 [“Preliminary Study of Photometric Redshifts Based on the Wide Field Survey Telescope”](https://ui.adsabs.harvard.edu/abs/2023RAA....23l5011L/abstract)
 
