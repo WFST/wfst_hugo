@@ -173,6 +173,14 @@ hasChildren = true
   url = "education-and-outreach/video/"
   weight = 3
 
+
+  [[main]]
+  parent = "Education & Outreach"
+  name = "WFST Summer School"
+  url = "education-and-outreach/summer_school/"
+  weight = 4
+
+
 # footer menu
 [[footer]]
 name = "About"
