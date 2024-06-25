@@ -168,11 +168,17 @@ hasChildren = true
   url = "album/"
   weight = 2
 
-    [[main]]
+  [[main]]
   parent = "教育及延伸"
   name = "视频"
   url = "education-and-outreach/video/"
   weight = 3
+
+  [[main]]
+  parent = "教育及延伸"
+  name = "暑期学校"
+  url = "education-and-outreach/summer_school/"
+  weight = 4
 
 
 # footer menu
