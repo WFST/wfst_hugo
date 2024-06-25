@@ -3,7 +3,7 @@
 date: 2024-06-20T10:11:51+08:00
 draft: false
 description: " "
-bg_image: "images/education/summer_school.jpg"
+bg_image: "images/education/summer_school_2.jpg"
 ---
 
 ## <center> 第一届墨子巡天望远镜时域天文暑期学校</center>
@@ -33,7 +33,7 @@ bg_image: "images/education/summer_school.jpg"
 <li> 安涛（中国科学院上海天文台） </li>
 
 <p style="width:100%;">
-    <img src="/images/education/teachers/at.png" align="right" width=150px hspace="10" vspace="8">
+    <img src="/images/education/teachers/at.png" align="right" width=150px hspace="10" vspace="10">
      <p class="f12 indent" > 中国科学院上海天文台研究员，博士生导师。现任上海天文台射电天文科学与技术研究室副主任、SKA区域中心团队负责人，作为中方代表参与国际大科学工程平方公里阵列（SKA）区域中心的国际合作，并推动中国SKA区域中心的建设。担任国际天文学会（IAU）射电专委会委员、欧洲甚长基线干涉测量网（EVN）时间分配委员会评委等学术职务。发表论文200多篇，指导多名研究生获得国家奖学金。担任国际天文期刊审稿人。
 <br></br>
     主讲课程：《射电时域天文》
@@ -69,7 +69,7 @@ bg_image: "images/education/summer_school.jpg"
 <li> 王俊贤（中国科学技术大学）</li>
 
 <p style="width:100%;">
-    <img src="/images/education/teachers/wjx.png" align="right" width=180px hspace="10" vspace="8">
+    <img src="/images/education/teachers/wjx.png" align="right" width=180px hspace="10" vspace="10">
    <p class="f12 indent" >中国科学技术大学讲席教授，博士生导师。1996年获中国科学技术大学理学学士学位，2001年获中国科学技术大学天体物理博士学位，2001年7月-2004年6月在约翰.霍普金斯大学开展博士后研究；2004年7月起任中国科学技术大学教授。2008年获国家杰出青年基金，2015年-2020年担任基金委“星系和类星体”创新群体负责人，2019年入选国家高层次人才特殊支持计划科技创新领军人才。主要研究方向为活动星系、高红移星系。已发表SCI论文180余篇，被引9000余次。主讲研究生课程《活动星系核》。已培养毕业博士生10人。曾获中国天文学会黄授书奖，中国科学技术大学杰出研究校长奖等荣誉。
 <br></br>
    主讲课程：《活动星系核的光变研究》
@@ -81,7 +81,7 @@ bg_image: "images/education/summer_school.jpg"
 <li> 王挺贵（中国科学技术大学）</li>
 
 <p style="width:100%;">
-    <img src="/images/education/teachers/wtg.png" align="right" width=190px hspace="10" vspace="8">
+    <img src="/images/education/teachers/wtg.png" align="right" width=190px hspace="10" vspace="10">
   <p class="f12 indent" >中国科学技术大学教授，大视场巡天望远镜（WFST）项目科学家。1985年杭州大学本科毕业，1992年中国科学技术大学博士学位。曾先后在欧洲空间局紫外卫星天文台、马普地外物理所、日本理化学研究所访问工作。在活动星系核物理与类星体反馈等领域研究三十年，近十年重点关注超大质量黑洞的暂现吸积过程，在相关领域发表研究论文190余篇。1999年获得国家自然科学基金委“杰出青年基金”资助，2022年天文学会的黄润乾天体物理基础奖。  
   <br></br>
     主讲课程：《潮汐瓦解恒星事件》
