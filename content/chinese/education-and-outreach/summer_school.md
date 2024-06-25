@@ -100,9 +100,9 @@ bg_image: "images/education/summer_school.jpg"
 
 <p style="width:100%;">
   <p class="f12 indent" >
-        <li>  姜继安 18226609700 jian.jiang@ustc.edu.cn </li>
-        <li> 陆山 13013067918 lushan@ustc.edu.cn </li>
-        <li> 蔡萍 15256216188 pcai@ustc.edu.cn </li>
+        <li>  姜继安 18226609700 jian.jiang_at_ustc.edu.cn </li>
+        <li> 陆山 13013067918 lushan_at_ustc.edu.cn </li>
+        <li> 蔡萍 15256216188 pcai_at_ustc.edu.cn </li>
   <br></br>
     </p>
 </p>
@@ -113,7 +113,7 @@ bg_image: "images/education/summer_school.jpg"
 
 <br></br>
 
-#### 住宿酒店地址
+#### 培训酒店地址
 <li>潜山全力国际大酒店</li>
 
 <center><iframe style="width: 100%;" height="430" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://uri.amap.com/marker?position=116.456225,30.7261629&name=全力古井国际大酒店&src=mypage&coordinate=gaode&callnative=0"></iframe>
