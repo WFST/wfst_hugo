@@ -27,7 +27,7 @@ bg_image: "images/education/summer_school.jpg"
 
 <br></br>
 
-#### 授课老师(按姓氏拼音首字母排序）
+#### 授课老师（按姓氏拼音首字母排序）
 <br></br>
 
 <li> 安涛（中国科学院上海天文台） </li>
