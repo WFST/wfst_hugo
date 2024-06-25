@@ -16,19 +16,18 @@ bg_image: "images/education/summer_school_2.jpg"
 <br></br>
 
 
-<p class="f12">培训时间：2024年8月7日（下午）报到，8月8日-8月12日上课，8月12日下午颁发结业证书并离校。</p>
+<p class="f12"><b>培训时间：</b>2024年8月7日（下午）报到，8月8日-8月12日上课，8月12日下午颁发结业证书并离校。</p>
 
-<p class="f12">培训地点：安徽省安庆市潜山市</p>
+<p class="f12"><b>培训地点：</b>安徽省安庆市潜山市</p>
 
-<p class="f12">注册费：1500元/人</p>
+<p class="f12"><b>注册费：</b>1500元/人</p>
 
 
-<p class="f12">交通：校方将提供潜山火车站往返酒店的大巴车</p>
+<p class="f12"><b>交通：</b>校方将提供潜山火车站往返酒店的大巴车</p>
 
 <br></br>
 
-#### 授课老师（按姓氏拼音首字母排序）
-<br></br>
+#### <p class="f12"><b>授课老师（按姓氏拼音首字母排序）</b></p>
 
 <li> 安涛（中国科学院上海天文台） </li>
 
@@ -97,7 +96,8 @@ bg_image: "images/education/summer_school_2.jpg"
 <br></br>
 <br></br>
 
-#### 联系人及联系方式：
+
+#### <p class="f12"><b>联系人及联系方式：</b></p>
 
 <p style="width:100%;">
   <p class="f12 indent" >
@@ -108,13 +108,15 @@ bg_image: "images/education/summer_school_2.jpg"
     </p>
 </p>
 
-#### 扫码报名：
+#### <p class="f12"><b>扫码报名：</b></p>
+
 
 <center><img src="/images/education/summer_school_qr_code.jpg" width="30%" /></center>
 
 <br></br>
 
-#### 培训酒店地址
+#### <p class="f12"><b>培训酒店地址：</b></p>
+
 <li>潜山全力国际大酒店</li>
 
 <center><iframe style="width: 100%;" height="430" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://uri.amap.com/marker?position=116.456225,30.7261629&name=全力古井国际大酒店&src=mypage&coordinate=gaode&callnative=0"></iframe>
