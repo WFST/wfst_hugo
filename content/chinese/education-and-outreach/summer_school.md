@@ -27,7 +27,8 @@ bg_image: "images/education/summer_school.jpg"
 
 <br></br>
 
-#### 授课老师(按姓氏拼音首字母排序)：
+#### 授课老师(按姓氏拼音首字母排序）
+<br></br>
 
 <li> 安涛（中国科学院上海天文台） </li>
 
@@ -90,7 +91,7 @@ bg_image: "images/education/summer_school.jpg"
 <br></br>
 
 <p></p>
-<li> 王晓峰（清华大学）</li>
+<li> 王晓锋（清华大学）</li>
 
 
 <br></br>
