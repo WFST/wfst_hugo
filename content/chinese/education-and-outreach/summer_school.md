@@ -101,8 +101,8 @@ bg_image: "images/education/summer_school.jpg"
 <p style="width:100%;">
   <p class="f12 indent" >
         <li>  姜继安 18226609700 jian.jiang@ustc.edu.cn </li>
-        <li> 蔡萍 15256216188 pcai@ustc.edu.cn </li>
         <li> 陆山 13013067918 lushan@ustc.edu.cn </li>
+        <li> 蔡萍 15256216188 pcai@ustc.edu.cn </li>
   <br></br>
     </p>
 </p>
