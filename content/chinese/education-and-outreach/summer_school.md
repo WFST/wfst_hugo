@@ -92,6 +92,13 @@ bg_image: "images/education/summer_school_bkg.jpg"
 <p></p>
 <li> 王晓锋（清华大学）</li>
 
+<p style="width:100%;">
+    <img src="/images/education/teachers/wxf.png" align="right" width=190px hspace="10" vspace="10">
+  <p class="f12 indent" >清华大学物理系教授。 主要从事超新星及时域天文学方向研究，累计发表SCI论文190篇 (包括Science 1篇，Nature 3篇，Nature Astronomy 4篇)，研究工作被引用12000次。2013年获得国家杰出青年基金资助，2015年获中国天文学会黄授书奖，2017年获中组部万人计划“中青年领军”人才计划支持，2021年获得腾讯科学探索奖。
+  <br></br>
+    主讲课程：《超新星爆发：观测、理论及宇宙学》
+    </p>
+</p>
 
 <br></br>
 <br></br>
