@@ -128,7 +128,7 @@ bg_image: "images/education/summer_school_bkg.jpg"
 
 地址：安徽省安庆潜山县潘铺中学北侧约70米
 <br></br>
-<center><iframe style="width: 100%;" height="430" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://ditu.amap.com/place/B0JAS9E6MA"></iframe>
+<center><iframe style="width: 100%;" height="430" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://ditu.amap.com/search?id=B0JAS9E6MA&city=340882&geoobj=116.230914%7C31.236797%7C118.974032%7C32.531892&query_type=IDQ&query=%E6%82%A6%E8%8D%B7%E5%B1%85%E6%B0%91%E5%AE%BF&zoom=9.46"></iframe>
 </center>
 
 <br></br>
