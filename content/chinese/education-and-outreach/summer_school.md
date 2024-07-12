@@ -124,9 +124,11 @@ bg_image: "images/education/summer_school_bkg.jpg"
 
 #### <p class="f12"><b>培训酒店地址：</b></p>
 
-<li>潜山全力国际大酒店</li>
+<li><a href="http://msd-yue-he-ju.hotelanqing.cn/">曼斯顿・悦荷居酒店</a></li>
 
-<center><iframe style="width: 100%;" height="430" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://uri.amap.com/marker?position=116.456225,30.7261629&name=全力古井国际大酒店&src=mypage&coordinate=gaode&callnative=0"></iframe>
+地址：安徽省安庆潜山县潘铺中学北侧约70米
+<br></br>
+<center><iframe style="width: 100%;" height="430" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" id="gmap_canvas" src="https://ditu.amap.com/place/B0JAS9E6MA"></iframe>
 </center>
 
 <br></br>
