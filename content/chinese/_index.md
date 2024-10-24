@@ -20,6 +20,16 @@ news:
   news_slider:
 
   # <!-- 请按照时间从新到旧依次向后排序 -->
+
+  - event: "第一届墨子巡天望远镜时域天文暑期学校圆满结束"
+    image: "/images/news/20240813/school8.png"
+    caption: "2024-08-13"
+    details: "2024年8月7日至8月12日，由中国科学技术大学天文学系举办的第一届墨子巡天望远镜时域天文暑期学校在安徽省潜山市顺利开班并圆满结束。"
+    button:
+      enable: true
+      label: "更多"
+      link: "/news-and-meetings/news/20240813/20240813/"
+      
   - event: "第一届墨子巡天望远镜时域天文暑期学校"
     image: "/images/education/summer_school.jpg"
     caption: "2024-06-25"
