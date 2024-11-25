@@ -29,7 +29,7 @@ news:
       enable: true
       label: "更多"
       link: "/news-and-meetings/news/20240813/20240813/"
-      
+
   - event: "第一届墨子巡天望远镜时域天文暑期学校"
     image: "/images/education/summer_school.jpg"
     caption: "2024-06-25"
