@@ -12,16 +12,16 @@ WFST Collaboration; Science China Physics, Mechanics & Astronomy, Volume 66, Iss
 ## Other referred papers published by WFST team
 
 <!-- 按照时间从新到旧依次向后排序 -->
-<!-- 格式根据：作者姓名，ads 上 publication 信息-->
 
-[9] Huang, Shifeng ; Jiang, Ning ; Zhu, Jiazheng ; Wang, Yibo ; Wang, Tinggui ; Wang, Shan-Qin ; Gan, Wen-Pei ; Liang, En-Wei ; Qin, Yu-Jing ; Lin, Zheyu ; Xu, Lin-Na ; Cai, Min-Xuan ; Jiang, Ji-An ; Kong, Xu ; Li, Jiaxun ; Li, Long ; Wang, Jian-Guo ; Xu, Ze-Lin ; Xue, Yongquan ; Yuan, Ye-Fei ; Cheng, Jingquan ; Fan, Lulu ; Gao, Jie ; Hu, Lei ; Hu, Weida ; li, Bin ; Li, Feng ; Liang, Ming ; Liu, Hao ; Liu, Wei ; Lou, Zheng ; Luo, Wentao ; Qian, Yuan ; Tang, Jinlong ; Wan, Zhen ; Wang, Hairen ; Wang, Jian ; Yang, Ji ; Yao, Dazhi ; Zhang, Hongfei ; Zhang, Xiaoling ; Zhao, Wen ; Zheng, Xianzhong ; Zhu, Qingfeng ; Zuo, Yingxi. eprint arXiv:2403.01686.
-[“AT2023lli: A Tidal Disruption Event with Prominent Optical Early Bump and Delayed Episodic X-ray Emission”](https://ui.adsabs.harvard.edu/abs/2024arXiv240301686H/abstract)
+
+[9] Huang, Shifeng ; Jiang, Ning ; Zhu, Jiazheng ; Wang, Yibo ; Wang, Tinggui ; Wang, Shan-Qin ; Gan, Wen-Pei ; Liang, En-Wei ; Qin, Yu-Jing ; Lin, Zheyu ; Xu, Lin-Na ; Cai, Min-Xuan ; Jiang, Ji-An ; Kong, Xu ; Li, Jiaxun ; Li, Long ; Wang, Jian-Guo ; Xu, Ze-Lin ; Xue, Yongquan ; Yuan, Ye-Fei ; Cheng, Jingquan ; Fan, Lulu ; Gao, Jie ; Hu, Lei ; Hu, Weida ; li, Bin ; Li, Feng ; Liang, Ming ; Liu, Hao ; Liu, Wei ; Lou, Zheng ; Luo, Wentao ; Qian, Yuan ; Tang, Jinlong ; Wan, Zhen ; Wang, Hairen ; Wang, Jian ; Yang, Ji ; Yao, Dazhi ; Zhang, Hongfei ; Zhang, Xiaoling ; Zhao, Wen ; Zheng, Xianzhong ; Zhu, Qingfeng ; Zuo, Yingxi. 2024. ApJL 964, L22. 
+[“AT 2023lli: A Tidal Disruption Event with Prominent Optical Early Bump and Delayed Episodic X-Ray Emission”](https://ui.adsabs.harvard.edu/abs/2024ApJ...964L..22H/abstract)
 
 [8] Liu, Yu; Lin, Xiao-Zhi; Xue, Yong-Quan; Le, Huynh Anh N. Research in Astronomy and Astrophysics, Volume 23, Issue 12, id.125011, 20  pp.
 [“Preliminary Study of Photometric Redshifts Based on the Wide Field Survey Telescope”](https://ui.adsabs.harvard.edu/abs/2023RAA....23l5011L/abstract)
 
 [7] Liang, Run-Duo; Liu Zheng-Yan; Lei Lei; Zhao Wen. Universe, Volume 10, Issue 1, p. 10
-[“Kilonova-Targeting Lightcurve Classification for Wide Field Survey Telescope”](https://arxiv.org/abs/2312.12169)
+[“Kilonova-Targeting Lightcurve Classification for Wide Field Survey Telescope”](https://ui.adsabs.harvard.edu/abs/2023Univ...10...10L/abstract)
 
 [6] Chen, Yan-Peng; Jiang, Ji-An; Luo, Wen-Tao; Zheng, Xian-Zhong; Fang, Min; Yang, Chao; Hong, Yuan-Yu; Lü, Zong-Fei. Research in Astronomy and Astrophysics, Volume 24, Issue 1, id.015003, 11 pp. 
 [“Basic Survey Scheduling for the Wide Field Survey Telescope (WFST)”](https://ui.adsabs.harvard.edu/abs/2024RAA....24a5003C/abstract)
