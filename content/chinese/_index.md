@@ -20,6 +20,7 @@ news:
   news_slider:
 
   # <!-- 请按照时间从新到旧依次向后排序 -->
+
   - event: "第一届墨子巡天望远镜时域天文暑期学校圆满结束"
     image: "/images/news/20240813/school8.png"
     caption: "2024-08-13"
@@ -28,6 +29,15 @@ news:
       enable: true
       label: "更多"
       link: "/news-and-meetings/news/20240813/20240813/"
+
+  - event: "第一届墨子巡天望远镜时域天文暑期学校"
+    image: "/images/education/summer_school.jpg"
+    caption: "2024-06-25"
+    details: "中国科学技术大学天文系将于2024年8月7日举办“第一届墨子巡天望远镜时域天文暑期学校”。"
+    button:
+      enable: true
+      label: "更多"
+      link: "/education-and-outreach/summer_school"
 
   - event: "墨子巡天望远镜发现首批近地小行星"
     image: "/images/news/20231122/20231122.gif"
@@ -103,7 +113,7 @@ news:
 
 ############################# About #################################
 about:
-  enable: true
+  enable: false
   title: "关于"
   description: "Wide Field Survey Telescope (WFST) is a dedicated photometric survey facility, being built and operated jointly by University of Science and Technology of China (USTC) and Purple Mountain observatory. "
   content: "It consists of a telescope with the primary mirror of diameter 2.5m with an active optical system and a mosaic CCD camera of 0.764 Gigapixels on the main focus plane to achieve high-quality images over a field of view of 6.5 square degrees. The telescope is expected to be installed on the top of Saishiteng Mountain, Lenghu in the fall of 2022, and start to operate from the spring of 2023. 
