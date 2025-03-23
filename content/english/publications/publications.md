@@ -12,6 +12,7 @@ WFST Collaboration; Science China Physics, Mechanics & Astronomy, Volume 66, Iss
 ## Other referred papers published by WFST team
 
 <!-- 按照时间从新到旧依次向后排序 -->
+
 <!-- 格式复制 ads 上的 作者名单、Publication、题目、ads摘要网址就行， -->
 <!-- 记得同时更新中文和英文页面 -->
 
