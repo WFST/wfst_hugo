@@ -115,21 +115,22 @@ hasChildren = true
 
 [[main]]
 weight = 5
-name = "Publications & Highlights"
+name = "Publications"
 pre = "<i class='fas fa-book'></i>"
-hasChildren = true
+url = "publications/publications/"
+# hasChildren = true
 
-  [[main]]
-  parent = "Publications & Highlights"
-  name = "Publications"
-  url = "publications/publications/"
-  weight = 1
+  # [[main]]
+  # parent = "Publications & Highlights"
+  # name = "Publications"
+  # url = "publications/publications/"
+  # weight = 1
 
-  [[main]]
-  parent = "Publications & Highlights"
-  name = "Research Highlights"
-  url = "publications/highlights/"
-  weight = 2
+  # [[main]]
+  # parent = "Publications & Highlights"
+  # name = "Research Highlights"
+  # url = "publications/highlights/"
+  # weight = 2
 
 [[main]]
 weight = 6
@@ -151,31 +152,31 @@ hasChildren = true
 
 [[main]]
 weight = 7
-name = "Education & Outreach"
+name = "Outreach"
 pre = "<i class='fas fa-graduation-cap'></i>"
 hasChildren = true
 
   [[main]]
-  parent = "Education & Outreach"
+  parent = "Outreach"
   name = "Education"
   url = "education-and-outreach/education/"
   weight = 1
 
   [[main]]
-  parent = "Education & Outreach"
+  parent = "Outreach"
   name = "Gallery"
   url = "album/"
   weight = 2
 
   [[main]]
-  parent = "Education & Outreach"
-  name = "Video"
+  parent = "Outreach"
+  name = "VR & Video"
   url = "education-and-outreach/video/"
   weight = 3
 
 
   [[main]]
-  parent = "Education & Outreach"
+  parent = "Outreach"
   name = "WFST Summer School"
   url = "education-and-outreach/summer_school/"
   weight = 4
@@ -208,6 +209,6 @@ url = "news-and-meetings/"
 weight = 6
 
 [[footer]]
-name = "Education & Outreach"
+name = "Outreach"
 url = "education-and-outreach/"
 weight = 7
