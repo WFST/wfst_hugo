@@ -170,7 +170,7 @@ hasChildren = true
 
   [[main]]
   parent = "教育及延伸"
-  name = "视频"
+  name = "VR & 视频"
   url = "education-and-outreach/video/"
   weight = 3
 

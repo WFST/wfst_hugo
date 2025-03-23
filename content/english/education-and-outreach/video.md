@@ -1,12 +1,17 @@
 ---
-title: "video"
+title: "VR & Video"
 date: 2022-09-06T15:11:51+08:00
 draft: false
 description: " "
 ---
 
+## VR
 
-## Videos about WFST
+[Click here to view VR of WFST.](https://www.720yun.com/vr/d3ej50svzm8)
+
+---
+
+## Videos
 
 ### Top view of WFST
 <video controls>

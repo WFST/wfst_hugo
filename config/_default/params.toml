@@ -1,8 +1,8 @@
 #################### default parameters ################################
 # favicon
-favicon = "images/墨子-古文.png"
+favicon = "images/logo_avatar.jpg"
 # logo
-logo = "images/mzxtwyj.png"
+logo = "images/logo_banner_cn.jpg"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = "250px"
