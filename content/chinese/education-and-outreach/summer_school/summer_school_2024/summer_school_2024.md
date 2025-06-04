@@ -1,5 +1,6 @@
 ---
-# title: "第一届墨子巡天望远镜时域天文暑期学校"
+title: "第一届墨子巡天望远镜时域天文暑期学校"
+show_title: false
 date: 2024-06-20T10:11:51+08:00
 draft: false
 description: " "

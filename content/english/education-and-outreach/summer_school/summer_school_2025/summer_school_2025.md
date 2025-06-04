@@ -1,0 +1,8 @@
+---
+# title: "第二届墨子巡天望远镜时域天文暑期学校（贵阳·2025）"
+show_title: false
+date: 2025-06-04T10:11:51+08:00
+draft: false
+description: " "
+---
+![webpage under constructon](/images/Webpage-under-construction.jpeg)
