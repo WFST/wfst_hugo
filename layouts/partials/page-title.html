@@ -2,11 +2,12 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12">
+        {{ if .Params.show_title | default true }}
         {{/* 如果更换背景图片需要调整title位置，在这里调整padding数值 */}}
         <div class="block">
           {{/* 标题字体大小和样式判断 */}}
           {{ if .Params.custom_title_style }}
-            <h1 class="tracking-in-expand" style="font-size: 38px; font-weight: bold; color: black;">
+            <h1 class="tracking-in-expand" style="font-size: 40px; font-weight: bold; color: black;">
               {{ .Title }}
             </h1>
           {{ else }}
@@ -17,6 +18,7 @@
           
           <p style="font-size: 25px">{{ .Params.description }}</p>
         </div>
+        {{ end }}
       </div>
     </div>
   </div>
