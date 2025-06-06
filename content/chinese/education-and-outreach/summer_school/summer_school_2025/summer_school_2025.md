@@ -16,7 +16,7 @@ description: " "
 本届暑期学校不收取注册费，住宿和差旅交通费用自理。
 </p>
 
-<p class="f12" style="line-height: 1.6;text-indent: 2em;"><b>培训时间：</b>2025年8月10日报到，8月11日-8月15日上课，8月15日下午颁发结业证书并离校。</p>
+<p class="f12" style="line-height: 1.6;text-indent: 2em;"><b>培训时间：</b>2025年8月9日报到，8月10日-8月14日上课，8月14日下午颁发结业证书并离校。</p>
 
 <p class="f12" style="line-height: 1.6;text-indent: 2em;"><b>培训地点：</b>贵州省贵阳市贵州大学校内</p>
 
