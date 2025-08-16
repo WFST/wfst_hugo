@@ -20,6 +20,14 @@ news:
   news_slider:
 
   # <!-- 请按照时间从新到旧依次向后排序 -->
+  - event: "第二届墨子巡天望远镜时域天文暑期学校"
+    image: "/images/news/20250816/school9.png"
+    caption: "2025-08-16"
+    details: "2025年8月9日至15日，由中国科学技术大学天文学系和贵州大学共同举办的第二届墨子巡天望远镜时域天文暑期学校在贵州大学顺利落幕"
+    button:
+      enable: true
+      label: "更多"
+      link: "/news-and-meetings/news/20250816/"
 
   - event: "国家重点研发计划 “基于 2.5 米大视场巡天望远镜的前沿科学研究” 项目 2024 年度总结交流会顺利召开"
     image: "/images/news/20250316/reports.png"
