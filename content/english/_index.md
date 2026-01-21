@@ -60,10 +60,7 @@ news:
   - event: "Completion Of WFST Infrastructure Project Receives Acceptance"
     image: "/images/news/20230713/image1.png"
     caption: "2023-07-13"
-    details: "On July 13, 2023, the acceptance meeting for the supporting infrastructure project of the Wide Field Survey Telescope (WFST) at University of Science and Technology of China (USTC) - Purple Mountain Observatory (PMO) was held at Lenghu. The meeting was attended by 
-representatives from Lenghu Science and Technology Innovation Industrial Park Management Committee, Qinghai Tongtai Construction Engineering Co., Ltd., University of Science and Technology of China, Purple Mountain Observatory of the Chinese Academy of Sciences, Yunnan 
-Observatory, Nanjing Institute of Astronomical Optics and Technology, China Investment Engineering Inspection and Testing Co., Ltd., Qinghai Dongya Engineering Construction Management Consulting Co., Ltd., as well as relevant experts from Mangya City Construction and 
-Transportation Quality Inspection Station."
+    details: "On July 13, 2023, the acceptance meeting for the supporting infrastructure project of the Wide Field Survey Telescope (WFST) at University of Science and Technology of China (USTC) - Purple Mountain Observatory (PMO) was held at Lenghu. The meeting was attended by representatives from Lenghu Science and Technology Innovation Industrial Park Management Committee, Qinghai Tongtai Construction Engineering Co., Ltd., University of Science and Technology of China, Purple Mountain Observatory of the Chinese Academy of Sciences, Yunnan Observatory, Nanjing Institute of Astronomical Optics and Technology, China Investment Engineering Inspection and Testing Co., Ltd., Qinghai Dongya Engineering Construction Management Consulting Co., Ltd., as well as relevant experts from Mangya City Construction and Transportation Quality Inspection Station."
     button:
       enable: true
       label: "More"
@@ -90,9 +87,7 @@ Transportation Quality Inspection Station."
   - event: "The Body Of The MoZi Wide Field Survey Telescope Successfully Passed The Acceptance Of The Laboratory"
     image: "/images/news/20230410/4-zjhy.png"
     caption: "2023-04-10"
-    details: "On April 10, 2023, the acceptance review meeting of the University of Science and Technology of China (USTC)- Purple Mountain Observatory (PMO) of the Chinese Academy of Sciences (CAS) for the Wide Field Survey Telescope (WFST) was held at the Institute of Optics 
-and Electronics of Chinese Academy of Sciences (IOE) in Chengdu, China, which was conducted in an offline mode and supplemented by an online mode. The meeting was attended by relevant experts from Nanjing Institute of Astronomy and Optics Technology of the Chinese Academy of 
-Sciences, Nanjing Astronomical Instrument Co., LTD (NAIRC), Purple Mountain Observatory, Institute of Optics and Electronics of Chinese Academy of Sciences."
+    details: "On April 10, 2023, the acceptance review meeting of the University of Science and Technology of China (USTC)- Purple Mountain Observatory (PMO) of the Chinese Academy of Sciences (CAS) for the Wide Field Survey Telescope (WFST) was held at the Institute of Optics and Electronics of Chinese Academy of Sciences (IOE) in Chengdu, China, which was conducted in an offline mode and supplemented by an online mode. The meeting was attended by relevant experts from Nanjing Institute of Astronomy and Optics Technology of the Chinese Academy of Sciences, Nanjing Astronomical Instrument Co., LTD (NAIRC), Purple Mountain Observatory, Institute of Optics and Electronics of Chinese Academy of Sciences."
     button:
       enable: true
       label: "More"
@@ -141,49 +136,46 @@ cta:
 funfacts:
   enable: false
   title: "Fun Facts About Us"
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the blind 
-texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
-  funfact_item:
-  # funfacts item loop
-  - icon: "fas fa-mug-hot" #https://fontawesome.com/v5.15/icons
-    name: "Cups Of Coffee"
-    count: "99"
+  description: "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
+# funfact_item:
+#   # funfacts item loop
+#   - icon: "fas fa-mug-hot" #https://fontawesome.com/v5.15/icons
+#     name: "Cups Of Coffee"
+#     count: "99"
 
-  # funfacts item loop
-  - icon: "fas fa-glasses" #https://fontawesome.com/v5.15/icons
-    name: "Article Written"
-    count: "45"
+#   # funfacts item loop
+#   - icon: "fas fa-glasses" #https://fontawesome.com/v5.15/icons
+#     name: "Article Written"
+#     count: "45"
 
-  # funfacts item loop
-  - icon: "fas fa-keyboard" #https://fontawesome.com/v5.15/icons
-    name: "Projects Completed"
-    count: "125"
+#   # funfacts item loop
+#   - icon: "fas fa-keyboard" #https://fontawesome.com/v5.15/icons
+#     name: "Projects Completed"
+#     count: "125"
 
-  # funfacts item loop
-  - icon: "fas fa-clock" #https://fontawesome.com/v5.15/icons
-    name: "Combined Projects"
-    count: "200"
+#   # funfacts item loop
+#   - icon: "fas fa-clock" #https://fontawesome.com/v5.15/icons
+#     name: "Combined Projects"
+#     count: "200"
 
-  testimonial_slider:
-  # testimonial item loop
-  - name: "Raymond Roy"
-    image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel 
-that our site has unique elements that make us stand out from the crowd."
+# testimonial_slider:
+#   # testimonial item loop
+#   - name: "Raymond Roy"
+#     image: "images/clients/avater-1.jpg"
+#     designation: "CEO-Themefisher"
+#     content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
 
-  # testimonial item loop
-  - name: "Randi Renin"
-    image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel 
-that our site has unique elements that make us stand out from the crowd."
+#   # testimonial item loop
+#   - name: "Randi Renin"
+#     image: "images/clients/avater-1.jpg"
+#     designation: "CEO-Themefisher"
+#     content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
 
-  # testimonial item loop
-  - name: "Rose Rio"
-    image: "images/clients/avater-3.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel 
-that our site has unique elements that make us stand out from the crowd."
+#   # testimonial item loop
+#   - name: "Rose Rio"
+#     image: "images/clients/avater-3.jpg"
+#     designation: "CEO-Themefisher"
+#     content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel 
+# that our site has unique elements that make us stand out from the crowd."
 
 ---
