@@ -28,7 +28,7 @@ news:
     button:
       enable: true
       label: "More"
-      link: "/news-and-meetings/news/20231122/20231122/"
+      link: "/news-and-meetings/news/20231122/"
 
   - event: "WFST Took the First-light Image on the Andromeda Galaxy"
     image: "/images/news/20230917/firstlight_m31_1142x1142.jpg"
@@ -37,7 +37,7 @@ news:
     button:
       enable: true
       label: "More"
-      link: "/news-and-meetings/news/20230917/20230917/"
+      link: "/news-and-meetings/news/20230917/"
 
   - event: "WFST Started the Engineering Commissioning Observation"
     image: "/images/news/20230817/news-1.png"
@@ -46,7 +46,7 @@ news:
     button:
       enable: true
       label: "More"
-      link: "/news-and-meetings/news/20230817/20230817/"
+      link: "/news-and-meetings/news/20230817/"
  
   - event: "USTC President Xinhe Bao Investigates Lenghu Astronomical Observatory"
     image: "/images/news/20230724/hezhao.png"
@@ -55,7 +55,7 @@ news:
     button:
       enable: true
       label: "More"
-      link: "/news-and-meetings/news/20230724/20230724/"
+      link: "/news-and-meetings/news/20230724/"
 
   - event: "Completion Of WFST Infrastructure Project Receives Acceptance"
     image: "/images/news/20230713/image1.png"
@@ -67,7 +67,7 @@ Transportation Quality Inspection Station."
     button:
       enable: true
       label: "More"
-      link: "/news-and-meetings/news/20230713/20230713/"
+      link: "/news-and-meetings/news/20230713/"
 
   - event: "WFST Pilot Observation Program Completes Review"
     image: "/images/news/20230413/pre-obs-plan.jpg"
@@ -96,7 +96,7 @@ Sciences, Nanjing Astronomical Instrument Co., LTD (NAIRC), Purple Mountain Obse
     button:
       enable: true
       label: "More"
-      link: "/news-and-meetings/news/20230410/20230410"
+      link: "/news-and-meetings/news/20230410/"
 
 ############################# About #################################
 # about:

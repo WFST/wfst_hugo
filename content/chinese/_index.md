@@ -36,7 +36,7 @@ news:
     button:
       enable: true
       label: "更多"
-      link: "/news-and-meetings/news/20250316/20250316/"
+      link: "/news-and-meetings/news/20250316/"
 
   - event: "第一届墨子巡天望远镜时域天文暑期学校圆满结束"
     image: "/images/news/20240813/school8.png"
@@ -45,7 +45,7 @@ news:
     button:
       enable: true
       label: "更多"
-      link: "/news-and-meetings/news/20240813/20240813/"
+      link: "/news-and-meetings/news/20240813/"
 
   - event: "第一届墨子巡天望远镜时域天文暑期学校"
     image: "/images/education/summer_school.jpg"
@@ -63,7 +63,7 @@ news:
     button:
       enable: true
       label: "更多"
-      link: "/news-and-meetings/news/20231122/20231122/"
+      link: "/news-and-meetings/news/20231122/"
 
   - event: "WFST拍摄首张仙女座星系"
     image: "/images/news/20230917/firstlight_m31_1142x1142.jpg"
@@ -72,7 +72,7 @@ news:
     button:
       enable: true
       label: "更多"
-      link: "/news-and-meetings/news/20230917/20230917/"
+      link: "/news-and-meetings/news/20230917/"
 
   - event: "WFST开始工程调试观测"
     image: "/images/news/20230817/news-1.png"
@@ -81,7 +81,7 @@ news:
     button:
       enable: true
       label: "更多"
-      link: "/news-and-meetings/news/20230817/20230817/"
+      link: "/news-and-meetings/news/20230817/"
 
   - event: "USTC包信和校长调研冷湖天文观测基地"
     image: "/images/news/20230724/hezhao.png"
@@ -90,7 +90,7 @@ news:
     button:
       enable: true
       label: "更多"
-      link: "/news-and-meetings/news/20230724/20230724/"
+      link: "/news-and-meetings/news/20230724/"
 
   - event: "WFST基建竣工通过验收"
     image: "/images/news/20230713/image1.png"
@@ -99,7 +99,7 @@ news:
     button:
       enable: true
       label: "更多"
-      link: "/news-and-meetings/news/20230713/20230713/"
+      link: "/news-and-meetings/news/20230713/"
 
   - event: "WFST先导观测计划完成评审"
     image: "/images/news/20230413/pre-obs-plan.jpg"
@@ -126,7 +126,7 @@ news:
     button:
       enable: true
       label: "更多"
-      link: "news-and-meetings/news/20230410/20230410/"
+      link: "news-and-meetings/news/20230410/"
 
 ############################# About #################################
 about:
