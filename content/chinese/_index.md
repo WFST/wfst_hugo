@@ -20,6 +20,15 @@ news:
   news_slider:
 
   # <!-- 请按照时间从新到旧依次向后排序 -->
+  - event: "AI“捕手”精准锁定黑洞吞噬瞬间：墨子巡天望远镜团队成功开发潮汐瓦解事件智能分类器"
+    image: "/images/news/20260310/TDE_art.png"
+    caption: "2026-03-10"
+    details: "近日，中国科学技术大学孔旭教授团队在时域天文数据挖掘领域取得重要进展。研究团队针对墨子巡天望远镜（WFST）的海量数据，成功开发了一款基于Transformer深度学习架构的潮汐瓦解事件（Tidal Disruption Event, TDE）自动分类器 — TTC。该分类器宛如一位不知疲倦的“AI捕手”，能在海量巡天数据中精准捕捉黑洞吞噬恒星、释放耀眼焰火的壮观瞬间。相关成果以“TTC: Transformer-based TDE Classifier for the Wide Field Survey Telescope (WFST)”为题，于2026年3月10日正式发表在国际著名天文学期刊《天体物理学杂志》（The Astrophysical Journal）上。博士生郑然方为论文第一及通讯作者，博士生林哲宇和孔旭教授为论文通讯作者。"
+    button:
+      enable: true
+      label: "更多"
+      link: "/news-and-meetings/news/20260310/"
+
   - event: "第二届墨子巡天望远镜时域天文暑期学校"
     image: "/images/news/20250816/school9.png"
     caption: "2025-08-16"
