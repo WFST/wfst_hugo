@@ -16,6 +16,8 @@ WFST Collaboration; Science China Physics, Mechanics & Astronomy, Volume 66, Iss
 <!-- 格式复制 ads 上的 作者名单、Publication、题目、ads摘要网址就行， -->
 <!-- 记得同时更新中文和英文页面 -->
 
+[28] Zheng, Ranfang; Lin, Zheyu; Kong, Xu; Meng, Dezheng; Xu, Zelin; Fan, Lulu; Jiang, Ji-an; Jiang, Ning; Lin, Jie; Wang, Tinggui; Zhu, Qingfeng; Li, Feng; Liang, Ming; Liu, Hao; Lou, Zheng; Luo, Wentao; Tang, Jinlong; Wang, Hairen; Wang, Jian; Xue, Yongquan; Yao, Dazhi; Zhang, Hong-fei; Zhao, Wen; Zheng, Xianzhong; Zuo, Yingxi. The Astrophysical Journal. ["TTC: Transformer-based TDE Classifier for the Wide Field Survey Telescope (WFST)"](https://ui.adsabs.harvard.edu/abs/2026ApJ...999..181Z/abstract)
+
 [27] Tang, Yongling ; Fan, Lulu ; Wan, Zhen ; Liu, Yating ; Lu, Yan. The Astronomical Journal, Volume 169, Issue 6, id.304, 13 pp. ["Real-time Light Curve Classification Framework for the Wide Field Survey Telescope Using Modified Semisupervised Variational Autoencoder"](https://ui.adsabs.harvard.edu/abs/2025AJ....169..304T/abstract)
 
 [26] Lin, Jie ; Wang, Tinggui ; Cai, Minxuan ; Wan, Zhen ; Li, Xuzhi ; Fan, Lulu ; Zhu, Qingfeng ; Jiang, Ji-an ; Jiang, Ning ; Kong, Xu ; Lin, Zheyu ; Zhu, Jiazheng ; Liu, Zhengyan ; Gao, Jie ; Li, Bin ; Li, Feng ; Liang, Ming ; Liu, Hao ; Liu, Wei ; Luo, Wentao ; Tang, Jinlong ; Wang, Hairen ; Wang, Jian ; Xue, Yongquan ; Yao, Dazhi ; Zhang, Hongfei ; Zhang, Xiaoling ; Zhao, Wen ; Zheng, Xianzhong. The Astrophysical Journal Supplement Series, Volume 278, Issue 1, id.29, 15 pp. [”Minute-cadence observations on Galactic plane with Wide Field Survey Telescope (WFST): Overview, methodology and early results“](https://ui.adsabs.harvard.edu/abs/2024arXiv241212601L/abstract)
