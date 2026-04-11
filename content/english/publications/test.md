@@ -1,31 +1,27 @@
 ---
-title: "出版物"
+title: "publications"
 date: 2022-09-06T15:11:51+08:00
 description: ""
 ---
 
-<!-- 按照时间从新到旧依次向后排序 -->
-
-<!-- 格式复制 ads 上的 作者名单、Publication、题目、ads摘要网址就行， -->
-<!-- 记得同时更新中文和英文页面 -->
-## 白皮书
+## The white paper
 
 WFST Collaboration; Science China Physics, Mechanics & Astronomy, Volume 66, Issue 10, article id.109512 (2023). [ "Science with the 2.5-meter Wide Field Survey Telescope (WFST)"](https://ui.adsabs.harvard.edu/abs/2023arXiv230607590W/abstract)
 
 
-## 科学论文
+## Referred scientific papers
 
 [12] Chao Yang ; Min Fang ; Xian Zhong Zheng ; Guoliang Li ; Binyang Liu ; Zheng Lou ; Zhen Wan ; Miaomiao Zhang ; Tian-Rui Sun ; Lulu Fan ; Xiaoling Zhang ; Xu Kong ; Yongquan Xue ; Wen Zhao ; Bin Li ; Wentao Luo ; Feng Li ; Wei Liu ; Jian Wang ; Hongfei Zhang ; Hao Liu ; Qinfeng Zhu ; Hairen Wang ; Dazhi Yao. The Astronomical Journal, Volume 171, Issue 4, id.238 (2026). ["WFST Astrometric Calibration. I. Modeling Global Geometric Distortion with Zernike Polynomials"](https://ui.adsabs.harvard.edu/abs/2026AJ....171..238Y/abstract)
 
 [11] Yang Yonghui ; Guo Jincheng ; Lin Jie ; Wang Tinggui ; Jiang Ning ; Wang Yibo ; Fan Lulu ; Fang Min ; Li Bin ; Li Feng ; Liu Hao ; Liang Ming ; Luo Wentao ; Tang Jinlong ; Wang Hairen ; Wang Jian ; Xue Yongquan ; Yao Dazhi ; Zhang Hongfei. Research in Astronomy and Astrophysics, Volume 26, Issue 4, id.045008 (2026). ["Asteroseismology Study of a New Faint ZZ Ceti J053009.62+594557.0 Discovered in WFST"](https://ui.adsabs.harvard.edu/abs/2026RAA....26d5008Y/abstract)
 
-[10] Fu, Bingxue ; Kong, Xu ; Lu, Junqiang ; Wang, Shao-Han ; Cai, Min-Xuan ; Fan, Lulu ; Li, Feng ; Liang, Ming ; Liu, Hao ; Luo, Wen-Tao ; Tang, Jinlong ; Wan, Zhen ; Wang, Jian ; Wang, Hairen ; Xue, Y. Q. ; Yao, Dazhi ; Zhang, Hongfei. Research in Astronomy and Astrophysics, published online (2026). ["How to Get Worthy Follow-Up Candidates of Fast-Rotating Asteroids from Sparse Wide Field Survey Telescope (WFST) Data"](https://iopscience.iop.org/article/10.1088/1674-4527/ae561b)
+[10] Fu, Bingxue ; Kong, Xu ; Lu, Junqiang ; Wang, Shao-Han ; Cai, Min-Xuan ; Fan, Lulu ; Li, Feng ; Liang, Ming ; Liu, Hao ; Luo, Wen-Tao ; Tang, Jinlong ; Wan, Zhen ; Wang, Jian ; Wang, Hairen ; Xue, Y. Q. ; Yao, Dazhi ; Zhang, Hongfei. Research in Astronomy and Astrophysics, published online on March 23, 2026. "How to Get Worthy Follow-Up Candidates of Fast-Rotating Asteroids from Sparse Wide Field Survey Telescope (WFST) Data"
 
 [9] Zhengyan Liu ; Zelin Xu ; Ji-an Jiang ; Wen Zhao ; Zhiping Jin ; Zigao Dai ; Dezheng Meng ; Xuefeng Wu ; Daming Wei ; Runduo Liang ; Lei He ; Minxuan Cai ; Lulu Fan ; Weiyu Wu ; Junhan Zhao ; Ziqing Jia ; Kexin Yu ; Jinjun Geng ; Di Xiao ; Feng Li ; Jinlong Tang ; Yingxi Zuo ; Xiaoling Zhang ; Hao Liu ; Jian Wang ; Hongfei Zhang ; Ming Liang ; Hairen Wang ; Dazhi Yao ; Lei Hu ; Xu Kong ; Bin Li ; Ning Jiang ; Tinggui Wang ; Zhen Wan ; Yongquan Xue ; Qingfeng Zhu ; Xianzhong Zheng. The Astrophysical Journal, Volume 1000, Issue 1, id.L20 (2026). ["Illuminating the Mass Gap through a Deep Optical Constraint on the Neutron Star Merger Candidate S250206dm"](https://ui.adsabs.harvard.edu/abs/2026ApJ..1000L..20L/abstract)
 
-[8] Dezheng Meng ; Ji-an Jiang ; Xu Kong ; Zelin Xu ; Keiichi Maeda ; Hanindyo Kuncarayakti ; Lluís Galbany ; Saurabh W. Jha ; Željko Ivezić ; Peter Yoachim ; Weiyu Wu ; Zhengyan Liu ; Junhan Zhao ; Andrew J. Connolly ; Ziqing Jia ; Lei Hu ; Weiyu Ding ; Lulu Fan ; Feng Li ; Ming Liang ; Jinlong Tang ; Zhen Wan ; Hairen Wang ; Jian Wang ; Yongquan Xue ; Hongfei Zhang ; Wen Zhao ; Xianzhong Zheng ; Qingfeng Zhu. The Astrophysical Journal, accepted (2026). ["WFST Supernovae in the First Year: II. SN 2024aedt: Systematical Study of a Transitional Type Ia Supernova"](https://ui.adsabs.harvard.edu/abs/2026arXiv260217269M/abstract)
+[8] Dezheng Meng ; Ji-an Jiang ; Xu Kong ; Zelin Xu ; Keiichi Maeda ; Hanindyo Kuncarayakti ; Lluís Galbany ; Saurabh W. Jha ; Željko Ivezić ; Peter Yoachim ; Weiyu Wu ; Zhengyan Liu ; Junhan Zhao ; Andrew J. Connolly ; Ziqing Jia ; Lei Hu ; Weiyu Ding ; Lulu Fan ; Feng Li ; Ming Liang ; Jinlong Tang ; Zhen Wan ; Hairen Wang ; Jian Wang ; Yongquan Xue ; Hongfei Zhang ; Wen Zhao ; Xianzhong Zheng ; Qingfeng Zhu. The Astrophysical Journal, accepted. ["WFST Supernovae in the First Year: II. SN 2024aedt: Systematical Study of a Transitional Type Ia Supernova"](https://ui.adsabs.harvard.edu/abs/2026arXiv260217269M/abstract)
 
-[7] Weiyu Wu ; Ji-an Jiang ; Zelin Xu ; Dezheng Meng ; Keiichi Maeda ; Hanindyo Kuncarayakti ; Lluís Galbany ; Saurabh W. Jha ; Željko Ivezić ; Peter Yoachim ; Zhengyan Liu ; Junhan Zhao ; Tinggui Wang ; Xu Kong ; Andrew J. Connolly ; Ziqing Jia ; Lei Hu ; Lulu Fan ; Ning Jiang ; Feng Li ; Ming Liang ; Jinlong Tang ; Zhen Wan ; Hairen Wang ; Jian Wang ; Yongquan Xue ; Hongfei Zhang ; Wen Zhao ; Xianzhong Zheng ; Qingfeng Zhu. Research in Astronomy and Astrophysics, accepted (2026). ["WFST Supernovae in the First Year: I. Statistical Study of 16 Early-phase Type Ia Supernovae from the Pilot Survey"](https://ui.adsabs.harvard.edu/abs/2026arXiv260217268W/abstract)
+[7] Weiyu Wu ; Ji-an Jiang ; Zelin Xu ; Dezheng Meng ; Keiichi Maeda ; Hanindyo Kuncarayakti ; Lluís Galbany ; Saurabh W. Jha ; Željko Ivezić ; Peter Yoachim ; Zhengyan Liu ; Junhan Zhao ; Tinggui Wang ; Xu Kong ; Andrew J. Connolly ; Ziqing Jia ; Lei Hu ; Lulu Fan ; Ning Jiang ; Feng Li ; Ming Liang ; Jinlong Tang ; Zhen Wan ; Hairen Wang ; Jian Wang ; Yongquan Xue ; Hongfei Zhang ; Wen Zhao ; Xianzhong Zheng ; Qingfeng Zhu. Research in Astronomy and Astrophysics, accepted. ["WFST Supernovae in the First Year: I. Statistical Study of 16 Early-phase Type Ia Supernovae from the Pilot Survey"](https://ui.adsabs.harvard.edu/abs/2026arXiv260217268W/abstract)
 
 [6] Ye Li ; Hui Sun ; Lei Qian ; et al. The Astrophysical Journal, Volume 995, Issue 1, id.8 (2025). ["Multiwavelength Observations of the Apparently Nonrepeating FRB 20250316A"](https://ui.adsabs.harvard.edu/abs/2025ApJ...995....8L/abstract)
 
@@ -40,7 +36,7 @@ WFST Collaboration; Science China Physics, Mechanics & Astronomy, Volume 66, Iss
 [1] Huang, Shifeng ; Jiang, Ning ; Zhu, Jiazheng ; Wang, Yibo ; Wang, Tinggui ; Wang, Shan-Qin ; Gan, Wen-Pei ; Liang, En-Wei ; Qin, Yu-Jing ; Lin, Zheyu ; Xu, Lin-Na ; Cai, Min-Xuan ; Jiang, Ji-An ; Kong, Xu ; Li, Jiaxun ; Li, Long ; Wang, Jian-Guo ; Xu, Ze-Lin ; Xue, Yongquan ; Yuan, Ye-Fei ; Cheng, Jingquan ; Fan, Lulu ; Gao, Jie ; Hu, Lei ; Hu, Weida ; li, Bin ; Li, Feng ; Liang, Ming ; Liu, Hao ; Liu, Wei ; Lou, Zheng ; Luo, Wentao ; Qian, Yuan ; Tang, Jinlong ; Wan, Zhen ; Wang, Hairen ; Wang, Jian ; Yang, Ji ; Yao, Dazhi ; Zhang, Hongfei ; Zhang, Xiaoling ; Zhao, Wen ; Zheng, Xianzhong ; Zhu, Qingfeng ; Zuo, Yingxi. The Astrophysical Journal, Volume 964, Issue 2, id.L22 (2024). ["AT 2023lli: A Tidal Disruption Event with Prominent Optical Early Bump and Delayed Episodic X-Ray Emission"](https://ui.adsabs.harvard.edu/abs/2024ApJ...964L..22H/abstract)
 
 
-## 技术论文
+## Referred technical papers
 
 [22] Zheng, Ranfang ; Lin, Zheyu ; Kong, Xu ; Meng, Dezheng ; Xu, Zelin ; Fan, Lulu ; Jiang, Ji-an ; Jiang, Ning ; Lin, Jie ; Wang, Tinggui ; Zhu, Qingfeng ; Li, Feng ; Liang, Ming ; Liu, Hao ; Lou, Zheng ; Luo, Wentao ; Tang, Jinlong ; Wang, Hairen ; Wang, Jian ; Xue, Yongquan ; Yao, Dazhi ; Zhang, Hong-fei ; Zhao, Wen ; Zheng, Xianzhong ; Zuo, Yingxi. The Astrophysical Journal, Volume 999, Issue 2, id.181 (2026). ["TTC: Transformer-based TDE Classifier for the Wide Field Survey Telescope (WFST)"](https://ui.adsabs.harvard.edu/abs/2026ApJ...999..181Z/abstract)
 
@@ -87,7 +83,7 @@ WFST Collaboration; Science China Physics, Mechanics & Astronomy, Volume 66, Iss
 [1] Lou, Z. ; Liang, M. ; Zheng, X. Z. ; Xian, H. ; Zhang, C. ; Zhu, Q.-F. Proceedings of the SPIE, Volume 11445, id. 114454A, 10 pp. (2020). ["Stray light analysis and control for the Wide Field Survey Telescope (WFST)"](https://ui.adsabs.harvard.edu/abs/2020SPIE11445E..4AL/abstract)
 
 
-## 会议论文
+## Conference proceedings
 
 [10] Zhang, Hong-fei ; Feng, Qi ; Wang, Jian ; Wang, Hui ; Zhang, Jun ; Zeng, Feng ; Wang, Zhi-yue ; Geng, Zhe ; Zhang, Yi-hao ; Zheng, Zhen-hao ; Liu, Zi-yi ; Jiang, Wei-jie ; Wei, Jiang-yuan ; Zhu, Zhe-yu ; Shi, Xing ; Zhu, Rui ; Chen, Long-hu ; Chen, Cheng ; Chen, Jin-ting ; Tang, Qi-jie ; Zhu, Jie ; Ge, Kun ; Gao, Jie ; Liu, Hao. Proceedings of the SPIE, Volume 13103, id. 131030V 7 pp. (2024). ["WFST primary mosaic CCD camera and its first light"](https://ui.adsabs.harvard.edu/abs/2024SPIE13103E..0VZ/abstract)
 
