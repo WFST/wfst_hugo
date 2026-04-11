@@ -16,7 +16,7 @@ scientific opportunities.
 ## Overview
 The wide field survey telescope (WFST), jointly developed by the University of Science and Technology of China and the Purple
 Mountain Observatory, is an image observation telescope. This machine is characterized by a 2.5-meter primary mirror and a
-prime-focus camera of a field of view (FOV) 7 square degrees filled with a 9K× 9K × 9K mosaic CCD detector. It is the most powerful
+prime-focus camera of a field of view (FOV) 7 square degrees filled with a 9 × 9K × 9K mosaic CCD detector. It is the most powerful
 time-domain survey equipment in the northern sky. With an atmospheric distortion corrector, its advanced optical design promises a
 homogeneous and distortion-free image quality that 80% energy of a point source falls within 0.4 arcsecond across the entire FOV. The
 image quality holds in the *u, g, r, i, z* and *w* bands.
@@ -25,7 +25,7 @@ image quality holds in the *u, g, r, i, z* and *w* bands.
 are either science breakthrough such as gravitational events or unknown in the current framework of astrophysics; 
 2. find and track one million solar system objects for a panchromatic view of the solar system and understand its kinematic
 evolution; discover planets or their moons in the Kuiper Belt and beyond; 
-3. provide high-precision astrometric and photometric catalogs of objects down to r <25 mag, allowing us to precisely map structures
+3. provide high-precision astrometric and photometric catalogs of objects down to *r* <25 mag, allowing us to precisely map structures
 of the Milky Way and the nearby universe."
 
 ![img](/images/whatisWFST.jpg)
