@@ -21,6 +21,69 @@ news:
   news_slider:
 
   # <!-- 请按照时间从新到旧依次向后排序 -->
+  - event: 'Mid-term Self-Evaluation Meeting of the National Key R&D Program Project "Frontier Scientific Research Based on the 2.5-meter Wide Field Survey Telescope" Held'
+    image: "/images/news/20260525/fig3.png"
+    caption: "2026-05-25"
+    details: 'From May 16 to 18, 2026, the mid-term self-evaluation meeting of the National Key R&D Program project "Frontier Scientific Research Based on the 2.5-meter Wide Field Survey Telescope" (PI: Professor Xu Kong, School of Physical Sciences, University of Science and Technology of China, USTC) was held in a hybrid format (both in-person and online) at the first-floor conference room of the Materials Science Research Building at USTC.'
+    button:
+      enable: true
+      label: "More"
+      link: "/news-and-meetings/news/20260525/"
+
+  - event: "Mozi Telescope Captures First Light of Type Ia Supernovae, Challenging Existing Explosion Models"
+    image: "/images/news/20260520/supernova_wfst.png"
+    caption: "2026-05-20"
+    details: "HEFEI, China — A research team led by Professor Ji-an Jiang from the Department of Astronomy, University of Science and Technology of China (USTC) has  eported notable progress in the study of Type Ia supernovae. Leveraging the wide-field survey capabilities of the Wide Field Survey Telescope (WFST), also known as the *Mozi* telescope, the team's findings were published this April in *Research in Astronomy and Astrophysics* and *The Astrophysical Journal*."
+    button:
+      enable: true
+      label: "More"
+      link: "/news-and-meetings/news/20260520/"
+
+  - event: "AI 'Hunter' Precisely Locks onto Black Hole's Feast: WFST Team Develops Tidal Disruption Event Classifier"
+    image: "/images/news/20260310/TDE_art.png"
+    caption: "2026-03-10"
+    details: "Recently, the research team led by Professor Xu Kong at the University of Science and Technology of China (USTC) has achieved a significant breakthrough in time-domain astronomical data mining. Focusing on the massive data from the Wide Field Survey Telescope (WFST), the team successfully developed an automatic classifier for Tidal Disruption Events (TDEs) based on a Transformer deep learning architecture — TTC. Acting like a tireless 'AI hunter,' TTC can accurately capture the spectacular moments of a star being devoured by a black hole amidst vast survey data. The results were published on March 10, 2026, in the international renowned astrophysical journal The Astrophysical Journal, under the title 'TTC: Transformer-based TDE Classifier for the Wide Field Survey Telescope (WFST)'. Ph.D. student Ranfang Zheng is the first and corresponding author; Ph.D. student Zheyu Lin and Professor Xu Kong are co-corresponding authors."
+    button:
+      enable: true
+      label: "More"
+      link: "/news-and-meetings/news/20260310/"
+
+  - event: "Second WFST Time-Domain Astronomy Summer School"
+    image: "/images/news/20250816/school9.png"
+    caption: "2025-08-16"
+    details: "The Second WFST Time-Domain Astronomy Summer School, co-organized by the Department of Astronomy at USTC and Guizhou University, was successfully concluded in Guiyang, Guizhou Province, from August 9 to 15, 2025."
+    button:
+      enable: true
+      label: "More"
+      link: "/news-and-meetings/news/20250816/"
+
+  - event: "2024 Annual Exchange Meeting of the National Key R&D Program Project 'Frontier Scientific Research Based on the 2.5-meter Wide Field Survey Telescope' Successfully Held"
+    image: "/images/news/20250316/reports.png"
+    caption: "2025-03-16"
+    details: "The 2024 Annual Exchange Meeting of the National Key R&D Program project 'Frontier Scientific Research Based on the 2.5-meter Wide Field Survey Telescope' (PI: Professor Xu Kong, USTC) was successfully held in Hefei from March 14-16, 2025."
+    button:
+      enable: true
+      label: "More"
+      link: "/news-and-meetings/news/20250316/"
+
+  - event: "First WFST Time-Domain Astronomy Summer School Concludes Successfully"
+    image: "/images/news/20240813/school8.png"
+    caption: "2024-08-13"
+    details: "The First WFST Time-Domain Astronomy Summer School, organized by the Department of Astronomy at USTC, was successfully held in Qianshan City, Anhui Province, from August 7 to 12, 2024."
+    button:
+      enable: true
+      label: "More"
+      link: "/news-and-meetings/news/20240813/"
+
+  - event: "First WFST Time-Domain Astronomy Summer School"
+    image: "/images/education/summer_school.jpg"
+    caption: "2024-06-25"
+    details: "The Department of Astronomy at USTC will host the 'First WFST Time-Domain Astronomy Summer School' starting August 7, 2024."
+    button:
+      enable: true
+      label: "More"
+      link: "/education-and-outreach/summer_school"
+
   - event: "WFST Discovered Two Near-Earth Asteroids"
     image: "/images/news/20231122/20231122.gif"
     caption: "2023-11-22"
