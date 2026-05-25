@@ -20,6 +20,15 @@ news:
   news_slider:
 
   # <!-- 请按照时间从新到旧依次向后排序 -->
+  - event: "国家重点研发计划“基于2.5米大视场巡天望远镜的前沿科学研究”项目中期自查会议举行"
+    image: "/images/news/20260525/fig3.png"
+    caption: "2026-05-25"
+    details: "2026年5月16-18日，由中国科学技术大学物理学院孔旭教授主持的国家重点研发计划“基于2.5米大视场巡天望远镜的前沿科学研究”项目中期自查会议，在中国科学技术大学物质科研楼一楼会议室以线上线下相结合的形式召开。"
+    button:
+      enable: true
+      label: "更多"
+      link: "/news-and-meetings/news/20260525/"
+
   - event: "墨子巡天望远镜批量捕获 Ia 型超新星极早期信号，挑战现有爆发模型"
     image: "/images/news/20260520/supernova_wfst.png"
     caption: "2026-05-20"

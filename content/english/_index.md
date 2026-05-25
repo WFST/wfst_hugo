@@ -21,6 +21,15 @@ news:
   news_slider:
 
   # <!-- 请按照时间从新到旧依次向后排序 -->
+  - event: 'Mid-term Self-Evaluation Meeting of the National Key R&D Program Project "Frontier Scientific Research Based on the 2.5-meter Wide Field Survey Telescope" Held'
+    image: "/images/news/20260525/fig3.png"
+    caption: "2026-05-25"
+    details: 'From May 16 to 18, 2026, the mid-term self-evaluation meeting of the National Key R&D Program project "Frontier Scientific Research Based on the 2.5-meter Wide Field Survey Telescope" (PI: Professor Xu Kong, School of Physical Sciences, University of Science and Technology of China, USTC) was held in a hybrid format (both in-person and online) at the first-floor conference room of the Materials Science Research Building at USTC.'
+    button:
+      enable: true
+      label: "More"
+      link: "/news-and-meetings/news/20260525/"
+
   - event: "Mozi Telescope Captures First Light of Type Ia Supernovae, Challenging Existing Explosion Models"
     image: "/images/news/20260520/supernova_wfst.png"
     caption: "2026-05-20"
